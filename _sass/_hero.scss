@@ -5,6 +5,13 @@
       -o-background-size: cover;
       background-size: cover;
     height: 100vh;
+    margin-bottom: 5em;
+    .logo-run {
+        max-width: 60px;
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
+    }
     .intro-text {
         position: absolute;
         top: 50%;
@@ -12,13 +19,13 @@
         transform: translate(-50%, -50%);
         text-align: center;
         text-transform: uppercase;
-        letter-spacing: .05em;
         a {
             color: #fff;
             font-weight: 100;
-            font-family: "proxima-nova", sans-serif;
+            font-family: "lato", sans-serif;
+            letter-spacing: .1em;
             margin: 0;
-            font-size: 40px;
+            font-size: 48px;
             float: none;
             display: inline;
             width: auto;
@@ -29,9 +36,10 @@
         p {
             color: #e0e0e0;
             font-weight: 200;
-            font-family: "proxima-nova", sans-serif;
+            font-family: "lato", sans-serif;
             margin: 0;
             font-size: 16px;
+            letter-spacing: .05em;
         }
     }
 }

@@ -146,10 +146,20 @@
 	.inner-wrap {
 		@include media($medium) {
 			@include span-columns(9);
+			@include shift(1.5);
 		}
 	}
 	.page-title {
-		@include fill-parent;
+		// @include fill-parent;
+		@include media($medium) {
+			@include span-columns(9);
+			@include shift(1.5);
+		}
+		h1 {
+			font-family: "lobster", cursive;
+			text-align: center;
+			@include font-size(48);
+		}
 	}
 	@at-root {
 		.page-content {

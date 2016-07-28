@@ -35,6 +35,28 @@ pre.highlight {
 	}
 }
 
+/* pre = Article intro text */
+
+pre.highlight {
+    overflow-x: visible;
+    border: none;
+    border-radius: 0;
+    text-align: center;
+    @include font-size(18);
+    display: block;
+    padding: 2em 12em;
+    padding-top: 0;
+    margin-top: 0;
+    &:hover {
+        border: none;
+    }
+    code {
+        font-family: "lato", cursive;
+        font-weight: 100;
+        white-space: normal;
+    }
+}
+
 .highlighttable {
 	tr:hover>td,
 	tr:hover>th {
