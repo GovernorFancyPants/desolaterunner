@@ -1,8 +1,8 @@
 ---
-published: false
+published: true
 layout: article
 categories: race-reports
-modified: 2016-07-28T20:28:11.000Z
+modified: {}
 tags:
   - ultra
   - Fjällräven Classic
