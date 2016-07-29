@@ -1,7 +1,7 @@
 ---
 layout: archive-alt
 permalink: /
-title: "Latest Posts"
+title: "Home"
 ---
 
 <div id="hero" class="hero-container">

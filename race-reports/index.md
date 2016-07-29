@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Sample Media Gallery"
+title: "Race reports"
 date: 2014-05-30T11:40:45-04:00
 modified:
 excerpt: "All of my race reports"

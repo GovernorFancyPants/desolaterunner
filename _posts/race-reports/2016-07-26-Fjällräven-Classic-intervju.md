@@ -9,8 +9,8 @@ introduction: "Den här intervjun gjordes av de företag jag jobbade på vid til
 excerpt: "Den här intervjun gjordes av de företag jag jobbade på vid tilfället. Jag hade precis gjort min första ultra och det här är mina tankar om hur det var."
 ads: false
 image:
-  feature: /images/IMG_20110805_185745.jpg
-  teaser: /images/IMG_20110805_185745.jpg
+  feature: /images/IMG_20110805_185745-1.jpg
+  teaser: /images/IMG_20110805_185745-teaser.jpg
 ---
 
 **Hur länge har du planerat för detta?**
