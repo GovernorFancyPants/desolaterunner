@@ -6,7 +6,7 @@ modified:
 excerpt: "All of my race reports"
 tags: []
 image:
-  feature: /images/IMG_20150709_235701.jpg
+  feature: /images/IMG_20150709_235701-1.jpg
   teaser:
 ---
 
