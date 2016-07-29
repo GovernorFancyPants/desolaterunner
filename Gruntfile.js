@@ -22,21 +22,21 @@ module.exports = function(grunt) {
           livereload: true
         }
       },
-      // js: {
-      //   files: [
-      //     '<%= jshint.all %>'
-      //   ],
-      //   tasks: ['jshint', 'surround'],
-      //   options: {
-      //     livereload: true
-      //   }
-      // },
+      js: {
+        files: [
+          '<%= jshint.all %>'
+        ],
+        tasks: ['jshint', 'uglify', 'surround'],
+        options: {
+          livereload: true
+        }
+      },
     },
     uglify: {
       dist: {
         options: {
           banner: '/*! <%= pkg.name %> - v<%= pkg.version %> - ' + '<%= grunt.template.today("yyyy-mm-dd") %> */',
-          compress: true,
+          compress: {},
           beautify: false,
           mangle: false
         },
@@ -105,7 +105,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-imgcompress');
   grunt.loadNpmTasks('grunt-surround');
 
-  // Register tasks
-  grunt.registerTask('scripts', ['watch']);
+  // Register loadNpmTasks
+  grunt.registerTask('scripts', ['watch', 'uglify']);
   grunt.registerTask('images', ['newer:imgcompress', 'newer:svgmin']);
 };
