@@ -27,17 +27,26 @@ title: "Latest Posts"
         <h5>What I do? I run.</h5>
     </div>
 </div>
-<div class="wrap">
-    <div class="latest-posts">
-        <h1>Running journal</h1>
-        <div class="tiles">
-        {% for post in site.posts %}
-        	{% include post-grid.html %}
-        {% endfor %}
-        </div><!-- /.tiles -->
-    </div>
 
-    <iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/9959817/latest-rides/59489f76cc075cedf0ba561f8e6a46c3029b39a4'></iframe>
+<!-- SHOWING LATEST POST -->
+<!-- https://gist.github.com/nimbupani/1421828 -->
 
-    <iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/9959817/activity-summary/59489f76cc075cedf0ba561f8e6a46c3029b39a4'></iframe>
-</div>
+
+<div class="archive-wrap">
+    <div class="page-content">
+        <div class="wrap">
+            <div class="latest-posts">
+                <h1>Running journal</h1>
+                <div class="tiles">
+                {% for post in site.posts limit:5 %}
+                	{% include post-grid.html %}
+                {% endfor %}
+                </div><!-- /.tiles -->
+            </div>
+
+            <!-- <iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/9959817/latest-rides/59489f76cc075cedf0ba561f8e6a46c3029b39a4'></iframe>
+
+            <iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/9959817/activity-summary/59489f76cc075cedf0ba561f8e6a46c3029b39a4'></iframe> -->
+        </div>
+    </div><!-- /.page-content -->
+</div><!-- /.archive-wrap -->
