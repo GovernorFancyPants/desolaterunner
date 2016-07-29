@@ -14,15 +14,23 @@ module.exports = function(grunt) {
       ]
     },
     watch: {
-      js: {
+      css: {
         files: [
-          '<%= jshint.all %>'
+          '_sass/*'
         ],
-        tasks: ['jshint', 'uglify', 'surround'],
         options: {
           livereload: true
         }
       },
+      // js: {
+      //   files: [
+      //     '<%= jshint.all %>'
+      //   ],
+      //   tasks: ['jshint', 'surround'],
+      //   options: {
+      //     livereload: true
+      //   }
+      // },
     },
     uglify: {
       dist: {
@@ -98,6 +106,6 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-surround');
 
   // Register tasks
-  grunt.registerTask('scripts', ['watch', 'uglify']);
+  grunt.registerTask('scripts', ['watch']);
   grunt.registerTask('images', ['newer:imgcompress', 'newer:svgmin']);
 };

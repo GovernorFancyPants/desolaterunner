@@ -75,15 +75,19 @@ blockquote {
     margin: 5em 0;
   padding-left: $gutter;
   padding-right: $gutter;
+  @include clearfix;
   // border-left: 6px solid #f1f1f1;
   p {
     // font-family: $alt-font;
     font-family: "lobster", serif;
-    @include font-size(48);
+    @include font-size(32);
     text-align: center;
-    padding-left: 3em;
-    padding-right: 3em;
-    line-height: 60px;
+    @include media($medium) {
+        @include span-columns(8);
+        @include shift(2);
+        @include font-size(48);
+    }
+    line-height: 1em;
   }
   cite {
     font-family: $base-font;

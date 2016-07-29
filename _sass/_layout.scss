@@ -158,7 +158,10 @@
 		h1 {
 			font-family: "lobster", cursive;
 			text-align: center;
-			@include font-size(48);
+			@include font-size(32);
+			@include media($medium) {
+				@include font-size(48);
+			}
 		}
 	}
 	@at-root {

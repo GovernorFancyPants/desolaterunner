@@ -2,8 +2,8 @@
 layout: article
 title: "Fjällräven Classic - intervju första ultran"
 categories: articles
-modified: 2016-06-01T16:28:11-04:00
-tags: [sample]
+modified: 2016-07-28T16:28:11-04:00
+tags: [ultra, Fjällräven Classic, race report, running]
 comments: true
 ads: false
 image:
@@ -11,7 +11,7 @@ image:
   teaser: /images/IMG_20110805_185745.jpg
 ---
 
-    Den här intervjun gjordes av de företag jag jobbade på vid tilfället. Jag hade precis gjort min första ultra och det här är mina tankar om hur det var.`
+    Den här intervjun gjordes av de företag jag jobbade på vid tilfället. Jag hade precis gjort min första ultra och det här är mina tankar om hur det var.
 
 **Hur länge har du planerat för detta?**
 
@@ -46,3 +46,5 @@ Plötsligt kommer jag ut på en asfalterad väg och ser den mest fantastiska sky
 Närmast står Hässelbyloppet på tur som årets sista lopp den 16 oktober. Det blir knepigt att ställa om från långdistans till kortdistans på så pass kort tid men det får gå an helt enkelt. Nästa stora mål är Swiss Alpine Davos K78 nästa sommar, ett ultramarathon på ca 80km med +/-2320 höjdmeter i schweiziska alperna.
 
 ![sample image](/images/IMG_20110807_093723.jpg "Tobias Johansson")
+
+<iframe height='405' width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/373262446/embed/7d1f85641ff2673e9186da0578da5c8f98d9534a'></iframe>
