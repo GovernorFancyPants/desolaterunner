@@ -1,5 +1,10 @@
 # Site navigation links
 
+- title: Home
+  url: /
+  excerpt:
+  image:
+
 - title: Journal
   url: /journal/
   excerpt:

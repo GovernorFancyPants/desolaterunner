@@ -1,15 +1,43 @@
 ---
-layout: archive
+layout: archive-alt
 permalink: /
 title: "Latest Posts"
 ---
 
-<div class="tiles">
-{% for post in site.posts %}
-	{% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
+<div id="hero" class="hero-container">
+  <div class="site-name">
+    <a href="{{ site.url }}/" class="site-title">{{ site.title }}</a>
+    <p>{{ site.description }}</p>
+  </div>
+  <a data-scroll href="#intro" class="next-section">
+      <span class="arrow"></span>
+  </a>
+</div>
 
-<iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/9959817/latest-rides/59489f76cc075cedf0ba561f8e6a46c3029b39a4'></iframe>
+<div id="intro" class="site-intro">
+    <div class="inner-wrapper">
+        <h1>Worth it in the long run</h1>
 
-<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/9959817/activity-summary/59489f76cc075cedf0ba561f8e6a46c3029b39a4'></iframe>
+        <p>I run. I run in the city. I run in the forest. I run in the mountains. I run because it does me good. I run because it is fun. I run because I feel free. But mostly I run because I want to.</p>
+
+        <p>I’ve been running for as long as I can remember, in different shapes and forms. I’ve run bigger competitions and smaller competitions, in the city and in the mountains but that's not where my driving force comes from. I do competitions because it's a fun test sometimes and to meet other runners, and that's great. But the feeling of just getting out there in the wild and let your legs and body make the decisions is the greatest feeling in the world.</p>
+
+        <p>The city can be wild too but the mountains is a different breed altogether, you have to fight the elements and heed to nature’s calling. If you're stubborn and refuse to listen you will be punished. Training, preparation and humility are the keys to a happy mind, body and legs.</p>
+
+        <h5>What I do? I run.</h5>
+    </div>
+</div>
+<div class="wrap">
+    <div class="latest-posts">
+        <h1>Running journal</h1>
+        <div class="tiles">
+        {% for post in site.posts %}
+        	{% include post-grid.html %}
+        {% endfor %}
+        </div><!-- /.tiles -->
+    </div>
+
+    <iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/9959817/latest-rides/59489f76cc075cedf0ba561f8e6a46c3029b39a4'></iframe>
+
+    <iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/9959817/activity-summary/59489f76cc075cedf0ba561f8e6a46c3029b39a4'></iframe>
+</div>

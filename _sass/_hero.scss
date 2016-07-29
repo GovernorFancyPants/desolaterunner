@@ -5,49 +5,67 @@
       -o-background-size: cover;
       background-size: cover;
     height: 100vh;
-    margin-bottom: 5em;
+    position: relative;
     .logo-run {
         max-width: 60px;
         position: relative;
         left: 50%;
         transform: translateX(-50%);
     }
-    .intro-text {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        text-align: center;
-        text-transform: uppercase;
-        width: 100%;
-        a {
-            color: #fff;
-            font-weight: 100;
-            font-family: "lato", sans-serif;
-            letter-spacing: .1em;
-            margin: 0;
-            @include font-size(24);
-            @include media($medium) {
-                @include font-size(48);
-                margin-bottom: .5rem;
-            }
-            margin-bottom: 0;
-            float: none;
-            display: inline-block;
-            width: auto;
-            height: auto;
-            padding: 0;
+
+}
+.site-name {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    text-transform: uppercase;
+    width: 100%;
+    a {
+        color: #fff;
+        font-weight: 100;
+        font-family: "lato", sans-serif;
+        letter-spacing: .1em;
+        margin: 0;
+        @include font-size(24);
+        @include media($medium) {
+            @include font-size(48);
+            margin-bottom: .5rem;
         }
-        p {
-            color: #e0e0e0;
-            font-weight: 200;
-            font-family: "lato", sans-serif;
-            margin: 0;
-            @include font-size(12);
-            @include media($medium) {
-                @include font-size(16);
-            }
-            letter-spacing: .05em;
+        margin-bottom: 0;
+        float: none;
+        display: inline-block;
+        width: auto;
+        height: auto;
+        padding: 0;
+    }
+    p {
+        color: #e0e0e0;
+        font-weight: 200;
+        font-family: "lato", sans-serif;
+        margin: 0;
+        @include font-size(12);
+        @include media($medium) {
+            @include font-size(16);
         }
+        letter-spacing: .05em;
+    }
+}
+.next-section {
+    position: absolute;
+    left: 50%;
+    bottom: 4em;
+    transform: translateX(-50%);
+    padding: 1em;
+    &:hover {
+        cursor: pointer;
+    }
+    .arrow {
+        clip-path: polygon(10% 40%, 0 50%, 50% 100%, 100% 50%, 90% 40%, 50% 80%);
+        width: 30px;
+        height: 30px;
+        background-color: #F7F2EE;
+        display: block;
     }
 }

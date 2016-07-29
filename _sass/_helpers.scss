@@ -4,6 +4,7 @@
 
 .wrap {
   @include outer-container;
+  padding: 0 $gutter;
 }
 
 .come-in {

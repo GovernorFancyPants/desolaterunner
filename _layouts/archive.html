@@ -6,6 +6,10 @@ layout: default
 	<div class="wrap">
 		{% if page.image.feature %}
 		<div class="page-feature">
+			<div class="site-title">
+			  <a href="{{ site.url }}/" class="site-title">{{ site.title }}</a>
+			  <p>{{ site.description }}</p>
+			</div>
 			<div class="page-image">
 				<img src="{{ site.url }}{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}">
 				{% if page.image.credit %}{% include image-credit.html %}{% endif %}

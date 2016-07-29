@@ -16,7 +16,7 @@ module.exports = function(grunt) {
     watch: {
       css: {
         files: [
-          '_sass/*'
+          ['_sass/*', 'sass']
         ],
         options: {
           livereload: true
@@ -26,7 +26,7 @@ module.exports = function(grunt) {
         files: [
           '<%= jshint.all %>'
         ],
-        tasks: ['jshint', 'uglify', 'surround'],
+        tasks: ['uglify', 'surround'],
         options: {
           livereload: true
         }
