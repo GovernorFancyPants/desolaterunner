@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Fjällräven Classic - intervju första ultran"
-categories: articles
+categories: race-reports
 modified: 2016-07-28T16:28:11-04:00
 tags: [ultra, Fjällräven Classic, race report, running]
 comments: true
