@@ -5,7 +5,8 @@ categories: race-reports
 modified: 2016-07-29T21:28:11-04:00
 tags: [ultra, Swedish Alpine Ultra, race report, running]
 comments: true
-excerpt:
+excerpt: "Race report från Swedish Alpine Ultra 2014. Den har färdigställts i efterhand eftersom den aldrig blev klar när den skrevs."
+introduction: "Race report från Swedish Alpine Ultra 2014. Den har färdigställts i efterhand eftersom den aldrig blev klar när den skrevs."
 ads: false
 image:
   feature: /images/20140705_223027-1.jpg
@@ -63,9 +64,4 @@ Jag ställde mig med raka ben i forsen – böja på benen var inte längre aktu
 
 Vad får man då betala för att vara dåligt tränad men samtidigt köra totallt slut på kroppen? För mig slutade det på tre dagars illamående följt av ytterliggare en till två veckor av smärta i lår, knän och vader, ytterliggare en vecka av stapplande försök till att ta upp träningen igen och nu, efter mer än en månad sedan loppet växlar träningspassen mellan att nästan vara tillbaka där jag var innan loppet och vara helt bedrövliga. Känner även av inflammationer i fötterna till och från. Men, jag ska dock säga att jag förväntade mig att det skulle vara värre.
 
-
-![sample image](/images/IMG_20110807_093723.jpg "Tobias Johansson")
-
-<div class="strava-container">
-<iframe height='405' width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/373262446/embed/7d1f85641ff2673e9186da0578da5c8f98d9534a'></iframe>
-</div>
+<iframe height='405' width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/373236828/embed/0e3088a5d3fccebc42b6c03b8101a5aba84b812a'></iframe>
