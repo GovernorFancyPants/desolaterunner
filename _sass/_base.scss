@@ -135,13 +135,28 @@ li code {
 }
 
 #google_translate_element {
-    float: right;
+    float: left;
+    padding-left: 10px;
+    @include media($medium) {
+        float: right;
+    }
 }
 .goog-te-gadget-simple {
     border: none!important;
     padding: 0!important;
     line-height: 0!important;
+    background: #fafafa!important;
+    border-radius: 3px!important;
+    img {
+        margin: 0;
+        margin-left: 3px;
+    }
 }
+
+.goog-te-gadget {
+    line-height: 0;
+}
+
 .goog-te-gadget-simple .goog-te-menu-value {
     @include font-size(10);
     margin-bottom: 0;
