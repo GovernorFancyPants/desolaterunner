@@ -106,8 +106,11 @@
   }
   ul {
     margin: 0 10%;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
     @include media($large) {
-      margin-right: 20%;
+      // margin-right: 20%;
     }
   }
   ul,
@@ -146,12 +149,13 @@
     }
     .title {
       display: block;
-      margin-left: 60px;
+      text-align: center;
+      // margin-left: 60px;
       font-family: $alt-font;
       @include font-size(24,no);
       font-weight: 700;
       @include media($small) {
-        margin-left: 170px;
+        // margin-left: 170px;
         @include font-size(32,no);
       }
     }
