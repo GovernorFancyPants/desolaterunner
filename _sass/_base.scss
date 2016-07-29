@@ -134,6 +134,19 @@ li code {
     padding-right: 1px;
 }
 
+#google_translate_element {
+    float: right;
+}
+.goog-te-gadget-simple {
+    border: none!important;
+    padding: 0!important;
+    line-height: 0!important;
+}
+.goog-te-gadget-simple .goog-te-menu-value {
+    @include font-size(10);
+    margin-bottom: 0;
+}
+
 /*
    Media and embeds
    ========================================================================== */

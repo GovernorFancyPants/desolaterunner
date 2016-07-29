@@ -3,11 +3,16 @@
     <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
       <a href="{{ site.url }}" itemprop="url">
         <span itemprop="title">Home</span>
-      </a> › 
+      </a> ›
     <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
       <a href="{{ site.url }}/{{ page.categories | first }}/" itemprop="url">
         <span itemprop="title">{{ page.categories | first | replace: '-',' ' | capitalize }}</span>
       </a>
     </span>
+    <div id="google_translate_element"></div><script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+    }
+    </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
   </nav><!-- /.breadcrumbs -->
 {% endif %}
