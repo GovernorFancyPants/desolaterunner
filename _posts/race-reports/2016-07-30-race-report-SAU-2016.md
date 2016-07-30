@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: article
 categories: race-reports
 modified: null
@@ -24,3 +24,4 @@ The day before I went for an easy test run along Kungsleden but almost emediatel
 **Race day**
 
 ![Kebnekaises toppar]({{site.baseurl}}/images/IMG_0948-1.jpg)
+![teaser]({{site.baseurl}}/images/IMG_0948-teaser.jpg)
