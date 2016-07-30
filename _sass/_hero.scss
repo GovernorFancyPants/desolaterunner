@@ -26,10 +26,11 @@
     text-transform: uppercase;
     width: 100%;
     .page-feature & {
-        top: 1em;
-        left: 1em;
+        top: $gutter;
+        left: $gutter;
         transform: translate(0,0);
         text-align: left;
+        width: auto;
         a {
             @include font-size(14);
         }

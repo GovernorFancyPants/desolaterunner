@@ -281,16 +281,31 @@
 // page header
 .page-feature {
 	@include fill-parent;
+	overflow: hidden;
 	// expand image to cover full width of header
 	img {
 		width: 100%;
+		vertical-align: middle;
+		position: absolute;
+	    top: 50%;
+	    transform: translateY(-50%);
 	}
 }
 // make image flush with edges on small screens
 .page-image {
 	position: relative;
-	margin-left: -1 * $gutter;
-	margin-right: -1 * $gutter;
+	// margin-left: -1 * $gutter;
+	// margin-right: -1 * $gutter;
+	position: relative;
+	max-height: 300px;
+	overflow: hidden;
+	padding-top: 10em;
+	@include media($medium) {
+		padding-top: 20em;
+	}
+	@include media($large) {
+		padding-top: 30em;
+	}
 	// feature image caption
 	.image-credit {
 		position: absolute;

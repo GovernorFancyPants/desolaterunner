@@ -3,7 +3,7 @@
 title: "Desolate Runner"
 description: "Worth it in the long run"
 logo: # 120x120 px default image used for Twitter summary card
-teaser: /images/hero-img-1.jpg # 400x250 px default teaser image used in image archive grid
+teaser: hero-img-teaser.jpg # 400x250 px default teaser image used in image archive grid
 locale: en
 url: "http://desolaterunner.com" # comment out when developing locally
 feed:
@@ -37,6 +37,21 @@ owner:
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname: desolaterunner
 
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email: info@desolaterunner.com
+  facebook:
+  flickr:
+  github:
+  instagram: desolaterunner
+  linkedin:
+  pinterest:
+  rss: RSS
+  twitter:
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
 
 include:
   - .htaccess

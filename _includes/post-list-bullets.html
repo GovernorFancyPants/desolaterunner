@@ -2,7 +2,10 @@
 	{% for post in site.posts %}
 	<div class="bullet two-col-bullet">
 		<div class="bullet-icon">
-			<a href="{{ site.url }}{{ post.url }}"><img src="{{ site.url }}{{ post.image.teaser }}" alt=""></a>
+			<a href="{{ site.url }}{{ post.url }}">
+				{% if post.image.teaser %}<img src="{{ site.url }}{{ post.image.teaser }}" alt="teaser" itemprop="image">
+				    {% else %}<img src="{{ site.url }}/images/{{ site.teaser }}" alt="teaser" itemprop="image">{% endif %}</a>
+			</a>
 		</div><!-- /.bullet-icon -->
 		<div class="bullet-content">
 			<h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>

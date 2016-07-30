@@ -21,6 +21,8 @@ Jag har haft det i tankarna en längre tid och hade först planer att springa f�
 
 Man springer mycket och långt, äter rätt i så stor utsträckning det går och läser på mycket. Det gäller att ha hyfsad koll på terrängen, vilka utmaningar som kan dyka upp längs vägen och hur mycket man behöver få i sig under de timmar man är ute. Packningen är en annan vital del, där det finns vissa regler på saker man måste ha med sig även om de inte kommer att användas. Jag fick ner min packning till ungefär 6,5kg totalt, vilket krävde en del möda men det visade sig vara väl värt det. Jag hade inte så många mil i benen som jag skulle önskat innan jag drog iväg. På grund av skador och sjukdom hade jag endast fått ihop 600km totalt under detta år. Det är aningen lite för ett lopp på 110km, men det gick trots allt bra ändå.
 
+![sample image](/images/IMG_20110805_185745-1.jpg "Packning")
+
 **Kan vem som helst klara av detta eller måste man ha grundfysik som en *iron man*?**
 
 Självklart kan vem som helst göra det. Vi är alla födda med kroppar som är specifikt utformade för att springa, där vissa har anlag för lång distans och andra för kort men de flesta ligger någonstans mitt emellan. Sedan har många valt att strunta i detta och antingen aktivera sig på annat sätt eller inte alls. Det krävs inte mycket mer än att faktiskt sätta upp ett mål med delmål på vägen. Med en stor del beslutsamhet och vilja kan vem som helst fixa det.
