@@ -23,7 +23,7 @@ Efter en något försenad tågresa och en gastkramande taxiresa anlände vi till
 
 ![kebnekaise](/images/2014-07-04 18.45.16-1.jpg "Kebnekaise från Nikkaloukta")
 
-**Dagen D**
+**Starten**
 
 Ingen förbättring hade skett i hälsenan, samma smärta när jag gick och än värre när jag försökte jogga. Men jag hade redan bestämt mig, när jag ändå var här, med bars, gels, nyinköpt vindjacka, som leverarats av Svante samma dag, kunde jag inte motstå frestelsen att starta. Frukosten intogs och förväntansfulla deltagare diskutera vad som komma skulle under det närmsta dygnet. Jag hade några tomma fickor och passade, efter frukosten, på att fylla dessa med diverse smågodis, som jag tänkte skulle fungera bra som belöning när vissa målstolpar hade nåtts.
 
@@ -64,6 +64,9 @@ Jag ställde mig med raka ben i forsen – böja på benen var inte längre aktu
 
 **Abiskojaure - Abisko Turiststation**
 
+Den här delen skrev jag aldrig klart tillsammans med ovan text. Kanske för att jag inte kom ihåg alltför mycket och gör nog inte fortfarande men jag ska göra ett försök att sammanfatta sista sträckan.
+
+Nu krampade allt, baksida lår, framsida lår, vader. Det gjorde ont att gå, ont att springa men ondast gjorde det att stå still så det var bara att röra sig framåt. Några kilometer till Abiskojaure och sedan ett femotontal till in mote turiststationen. När vi närmar oss Abiskojaure springer vi över hängbron och fortsätter en bit till. När vi kommer fram till en stuga och ser en stugvärd inser vi snabbt att vi gjort det man inte skulle göra, sprungit till STF-stugan i Abiskojaure. Vi vänder tillbaka och sätter fart mot turiststationen igen så fort det bara går. Det är svårt att springa nu, vi växlar springande med gång. Springer där det är fint, spänger och platt mark, och så länge det går innan benen protesterar för mycket. Det blir mycket gång nu och det går väldigt långsamt. Efter en evighet kommer vi till backen jag minns som hemsk från Fjällräven Classic. Den är brant men mycket kortare än jag minns den, den är faktiskt inte farlig alls. Resten av vägen kommer jag inte ihåg mycket av förutom när vi äntligen ser portalen, tar oss under bron och tillsammans går jag och Sten hand i hand in i mål på 13.27.56, en delad första plats och ett nytt banrekord. Jag förbättrade även min tid från Fjällräven Classic med 3 timmar.
 
 ![målgång](/images/20140705_223027-1.jpg "Målgångsfoto")
 
