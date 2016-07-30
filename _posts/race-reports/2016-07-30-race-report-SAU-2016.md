@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: article
 categories: race-reports
 modified: null
@@ -12,8 +12,8 @@ comments: true
 excerpt: null
 introduction: null
 image:
-  feature: /images/race-reports/IMG_0948-1.jpg
-  teaser: /images/race-reports/IMG_0948-teaser.jpg
+  feature: /images/IMG_0948-1.jpg
+  teaser: /images/IMG_0948-teaser.jpg
 ---
 ## SAU - Swedish Alpine Ultra 107k 2016
 
@@ -23,4 +23,4 @@ The day before I went for an easy test run along Kungsleden but almost emediatel
 
 **Race day**
 
-![Kebnekaises toppar]({{site.baseurl}}/images/race-reports/IMG_0948-1.jpg)
+![Kebnekaises toppar]({{site.baseurl}}/images/IMG_0948-1.jpg)
