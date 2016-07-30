@@ -304,12 +304,12 @@
 	position: relative;
 	max-height: 300px;
 	overflow: hidden;
-	padding-top: 10em;
+	padding-top: 11em;
 	@include media($medium) {
-		padding-top: 20em;
+		padding-top: 32em;
 	}
 	@include media($large) {
-		padding-top: 30em;
+		padding-top: 40em;
 	}
 	// feature image caption
 	.image-credit {

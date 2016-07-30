@@ -21,7 +21,7 @@ Jag har haft det i tankarna en längre tid och hade först planer att springa f�
 
 Man springer mycket och långt, äter rätt i så stor utsträckning det går och läser på mycket. Det gäller att ha hyfsad koll på terrängen, vilka utmaningar som kan dyka upp längs vägen och hur mycket man behöver få i sig under de timmar man är ute. Packningen är en annan vital del, där det finns vissa regler på saker man måste ha med sig även om de inte kommer att användas. Jag fick ner min packning till ungefär 6,5kg totalt, vilket krävde en del möda men det visade sig vara väl värt det. Jag hade inte så många mil i benen som jag skulle önskat innan jag drog iväg. På grund av skador och sjukdom hade jag endast fått ihop 600km totalt under detta år. Det är aningen lite för ett lopp på 110km, men det gick trots allt bra ändå.
 
-![sample image](/images/IMG_20110805_185745-1.jpg "Packning")
+![packning](/images/IMG_20110805_185745-1.jpg "Packning")
 
 **Kan vem som helst klara av detta eller måste man ha grundfysik som en *iron man*?**
 
@@ -47,8 +47,8 @@ Plötsligt kommer jag ut på en asfalterad väg och ser den mest fantastiska sky
 
 Närmast står Hässelbyloppet på tur som årets sista lopp den 16 oktober. Det blir knepigt att ställa om från långdistans till kortdistans på så pass kort tid men det får gå an helt enkelt. Nästa stora mål är Swiss Alpine Davos K78 nästa sommar, ett ultramarathon på ca 80km med +/-2320 höjdmeter i schweiziska alperna.
 
-![sample image](/images/IMG_20110807_093723.jpg "Tobias Johansson")
+![tobias johansson](/images/IMG_20110807_093723.jpg "Tobias Johansson")
 
 <div class="strava-container">
-<iframe height='405' width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/373262446/embed/7d1f85641ff2673e9186da0578da5c8f98d9534a'></iframe>
+    <iframe height='405' width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/373262446/embed/7d1f85641ff2673e9186da0578da5c8f98d9534a'></iframe>
 </div>

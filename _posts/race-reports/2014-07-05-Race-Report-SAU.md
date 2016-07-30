@@ -9,8 +9,8 @@ excerpt: "Race report från Swedish Alpine Ultra 2014. Den har färdigställts i
 introduction: "Race report från Swedish Alpine Ultra 2014. Den har färdigställts i efterhand eftersom den aldrig blev klar när den skrevs."
 ads: false
 image:
-  feature: /images/20140705_223027-1.jpg
-  teaser: /images/20140705_223027-teaser.jpg
+  feature: /images/2014-07-04 18.45.16-1.jpg
+  teaser: /images/2014-07-04 18.45.16-teaser.jpg
 ---
 
 Med stor tveksamhet anmälde jag mig till Swedish Alpine Ultra i höstas. Jag hade tidigare sprungit Fjällräven Classic på drygt 16 timmar och svor på att aldrig mer springa den sträckan när jag stapplade in i mål. Men minnet är, som de säger, kort på både gott och ont, och efter lite påtryckningar av min bror, Jonas, som också skulle springa, skickade jag iväg min anmälan. Tiden gick, med skador och sjukdom om vartannat och plötsligt var det bara två månader kvar och jag hade fått ihop knappa 10 sporadiska mil under året. Jag var när på att ge upp redan där, vad tjänade det till när jag inte fått till något riktigt träningsflyt och tiden rusade fram. Men jag höll mig från att göra det, för något inom mig sa att det var möjligt att slå tiden jag gjorde på Fjällräven.
@@ -20,6 +20,8 @@ Jag började få flyt i träningen och kunde komma upp i 7-8 mil per vecka, sjuk
 **Dagen före**
 
 Efter en något försenad tågresa och en gastkramande taxiresa anlände vi tillslut i Nikkaloukta. Middag intogs, loppgenomgång genomfördes, foton togs på Kebnekaise och närliggande berg som smög sig upp genom ett tjockt molntäcke, ryggsäckar packades, historier om forna lopp i moll och dur utbyttes, ryggsäckar packades om och tillslut var natten här och gryningen tillika starten ekade i nervösa kroppar.
+
+![kebnekaise](/images/2014-07-04 18.45.16-1.jpg "Kebnekaise från Nikkaloukta")
 
 **Dagen D**
 
@@ -60,8 +62,15 @@ Sten hade börjat räkna på tiden och trodde att vi kunde komma under 14 timmar
 
 Jag ställde mig med raka ben i forsen – böja på benen var inte längre aktuellt – och slängde det iskalla vattnet över mig, kravlade mig upp och kände hur framsida lår bultade. Jag gjorde ett halvmant försk att sträcka ut dem, varpå mina vader direkt började krampa, dum idé.
 
+**Abiskojaure - Abisko Turiststation**
+
+
+![målgång](/images/20140705_223027-1.jpg "Målgångsfoto")
+
 **Notan**
 
 Vad får man då betala för att vara dåligt tränad men samtidigt köra totallt slut på kroppen? För mig slutade det på tre dagars illamående följt av ytterliggare en till två veckor av smärta i lår, knän och vader, ytterliggare en vecka av stapplande försök till att ta upp träningen igen och nu, efter mer än en månad sedan loppet växlar träningspassen mellan att nästan vara tillbaka där jag var innan loppet och vara helt bedrövliga. Känner även av inflammationer i fötterna till och från. Men, jag ska dock säga att jag förväntade mig att det skulle vara värre.
 
-<iframe height='405' width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/373236828/embed/0e3088a5d3fccebc42b6c03b8101a5aba84b812a'></iframe>
+<div class="strava-container">
+    <iframe height='405' width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/373236828/embed/0e3088a5d3fccebc42b6c03b8101a5aba84b812a'></iframe>
+</div>
