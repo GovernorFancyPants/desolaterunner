@@ -149,11 +149,16 @@
 			@include shift(1.5);
 		}
 	}
+	.page-title-wrapper {
+		width: 100%;
+		@include clearfix;
+	}
 	.page-title {
 		// @include fill-parent;
 		@include media($medium) {
 			@include span-columns(9);
 			@include shift(1.5);
+			@include omega;
 		}
 		h1 {
 			font-family: "lobster", cursive;

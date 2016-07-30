@@ -3,7 +3,6 @@ layout: archive
 title: "Race reports"
 date: 2014-05-30T11:40:45-04:00
 modified:
-excerpt: "All of my race reports"
 tags: []
 image:
   feature: /images/IMG_20150709_235701-1.jpg
