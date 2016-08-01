@@ -3,7 +3,11 @@ published: false
 layout: article
 categories: race-reports
 modified: null
-tags: [ultra, Swedish Alpine Ultra, race report, running]
+tags:
+  - ultra
+  - Swedish Alpine Ultra
+  - race report
+  - running
 comments: true
 excerpt: null
 introduction: null
@@ -25,3 +29,7 @@ I woke up early on race day, hoping the breakfast would be served a little earli
 When I got to the start a lot of excited runners were already there. Ready to get out on the trail. After a group photo and some chatter runners amongst it was time to start. When Roland shouted it was time to go, a small group of runners took off in a staggering tempo. I knew I wanted to be among the firsts so I ran right behind them. Even if I had to step out I wanted to get a good start. I felt good in the beginning but I knew I couldn't keep up with this tempo for long. After I while I noticed it was only four of us left my brother Jonas, Sten, another guy and me. That's where I started slow down, I knew they weren't going to keep up that kind of pace, or at least I hoped so, and I thought I had gotten a bit of space to the runners behind me. So settled for a bit more comfortable pace but after just a kilometer or two I saw someone ahead of me
 
 ![Kebnekaises toppar]({{site.baseurl}}/images/IMG_0948-1.jpg)
+
+<div class="strava-container">
+	<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/644189289/embed/7a8184af4de88cc66e14eb51eee4e32bfab0bae2'></iframe>
+</div>
