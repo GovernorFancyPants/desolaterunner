@@ -7,6 +7,15 @@ $(document).ready(function(){
   });
 });
 
+$(document).ready(function() {
+    var iframes = document.getElementsByTagName('iframe');
+    for (var i = 0; i != iframes.length; ++i) {
+        if(iframes[i].src.substr(0,22) === 'https://www.strava.com') {
+            $( iframes[i] ).wrap( "<div class='strava-container'></div>" );
+        }
+    }
+});
+
 // Off Canvas Sliding
 $(document).ready(function(){
   // Menu button click

@@ -49,6 +49,4 @@ Närmast står Hässelbyloppet på tur som årets sista lopp den 16 oktober. Det
 
 ![tobias johansson](/images/IMG_20110807_093723.jpg "Tobias Johansson")
 
-<div class="strava-container">
-    <iframe height='405' width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/373262446/embed/7d1f85641ff2673e9186da0578da5c8f98d9534a'></iframe>
-</div>
+<iframe height='405' width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/373262446/embed/7d1f85641ff2673e9186da0578da5c8f98d9534a'></iframe>

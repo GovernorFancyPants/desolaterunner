@@ -30,6 +30,4 @@ When I got to the start a lot of excited runners were already there. Ready to ge
 
 ![Kebnekaises toppar]({{site.baseurl}}/images/IMG_0948-1.jpg)
 
-<div class="strava-container">
-	<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/644189289/embed/7a8184af4de88cc66e14eb51eee4e32bfab0bae2'></iframe>
-</div>
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/644189289/embed/7a8184af4de88cc66e14eb51eee4e32bfab0bae2'></iframe>

@@ -74,6 +74,4 @@ Nu krampade allt, baksida lår, framsida lår, vader. Det gjorde ont att gå, on
 
 Vad får man då betala för att vara dåligt tränad men samtidigt köra totallt slut på kroppen? För mig slutade det på tre dagars illamående följt av ytterliggare en till två veckor av smärta i lår, knän och vader, ytterliggare en vecka av stapplande försök till att ta upp träningen igen och nu, efter mer än en månad sedan loppet växlar träningspassen mellan att nästan vara tillbaka där jag var innan loppet och vara helt bedrövliga. Känner även av inflammationer i fötterna till och från. Men, jag ska dock säga att jag förväntade mig att det skulle vara värre.
 
-<div class="strava-container">
-    <iframe height='405' width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/373236828/embed/0e3088a5d3fccebc42b6c03b8101a5aba84b812a'></iframe>
-</div>
+<iframe height='405' width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/373236828/embed/0e3088a5d3fccebc42b6c03b8101a5aba84b812a'></iframe>
