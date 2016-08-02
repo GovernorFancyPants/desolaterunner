@@ -24,7 +24,7 @@ I had been running all day because of a course I was taking to become a certifie
 
 As it turned out, in my recently awoken state of mind I had put on way to much clothes, it was hot, but I didn't have time to change clothes, I'd just have to make due. First lap went really well, I could keep good pace and my legs felt fine. The only problem I had at the moment was too much clothes, I was sweating a lot but it didn't bother me too much.
 
-> "Everything went fine until just before I was done with the second lap where my legs went numb.""
+> "Everything went fine until just before I was done with the second lap where my legs went numb."
 
 ## Second lap
 
