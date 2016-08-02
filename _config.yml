@@ -18,6 +18,8 @@ permalink: /:categories/:title/
 kramdown:
   toc_levels: 1..2
 highlighter: rouge
+feed:
+  path: atom.xml
 gems:
   - jekyll-sitemap
   - jekyll-gist
