@@ -34,7 +34,15 @@ After a while I noticed it was only four of us left my brother Jonas, Sten, anot
 
 ## Kebnekaise
 
-Halfway to Keb I meet my brother who have decided to quit the race because of a previous injury. I tell him I'll probably join him soon if I can't manage to eat something. He wishes me luck and we move on in different directions. I keep going and feel a little better, most likely because of the slower pace. When I have just a couple of kilometers left to Keb I try to eat a gel and to my suprise it goed well.
+Halfway to Keb I meet my brother who have decided to quit the race because of a previous injury. I tell him I'll probably join him soon if I can't manage to eat something. He wishes me luck and we move on in different directions. I keep going and feel a little better, most likely because of the slower pace. When I have just a couple of kilometers left to Keb I try to eat a gel and to my suprise it goes well. This gives me hope and I decide to go on with the competition. This is a bigger decision than it might seem because after Keb there is little point to go back, you might as well continue on.
+
+When I arrive at the Keb base station I notice a runner in the distance and I know it's Sten. I check my watch to note the time so I can see approximately how far ahead of me he is and I start the chase.
+
+## Catching up
+
+He is about 2-3 minutes ahead of me and I figure he's slowed down a bit so I try to catch him as fast as I can. I figure it's better to go hard and have contact fairly soon and then slow down than to have to chase for a long time.
+
+
 
 ![Kebnekaises toppar]({{site.baseurl}}/images/IMG_0948-1.jpg)
 
