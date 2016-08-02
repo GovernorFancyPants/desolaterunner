@@ -30,11 +30,11 @@ I woke up early on race day, hoping the breakfast would be served a little earli
 
 When I got to the start a lot of excited runners were already there. Ready to get out on the trail. After a group photo and some chatter runners amongst, it was time to start. When Roland shouted it was time to go, a small group of runners took off in a staggering pace. I knew I wanted to be among the firsts so I ran right behind them. Even if I had to quit I wanted to get a good start. I felt good in the beginning but I knew I couldn't keep up with this tempo for long. My stomach started to act up almost right away and I felt sick as soon as I thought about eating something. I decided right away, if I couldn't get something in my stomach before Kebnekaise I would have to quit the race.
 
-After a while I noticed it was only four of us left my brother Jonas, Sten, another guy and me. That's where I started slow down, I knew they weren't going to keep up that kind of pace, or at least I hoped so, and I thought I had gotten a bit of space to the runners behind me. So settled for a bit more comfortable pace but after just a kilometer or two I saw someone ahead of me it wasn't my brother nor was it Sten but I felt good catching someone. We ran together for a little while, chatting, but soon I felt I needed to push on. I didn't eant to leave to much of a gap to the front runners.
+After a while I noticed it was only four of us left my brother Jonas, Sten, another guy and me. That's where I started slow down, I knew they weren't going to keep up that kind of pace, or at least I hoped so, and I thought I had gotten a bit of space to the runners behind me. So settled for a bit more comfortable pace but after just a kilometer or two I saw someone ahead of me it wasn't my brother nor was it Sten but I felt good catching someone. We ran together for a little while, chatting, but soon I felt I needed to push on. I didn't want to leave to much of a gap to the front runners.
 
 ## Kebnekaise
 
-With a 
+Halfway to Keb I meet my brother who have decided to quit the race because of a previous injury. I tell him I'll probably join him soon if I can't manage to eat something. He wishes me luck and we move on in different directions. I keep going and feel a little better, most likely because of the slower pace. When I have just a couple of kilometers left to Keb I try to eat a gel and to my suprise it goed well.
 
 ![Kebnekaises toppar]({{site.baseurl}}/images/IMG_0948-1.jpg)
 
