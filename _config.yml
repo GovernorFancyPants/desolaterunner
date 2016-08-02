@@ -20,6 +20,7 @@ kramdown:
 highlighter: rouge
 feed:
   path: atom.xml
+permalink: /404.html
 gems:
   - jekyll-sitemap
   - jekyll-gist
