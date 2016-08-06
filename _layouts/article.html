@@ -24,6 +24,12 @@ layout: default
 		<div class="inner-wrap">
 			<div id="content" class="page-content" itemprop="articleBody">
 				{{ content }}
+				<ul class="tags-display">
+				  {% for tags in page.tags %}
+				    <li>
+				    <a href="{{ site.url }}/journal/tags/#{{ tags }}">{{ tags }}</a></li>
+				  {% endfor %}
+				</ul>
 				<hr />
 				<footer class="page-footer">
 					{% if page.categories %}{% include page-author.html %}{% endif %}
