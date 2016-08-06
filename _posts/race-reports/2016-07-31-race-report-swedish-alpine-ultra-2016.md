@@ -9,14 +9,14 @@ tags:
   - race report
   - running
 comments: true
-excerpt: "SAU - Swedish Alpine Ultra 107k 2016"
-introduction: "SAU - Swedish Alpine Ultra 107k 2016"
+excerpt: SAU - Swedish Alpine Ultra 107k 2016
+introduction: SAU - Swedish Alpine Ultra 107k 2016
 image:
   feature: /images/IMG_0948-1.jpg
   teaser: /images/IMG_0948-teaser.jpg
 ---
 
-Let's start from the beginning. I've had, not a terrible, but not a great pre-season heading upp to SAU. I did Ursvik Ultra in an ok time, not as well as I'd hoped but still ok. You can read a short report on that race [here](/race-report-ursvik-ultra-2016). But after that I couldn't really get into running again, something was always aching or I'd get a cold. So when it was finally time for SAU, I hadn't gotten the milage I wanted and I didn't feel I was in the best shape for this race. As an extra icing on the cake, I had, just two days before the race, cut the tip of my thumb off whilst chopping an onion. Exactly what you need before a race in the mountains with no aid stations, exposed wounds.
+Let's start from the beginning. I've had, not a terrible, but not a great pre-season heading upp to SAU. I did Ursvik Ultra in an ok time, not as well as I'd hoped but still ok. You can read a short report on that race [here]({{site.baseurl}}/race-report/race-report-ursvik-ultra-2016). But after that I couldn't really get into running again, something was always aching or I'd get a cold. So when it was finally time for SAU, I hadn't gotten the milage I wanted and I didn't feel I was in the best shape for this race. As an extra icing on the cake, I had, just two days before the race, cut the tip of my thumb off whilst chopping an onion. Exactly what you need before a race in the mountains with no aid stations, exposed wounds.
 
 The day before I went for an easy test run along Kungsleden but almost immediately I felt something was wrong, I got dizzy and really tired just after a couple of kilometers. I turned back and felt extremely hungry even though I had been eating well all day and just finished off a plate of fish and potatoes. I started to doubt I could do the race when I felt like I did. 107 kilometers in the mountains is not something you want to do if you're not feeling 100%.
 
@@ -87,5 +87,3 @@ I sat down inside the lobby and had some blueberry soup, and a banana I believe.
 I'd like to thank Roland, all the functionaries and all the other runners who makes this incredible race possible. See you all next year!
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/644189289/embed/7a8184af4de88cc66e14eb51eee4e32bfab0bae2'></iframe>
-
-
