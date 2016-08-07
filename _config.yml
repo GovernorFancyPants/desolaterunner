@@ -4,7 +4,7 @@ title: "Desolate Runner"
 description: "Worth it in the long run"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: hero-img-teaser.jpg # 400x250 px default teaser image used in image archive grid
-locale: en
+locale: en_US
 url: "http://desolaterunner.com" # comment out when developing locally
 feed:
   path: atom.xml
