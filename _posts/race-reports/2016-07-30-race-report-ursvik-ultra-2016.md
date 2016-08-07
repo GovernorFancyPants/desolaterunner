@@ -3,6 +3,7 @@ published: true
 layout: article
 categories: race-reports
 modified: null
+share: false
 tags:
   - ultra
   - Ursvik Ultra

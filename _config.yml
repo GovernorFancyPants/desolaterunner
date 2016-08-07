@@ -25,6 +25,8 @@ gems:
   - jekyll-gist
   - jekyll-feed
 
+#Facebook Sharing
+facebook_app_id: 0011038251882641
 
 # Site owner
 owner:
