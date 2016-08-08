@@ -129,6 +129,13 @@
 		(youtube, $youtube-color);
 	@extend .btn-inverse;
 	color: $text-color !important;
+	line-height: 0;
+	padding: 10px;
+	i.fa {
+		width: 18px;
+		text-align: center;
+		padding: 2px 0;
+	}
 	&:visited,
 	&:active {
 		color: $text-color;
@@ -136,7 +143,7 @@
 	border: 1px solid $border-color !important;
 	@each $socialnetwork, $color in $social {
 		i.fa-#{$socialnetwork} {
-	    color: $color;
+	    // color: $color;
     }
 	}
 	&:hover {
