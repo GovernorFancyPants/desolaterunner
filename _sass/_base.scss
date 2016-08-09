@@ -178,6 +178,7 @@ li code {
 
 #google_translate_element {
     float: left;
+    margin-left: 10px;
     @include media($medium) {
         float: right;
     }
