@@ -2,8 +2,9 @@ ul.tags-display {
     list-style-type: none;
     @include clearfix;
     padding: 0;
+    text-align: center;
     li {
-        float: left;
+        display: inline-block;
     }
     li a {
         padding: .3em .7em;

@@ -44,8 +44,8 @@ pre.highlight {
     width: 100%;
     @include clearfix;
     p {
-        font-family: "Raleway", cursive;
-        font-weight: 100;
+        font-family: $base-font;
+        font-weight: 400;
         white-space: normal;
         @include media($medium) {
             @include span-columns(7);
