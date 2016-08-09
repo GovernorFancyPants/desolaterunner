@@ -198,6 +198,9 @@
 				@include fill-parent;
 			}
 			.page-meta {
+				clear: both;
+				margin-bottom: rem(24);
+				text-align: center;
 				p{
 					@include font-size(14,no);
 					font-family: $alt-font;
@@ -343,23 +346,39 @@ article.wrap .page-content p img {
 
 .page-footer {
 	position: relative;
+	margin: rem(50) 0;
+	border-bottom: 1px solid $border-color;
 }
 
 /* Author block */
 
 .author-image {
-	position: absolute;
-	left: 0;
+	width: 100%;
+	position: relative;
+	height: 24px;
+	border-bottom: 1px solid $border-color;
+	margin-bottom: rem(32);
+	@include media($medium) {
+		margin-bottom: 0;
+	}
 	img {
-		width: 80px;
-		height: 80px;
+		width: 48px;
+		height: 48px;
 		border-radius: $border-radius;
+		position: absolute;
+		left: 50%;
+		transform: translateX(-50%);
 	}
 }
 .author-content {
 	word-wrap: break-word;
-	padding-left: 100px; //avatar width + 20px padding
+	// padding-left: 100px; //avatar width + 20px padding
 	min-height: 80px; //mirrors avatar height
+	text-align: center;
+	@include media($medium) {
+		@include span-columns(6);
+		text-align: left;
+	}
 }
 .author-name {
 	@include font-size(20,no);
@@ -367,6 +386,18 @@ article.wrap .page-content p img {
 .author-bio {
 	margin-top: 0;
 	@include font-size(16);
+}
+.social-links {
+	text-align: center;
+	margin-top: 1.5rem;
+	@include media($medium) {
+		@include span-columns(6);
+		@include omega;
+		text-align: right;
+	}
+	.btn-social {
+		display: inline-block;
+	}
 }
 
 /*

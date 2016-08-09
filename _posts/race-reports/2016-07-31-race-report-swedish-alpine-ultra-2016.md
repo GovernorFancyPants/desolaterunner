@@ -2,7 +2,7 @@
 published: true
 layout: article
 categories: race-reports
-modified: null
+modified: 2016-08-07
 tags:
   - ultra
   - Swedish Alpine Ultra

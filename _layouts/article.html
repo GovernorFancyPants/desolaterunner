@@ -24,17 +24,18 @@ layout: default
 		<div class="inner-wrap">
 			<div id="content" class="page-content" itemprop="articleBody">
 				{{ content }}
-				<ul class="tags-display">
-				  {% for tags in page.tags %}
-				    <li>
-				    <a href="{{ site.url }}/journal/tags/#{{ tags }}">{{ tags }}</a></li>
-				  {% endfor %}
-				</ul>
-				<hr />
 				<footer class="page-footer">
 					{% if page.categories %}{% include page-author.html %}{% endif %}
-					{% if page.share != false %}{% include share-this.html %}{% endif %}
+					<div class="social-links">
+						{% if page.share != false %}{% include share-this.html %}{% endif %}
+					</div>
 					{% include page-meta.html %}
+					<ul class="tags-display">
+					  {% for tags in page.tags %}
+					    <li>
+					    <a href="{{ site.url }}/journal/tags/#{{ tags }}">{{ tags }}</a></li>
+					  {% endfor %}
+					</ul>
 				</footer><!-- /.footer -->
 				<aside>
 					{% if page.comments == true %}{% include comments.html %}{% endif %}

@@ -40,6 +40,7 @@ owner:
   bio: "A runner based in Stockholm, Sweden"
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname: desolaterunner
+  location: "Stockholm, Sweden"
 
 # Includes an icon in the footer for each username you enter
 footer-links:
