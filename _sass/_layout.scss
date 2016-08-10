@@ -340,6 +340,29 @@ article.wrap .page-content p img {
     max-width: 120%;
 }
 
+.posts-wrapper {
+	@include media ($medium) {
+		@include span-columns(8);
+		@include shift(2);
+		@include omega;
+	}
+}
+
+.pagination {
+	text-align: center;
+	.previous.disabled, .next.disabled {
+		color: $grey;
+	}
+	.previous {
+		margin-right: rem(10);
+		text-transform: uppercase;
+	}
+	.next {
+		margin-left: rem(10);
+		text-transform: uppercase;
+	}
+}
+
 /*
    Page footer
    ========================================================================== */

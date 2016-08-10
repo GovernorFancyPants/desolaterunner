@@ -37,7 +37,7 @@ title: "Home"
         <div class="wrap">
             <div class="latest-posts">
                 <h1>Running journal</h1>
-                <div class="tiles">
+                <div class="tiles alternative">
                 {% for post in site.posts limit:5 %}
                 	{% include post-grid.html %}
                 {% endfor %}

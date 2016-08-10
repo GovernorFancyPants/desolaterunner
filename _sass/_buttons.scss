@@ -161,3 +161,21 @@
     }
 	}
 }
+
+.page-content .read-more-btn {
+	display: block;
+	padding: rem(8) rem(32);
+	background-color: #f1f1f1;
+	text-align: center;
+	margin: rem(16) 0;
+	border-bottom: none;
+	border-radius: 3px;
+	text-transform: uppercase;
+	@include font-size(16);
+	&:hover {
+		border-bottom: none;
+	}
+	@include media($medium) {
+		margin: rem(16) rem(80);
+	}
+}
