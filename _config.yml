@@ -65,6 +65,7 @@ footer-links:
 
 prose:
   rooturl: '_posts'
+  siteurl: 'http://desolaterunner.com'
   media: 'images'
   ignore:
     - 404.html
