@@ -1,16 +1,6 @@
 ---
 sitemap: false
 ---
-
-/*
- *
- *  Skinny Bones Jekyll Starter
- *
- *  Designer: Michael Rose
- *  Twitter: http://twitter.com/mmistakes
- *
-*/
-
 @import "variables";
 
 /*
@@ -48,6 +38,10 @@ sitemap: false
 @import "breadcrumbs";
 @import "syntax";
 @import "hero";
+@import "site-intro";
+@import "svg-icons";
+@import "404";
+@import "tags-page";
 
 /*
    Page specific

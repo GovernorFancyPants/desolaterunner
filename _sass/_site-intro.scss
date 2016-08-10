@@ -1,0 +1,27 @@
+.site-intro {
+    text-align: center;
+    background: #fafafa;
+    @include clearfix;
+    padding: 5em $gutter;
+    .inner-wrapper {
+        @include media($medium) {
+            @include span-columns(6);
+            @include shift(3);
+        }
+    }
+    h1, h5 {
+        text-transform: uppercase;
+        font-family: "lato", serif;
+    }
+}
+.latest-posts {
+    @include media($medium) {
+        @include span-columns(8);
+        @include shift(2);
+    }
+    h1 {
+        text-transform: uppercase;
+        font-family: "lato", serif;
+        text-align: center;
+    }
+}

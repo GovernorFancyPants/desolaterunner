@@ -1,11 +1,21 @@
 # Site navigation links
 
-- title: Blog
-  url: /blog/
+- title: Home
+  url: /
+  excerpt:
+  image:
+
+- title: Journal
+  url: /journal/
+  excerpt:
+  image:
+
+- title: Race reports
+  url: /race-reports/
   excerpt:
   image:
 
 - title: About
-  url: /about/
+  url: /#intro
   excerpt:
   image:

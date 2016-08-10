@@ -3,9 +3,9 @@
 title: "Desolate Runner"
 description: "Worth it in the long run"
 logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
-locale: en
-url:
+teaser: hero-img-teaser.jpg # 400x250 px default teaser image used in image archive grid
+locale: en_US
+url: "http://desolaterunner.com" # comment out when developing locally
 feed:
   path: atom.xml
 
@@ -18,11 +18,18 @@ permalink: /:categories/:title/
 kramdown:
   toc_levels: 1..2
 highlighter: rouge
+feed:
+  path: atom.xml
+paginate: 5
+paginate_path: "/journal/page:num/"
 gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-paginate
 
+#Facebook Sharing
+facebook_app_id: 299865293700498
 
 # Site owner
 owner:
@@ -36,7 +43,69 @@ owner:
   bio: "A runner based in Stockholm, Sweden"
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname: desolaterunner
+  location: "Stockholm, Sweden"
 
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email: info@desolaterunner.com
+  facebook:
+  flickr:
+  github:
+  instagram: desolaterunner
+  linkedin:
+  pinterest:
+  rss: RSS
+  twitter:
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
+
+#Prose.io settings
+
+prose:
+  rooturl: '_posts'
+  media: 'images'
+  ignore:
+    - 404.html
+    - LICENSE
+    - feed.xml
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - /css
+    - /img
+    - /js
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post title"
+          placeholder: "Title"
+          alterable: true
+      - name: "subtitle"
+        field:
+          element: "textarea"
+          label: "Subtitle"
+          placeholder: "A description of your post."
+          alterable: true
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          help: "Enter date of post."
+          placeholder: "yyyy-mm-dd"
+          alterable: true
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Publish"
+          help: "Check to publish post, uncheck to hide."
 
 include:
   - .htaccess

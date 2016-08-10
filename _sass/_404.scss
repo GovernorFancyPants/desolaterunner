@@ -1,0 +1,10 @@
+.fourofour.container {
+    margin-top: 3em;
+    @include display(flex);
+    @include flex-direction(column);
+    @include align-items(center);
+    @include justify-content(space-between);
+    & > .box {
+        @include flex(1);
+    }
+}

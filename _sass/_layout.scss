@@ -127,7 +127,7 @@
    ========================================================================== */
 
 #page-wrapper {
-	padding: 0 $gutter; // add white space for smaller screens
+	// padding: 0 $gutter; // add white space for smaller screens
 	@include size(100% 100%);
 	-webkit-overflow-scrolling: touch;
 	z-index: 2;
@@ -146,10 +146,28 @@
 	.inner-wrap {
 		@include media($medium) {
 			@include span-columns(9);
+			@include shift(1.5);
 		}
 	}
+	.page-title-wrapper {
+		width: 100%;
+		@include clearfix;
+	}
 	.page-title {
-		@include fill-parent;
+		// @include fill-parent;
+		@include media($medium) {
+			@include span-columns(9);
+			@include shift(1.5);
+			@include omega;
+		}
+		h1 {
+			font-family: "lobster", cursive;
+			text-align: center;
+			@include font-size(32);
+			@include media($medium) {
+				@include font-size(48);
+			}
+		}
 	}
 	@at-root {
 		.page-content {
@@ -180,6 +198,9 @@
 				@include fill-parent;
 			}
 			.page-meta {
+				clear: both;
+				margin-bottom: rem(24);
+				text-align: center;
 				p{
 					@include font-size(14,no);
 					font-family: $alt-font;
@@ -190,6 +211,7 @@
 	}
 	@at-root {
 		.archive-wrap {
+			margin-top: 5em;
 			@include fill-parent;
 			.page-content {
 				@include reset-all;
@@ -267,16 +289,31 @@
 // page header
 .page-feature {
 	@include fill-parent;
+	overflow: hidden;
 	// expand image to cover full width of header
 	img {
 		width: 100%;
+		vertical-align: middle;
+		position: absolute;
+	    top: 50%;
+	    transform: translateY(-50%);
 	}
 }
 // make image flush with edges on small screens
 .page-image {
 	position: relative;
-	margin-left: -1 * $gutter;
-	margin-right: -1 * $gutter;
+	// margin-left: -1 * $gutter;
+	// margin-right: -1 * $gutter;
+	position: relative;
+	max-height: 300px;
+	overflow: hidden;
+	padding-top: 11em;
+	@include media($medium) {
+		padding-top: 32em;
+	}
+	@include media($large) {
+		padding-top: 40em;
+	}
 	// feature image caption
 	.image-credit {
 		position: absolute;
@@ -297,29 +334,74 @@
 	}
 }
 
+article.wrap .page-content p img {
+	width: 120%;
+    margin: 0 -10%;
+    max-width: 120%;
+}
+
+.posts-wrapper {
+	@include media ($medium) {
+		@include span-columns(8);
+		@include shift(2);
+		@include omega;
+	}
+}
+
+.pagination {
+	text-align: center;
+	.previous.disabled, .next.disabled {
+		color: $grey;
+	}
+	.previous {
+		margin-right: rem(10);
+		text-transform: uppercase;
+	}
+	.next {
+		margin-left: rem(10);
+		text-transform: uppercase;
+	}
+}
+
 /*
    Page footer
    ========================================================================== */
 
 .page-footer {
 	position: relative;
+	margin: rem(50) 0;
+	border-bottom: 1px solid $border-color;
 }
 
 /* Author block */
 
 .author-image {
-	position: absolute;
-	left: 0;
+	width: 100%;
+	position: relative;
+	height: 24px;
+	border-bottom: 1px solid $border-color;
+	margin-bottom: rem(32);
+	@include media($medium) {
+		margin-bottom: 0;
+	}
 	img {
-		width: 80px;
-		height: 80px;
+		width: 48px;
+		height: 48px;
 		border-radius: $border-radius;
+		position: absolute;
+		left: 50%;
+		transform: translateX(-50%);
 	}
 }
 .author-content {
 	word-wrap: break-word;
-	padding-left: 100px; //avatar width + 20px padding
+	// padding-left: 100px; //avatar width + 20px padding
 	min-height: 80px; //mirrors avatar height
+	text-align: center;
+	@include media($medium) {
+		@include span-columns(6);
+		text-align: left;
+	}
 }
 .author-name {
 	@include font-size(20,no);
@@ -327,6 +409,18 @@
 .author-bio {
 	margin-top: 0;
 	@include font-size(16);
+}
+.social-links {
+	text-align: center;
+	margin-top: 1.5rem;
+	@include media($medium) {
+		@include span-columns(6);
+		@include omega;
+		text-align: right;
+	}
+	.btn-social {
+		display: inline-block;
+	}
 }
 
 /*
@@ -338,11 +432,11 @@
 	margin-top: (3 * (0px + $doc-line-height));
 	margin-top: (3 * (0rem + ($doc-line-height / $doc-font-size)));
 	padding-bottom: $gutter;
-	font-family: $alt-font;
   /* Copyright text */
 	.copyright {
 		@include font-size(12);
 		color: lighten($black,60);
+		text-align: center;
 		a {
 			color: lighten($black,60);
 			text-decoration: none;

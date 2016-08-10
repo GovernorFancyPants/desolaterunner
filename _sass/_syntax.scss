@@ -35,6 +35,25 @@ pre.highlight {
 	}
 }
 
+/* Article intro text */
+
+.post-introduction {
+    text-align: center;
+    @include font-size(18);
+    padding: 2em 0;
+    width: 100%;
+    @include clearfix;
+    p {
+        font-family: $base-font;
+        font-weight: 400;
+        white-space: normal;
+        @include media($medium) {
+            @include span-columns(7);
+            @include shift(2.5);
+        }
+    }
+}
+
 .highlighttable {
 	tr:hover>td,
 	tr:hover>th {
