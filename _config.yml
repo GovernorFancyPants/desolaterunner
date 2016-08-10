@@ -62,7 +62,6 @@ footer-links:
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 #Prose.io settings
-
 prose:
   rooturl: '_posts'
   siteurl: 'http://desolaterunner.com'
