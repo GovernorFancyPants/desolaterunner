@@ -6,7 +6,7 @@ image:
 modified: '2016-08-11 17:12 +0200'
 ads: false
 comments: true
-published: false
+published: true
 title: Untitledtasfasf
 introduction: asdasd
 excerpt: asdasd
