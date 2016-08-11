@@ -20,7 +20,7 @@ image:
 
 I had been running all day because of a course I was taking to become a certified running coach so my legs were not happy. I had decided to get some sleep before the race that was starting at midnight. So I set my alarm with plenty of time to get ready and transport myself to the start, then I went to bed. I woke up a few hours later in panic, I had overslept. I called a taxi and threw on all my clothes and running gear. Jumped into the taxi and told the driver to step on it. I got there in time to register and headed straight for the start and we were off.
 
-![Packing]({{site.baseurl}}/images/IMG_20160317_212145-1.jpg)
+![Packing](/images/IMG_20160317_212145-1.jpg)
 
 As it turned out, in my recently awoken state of mind I had put on way to much clothes, it was hot, but I didn't have time to change clothes, I'd just have to make due. First lap went really well, I could keep good pace and my legs felt fine. The only problem I had at the moment was too much clothes, I was sweating a lot but it didn't bother me too much.
 
@@ -34,13 +34,13 @@ Just after the start of the second lap I notices Sten Osvärn was just ahead of 
 
 After my legs had given up I knew it would be tough to get back. Sten passed my somewhere at the end of the second lab or maybe during the third, I can't remember. All I could focus on was getting my legs back, and it would prove a difficult task. The cramping stopped for a bit after I slowed down significantly but it wouldn't be forever.
 
-![The race]({{site.baseurl}}/images/12419326_10206535022800981_3432213751493414450_o-1.jpg)
+![The race](/images/12419326_10206535022800981_3432213751493414450_o-1.jpg)
 
 From now on I thought I would quit the race at the end of every lap, but when I got to the station I somehow found more energy to keep moving, and that's what I did. I kept moving, not very fast and not very graceful but I did move.
 
 The cramps were coming back with a vengeance and I had trouble eating now. The time frame is a big blur now, I don't really know what happened when. But it wasn't good. All I could eat was some candy, as soon as I tried to eat a gel I felt sick. Just thinking about it made me sick. But I kept going, I knew the finish line was ahead of me somewhere, and it couldn't be far now.
 
-![Finish line]({{site.baseurl}}/images/IMG_20160320_080646-1.jpg)
+![Finish line](/images/IMG_20160320_080646-1.jpg)
 
 **Finish line**
 

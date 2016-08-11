@@ -6,6 +6,7 @@ logo: # 120x120 px default image used for Twitter summary card
 teaser: hero-img-teaser.jpg # 400x250 px default teaser image used in image archive grid
 locale: en_US
 url: "http://desolaterunner.com" # comment out when developing locally
+baseurl: /
 feed:
   path: atom.xml
 
@@ -63,8 +64,9 @@ footer-links:
 
 #Prose.io settings
 prose:
-  rooturl: '_posts'
   siteurl: 'http://desolaterunner.com'
+  siteurl: 'http://desolaterunner.com/links.jsonp'
+  rooturl: '_posts'
   media: 'images'
   ignore:
     - 404.html

@@ -16,13 +16,13 @@ image:
   teaser: /images/IMG_0948-teaser.jpg
 ---
 
-Let's start from the beginning. I've had, not a terrible, but not a great pre-season heading upp to SAU. I did Ursvik Ultra in an ok time, not as well as I'd hoped but still ok. You can read a short report on that race [here]({{site.baseurl}}/race-reports/race-report-ursvik-ultra-2016). But after that I couldn't really get into running again, something was always aching or I'd get a cold. So when it was finally time for SAU, I hadn't gotten the milage I wanted and I didn't feel I was in the best shape for this race. As an extra icing on the cake I had, just two days before the race, cut the tip of my thumb off whilst chopping an onion. Exactly what you need before a race in the mountains with no aid stations, exposed wounds.
+Let's start from the beginning. I've had, not a terrible, but not a great pre-season heading upp to SAU. I did Ursvik Ultra in an ok time, not as well as I'd hoped but still ok. You can read a short report on that race [here]({{site.url}}/race-reports/race-report-ursvik-ultra-2016). But after that I couldn't really get into running again, something was always aching or I'd get a cold. So when it was finally time for SAU, I hadn't gotten the milage I wanted and I didn't feel I was in the best shape for this race. As an extra icing on the cake I had, just two days before the race, cut the tip of my thumb off whilst chopping an onion. Exactly what you need before a race in the mountains with no aid stations, exposed wounds.
 
 The day before the race I went for an easy test run along Kungsleden, but almost immediately I felt something was wrong. I got dizzy and really tired just after a couple of kilometers. I turned back and felt extremely hungry even though I had been eating well all day and just finished off a plate of fish and potatoes. I started to doubt I could do the race when I felt like I did. 107 kilometers in the mountains is not something you want to do if you're not feeling 100%.
 
 After my run we all went to the chapel for the regular pre race meeting. We got some info on the trail, it was looking good this year with little snow and good conditions overall, and had a few laughs.
 
-![Kebnekaises toppar]({{site.baseurl}}/images/IMG_0948-1.jpg)
+![Kebnekaises toppar](/images/IMG_0948-1.jpg)
 
 **Race day**
 
@@ -48,7 +48,7 @@ I try to measure the gap every time I see him and I notice I'm catching up, fast
 
 It had started raining earlier not much though, just drizzle I barely noticed, but now the rocks started to get slippery and sharp. I guess the sharpness had nothing to do with the rain, they were still sharp as knifes though.
 
-![Noulja]({{site.baseurl}}/images/IMG_0957-1.jpg)
+![Noulja](/images/IMG_0957-1.jpg)
 
 **The pass**
 
@@ -74,9 +74,9 @@ Only 20k left now, that's it. But 20k is a long ways. I'm starting to get really
 
 The last part is tough. I'm wet, tired and have blurred vision. It's raining even more now and I'm getting cold as well, so I'm going as fast as I'm able. Sten told me he would let my brother know I'm close and that he would tell him to meet me along the trail. That thought was comforting, I wouldn't be alone for the last part. I pass the bridge, that I would later learn was overflooded, but I didn't notice this at all, I was just running as fast as I could. Finally I hear my brother ahead of me, he asks me how I feel, fine I answer and keep going. I tell him about my attempt at the course record and my blurred vision and that I ran empty. Suddenly I can see the portal that marks the end of the Kungsleden trail.
 
-![Finish line]({{site.baseurl}}/images/IMG_0952-1.jpg)
+![Finish line](/images/IMG_0952-1.jpg)
 
-![Finish line]({{site.baseurl}}/images/IMG_0954-1.jpg)
+![Finish line](/images/IMG_0954-1.jpg)
 
 **Crossing the imaginary finish line**
 
