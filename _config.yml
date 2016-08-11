@@ -56,9 +56,9 @@ sass:
 permalink: /:categories/:title/
 kramdown:
   toc_levels: 1..2
-# highlighter: rouge
-feed:
-  path: atom.xml
+highlighter: rouge
+# feed:
+#   path: atom.xml
 paginate: 5
 paginate_path: "/journal/page:num/"
 gems:
