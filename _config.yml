@@ -80,7 +80,7 @@ prose:
         field:
           element: "text"
           label: "Modified"
-          value: CURRENT_DATETIME
+          placeholder: CURRENT_DATETIME
       - name: "ads"
         field:
           element: "checkbox"
