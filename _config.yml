@@ -12,22 +12,22 @@ feed:
 
 # Jekyll configuration
 
-# sass:
-#   sass_dir: _sass
-#   style: compressed
-# permalink: /:categories/:title/
-# kramdown:
-#   toc_levels: 1..2
-# highlighter: rouge
-# feed:
-#   path: atom.xml
-# paginate: 5
-# paginate_path: "/journal/page:num/"
-# gems:
-#   - jekyll-sitemap
-#   - jekyll-gist
-#   - jekyll-feed
-#   - jekyll-paginate
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: pretty
+kramdown:
+  toc_levels: 1..2
+highlighter: rouge
+feed:
+  path: atom.xml
+paginate: 5
+paginate_path: "/journal/page:num/"
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-paginate
 
 #Prose.io settings
 prose:
