@@ -6,47 +6,7 @@ logo: # 120x120 px default image used for Twitter summary card
 teaser: hero-img-teaser.jpg # 400x250 px default teaser image used in image archive grid
 locale: en_US
 url: "http://desolaterunner.com" # comment out when developing locally
-baseurl: /
-feed:
-  path: atom.xml
-
-#Prose.io settings
-prose:
-  rooturl: '_posts'
-  siteurl: 'http://prose.github.io/starter/'
-  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
-  media: 'media'
-  ignore:
-    - index.md
-    - _config.yml
-    - /_layouts
-    - /_includes
-  metadata:
-    _posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "blog"
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
-    _posts/static:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "page"
-      - name: "permalink"
-        field:
-          element: "text"
-          label: "Permalink"
-          value: ""
+# baseurl: /
 
 # Jekyll configuration
 
@@ -57,8 +17,8 @@ permalink: /:categories/:title/
 kramdown:
   toc_levels: 1..2
 highlighter: rouge
-# feed:
-#   path: atom.xml
+feed:
+  path: atom.xml
 paginate: 5
 paginate_path: "/journal/page:num/"
 gems:
@@ -99,6 +59,53 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
+
+#Prose.io settings
+prose:
+  siteurl: 'http://desolaterunner.com'
+  siteurl: 'http://desolaterunner.com/links.jsonp'
+  rooturl: '_posts'
+  media: 'images'
+  ignore:
+    - 404.html
+    - LICENSE
+    - feed.xml
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - /css
+    - /img
+    - /js
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post title"
+          placeholder: "Title"
+          alterable: true
+      - name: "subtitle"
+        field:
+          element: "textarea"
+          label: "Subtitle"
+          placeholder: "A description of your post."
+          alterable: true
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          help: "Enter date of post."
+          placeholder: "yyyy-mm-dd"
+          alterable: true
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Publish"
+          help: "Check to publish post, uncheck to hide."
 
 include:
   - .htaccess
