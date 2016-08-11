@@ -1,31 +1,84 @@
-baseurl: /starter
-permalink: pretty
-markdown: rdiscount
+# Site wide configuration
+
+title: "Desolate Runner"
+description: "Worth it in the long run"
+logo: # 120x120 px default image used for Twitter summary card
+teaser: hero-img-teaser.jpg # 400x250 px default teaser image used in image archive grid
+locale: en_US
+url: "http://desolaterunner.com" # comment out when developing locally
+baseurl: /
+feed:
+  path: atom.xml
+
+# Jekyll configuration
+
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
+highlighter: rouge
+feed:
+  path: atom.xml
+paginate: 5
+paginate_path: "/journal/page:num/"
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-paginate
+
+#Facebook Sharing
+facebook_app_id: 299865293700498
+
+# Site owner
+owner:
+  name: Tobias Johansson
+  email: info@desolaterunner.com
+  twitter:
+  instagram: desolaterunner
+  google:
+    ad-client:
+    ad-slot:
+  bio: "A runner based in Stockholm, Sweden"
+  avatar: bio-photo.jpg # 160x160 px image for author byline
+  disqus-shortname: desolaterunner
+  location: "Stockholm, Sweden"
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email: info@desolaterunner.com
+  facebook:
+  flickr:
+  github:
+  instagram: desolaterunner
+  linkedin:
+  pinterest:
+  rss: RSS
+  twitter:
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
+
+#Prose.io settings
 prose:
   rooturl: '_posts'
   siteurl: 'http://prose.github.io/starter/'
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
   metadata:
     _posts:
-      - name: "category"
-        field:
-          element: "hidden"
-          value: "blog"
       - name: "layout"
         field:
           element: "hidden"
           value: "blog"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
-      - name: "splash"
-        field:
-          element: "text"
-          label: "Splash image"
-          value: ""
       - name: "tags"
         field:
           element: "multiselect"
@@ -36,22 +89,39 @@ prose:
               value: "apples"
             - name: "Bananas"
               value: "bananas"
-            - name: "Pears"
-              value: "pears"
-            - name: "Mangos"
-              value: "mangos"
     _posts/static:
       - name: "layout"
         field:
           element: "hidden"
           value: "page"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
       - name: "permalink"
         field:
           element: "text"
           label: "Permalink"
           value: ""
+
+include:
+  - .htaccess
+exclude:
+  - "*.less"
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - config
+  - gulpfile.js
+  - lib
+  - log
+  - node_modules
+  - package.json
+  - spec
+  - tmp
