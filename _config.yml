@@ -80,7 +80,7 @@ prose:
         field:
           element: "text"
           label: "Modified"
-          placeholder: CURRENT_DATETIME
+          value: CURRENT_DATETIME
       - name: "ads"
         field:
           element: "checkbox"
@@ -127,15 +127,6 @@ prose:
               value: running
             - name: "ultra"
               value: ultra
-      - name: "comments"
-        field:
-          element: "select"
-          label: "Allow comments"
-          options:
-            - name: "Yes"
-              value: "true"
-            - name: "No"
-              value: "false"
       - name: "introduction"
         field:
           element: "textarea"
@@ -144,32 +135,33 @@ prose:
         field:
           element: "textarea"
           label: "Excerpt"
-      - name: "ads"
+      - name: "image"
         field:
-          element: "select"
-          label: "Show ads"
-          options:
-            - name: "No"
-              value: "false"
-            - name: "Yes"
-              value: "true"
-      - name: "splash"
-        field:
-          element: "text"
-          label: "Splash image"
-          value:
+          element: "textarea"
+          label: "Image"
+          value: |
             feature:
             teaser:
       - name: "modified"
         field:
-          element: "checkbox"
+          element: "text"
           label: "Modified"
-          value: "CURRENT_DATETIME"
+          value: CURRENT_DATETIME
+      - name: "ads"
+        field:
+          element: "checkbox"
+          label: "Show ads"
+          value: false
+      - name: "comments"
+        field:
+          element: "checkbox"
+          label: "Comments"
+          value: true
       - name: "published"
         field:
           element: "checkbox"
           label: "Published"
-          value: "true"
+          value: true
 
 #Facebook Sharing
 facebook_app_id: 299865293700498
