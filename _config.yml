@@ -69,6 +69,10 @@ prose:
         field:
           element: "textarea"
           label: "Excerpt"
+      - name: "image"
+        field:
+          element: "textarea"
+          label: "Image"
       - name: "modified"
         field:
           element: "select"
@@ -87,12 +91,12 @@ prose:
         field:
           element: "checkbox"
           label: "Comments"
-          value: "true"
+          value: true
       - name: "published"
         field:
           element: "checkbox"
           label: "Published"
-          value: "true"
+          value: true
     _posts/race-reports:
       - name: "categories"
         field:
