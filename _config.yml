@@ -35,24 +35,24 @@ prose:
   media: 'images'
   metadata:
     _posts:
-      - name: "category"
-        field:
-          element: "hidden"
-          value: "blog"
       - name: "layout"
         field:
           element: "hidden"
-          value: "blog"
+          value: "article"
       - name: "title"
         field:
           element: "text"
           label: "Title"
           value: ""
+      - name: "modified"
+        field:
+          element: "hidden"
+          value: "CURRENT_DATETIME"
       - name: "splash"
         field:
           element: "text"
           label: "Splash image"
-          value: ""
+          value: "/images/"
       - name: "tags"
         field:
           element: "multiselect"
@@ -67,21 +67,6 @@ prose:
               value: "pears"
             - name: "Mangos"
               value: "mangos"
-    _posts/static:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "page"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
-      - name: "permalink"
-        field:
-          element: "text"
-          label: "Permalink"
-          value: ""
 
 #Facebook Sharing
 facebook_app_id: 299865293700498
