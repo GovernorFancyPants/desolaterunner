@@ -12,6 +12,7 @@ introduction: asdasd
 excerpt: asdasd
 tags:
   - ultra
+  - test
 ---
 ## A New Post
 
