@@ -6,9 +6,7 @@ logo: # 120x120 px default image used for Twitter summary card
 teaser: hero-img-teaser.jpg # 400x250 px default teaser image used in image archive grid
 locale: en_US
 url: "http://desolaterunner.com" # comment out when developing locally
-baseurl: /
-feed:
-  path: atom.xml
+# baseurl: /
 
 # Jekyll configuration
 
@@ -28,6 +26,142 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jekyll-paginate
+
+#Prose.io settings
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://desolaterunner.com'
+  relativeLinks: 'http://desolaterunner.com/links.jsonp'
+  media: 'images'
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "article"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Tags"
+          alterable: "true"
+          options:
+            - name: "Fjällräven Classic"
+              value: Fjällräven Classic
+            - name: "Swedish Alpine Ultra"
+              value: Swedish Alpine Ultra
+            - name: "Ursvik Ultra"
+              value: Ursvik Ultra
+            - name: "race report"
+              value: race report
+            - name: "running"
+              value: running
+            - name: "ultra"
+              value: ultra
+      - name: "introduction"
+        field:
+          element: "textarea"
+          label: "Introduction"
+      - name: "excerpt"
+        field:
+          element: "textarea"
+          label: "Excerpt"
+      - name: "image"
+        field:
+          element: "textarea"
+          label: "Image"
+          value: |
+            feature:
+            teaser:
+      - name: "modified"
+        field:
+          element: "text"
+          label: "Modified"
+          value: CURRENT_DATETIME
+      - name: "ads"
+        field:
+          element: "checkbox"
+          label: "Show ads"
+          value: false
+      - name: "comments"
+        field:
+          element: "checkbox"
+          label: "Comments"
+          value: true
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published"
+          value: true
+    _posts/race-reports:
+      - name: "categories"
+        field:
+          element: "hidden"
+          value: "race-reports"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "article"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Tags"
+          alterable: "true"
+          options:
+            - name: "Fjällräven Classic"
+              value: Fjällräven Classic
+            - name: "Swedish Alpine Ultra"
+              value: Swedish Alpine Ultra
+            - name: "Ursvik Ultra"
+              value: Ursvik Ultra
+            - name: "race report"
+              value: race report
+            - name: "running"
+              value: running
+            - name: "ultra"
+              value: ultra
+      - name: "introduction"
+        field:
+          element: "textarea"
+          label: "Introduction"
+      - name: "excerpt"
+        field:
+          element: "textarea"
+          label: "Excerpt"
+      - name: "image"
+        field:
+          element: "textarea"
+          label: "Image"
+          value: |
+            feature:
+            teaser:
+      - name: "modified"
+        field:
+          element: "text"
+          label: "Modified"
+          value: CURRENT_DATETIME
+      - name: "ads"
+        field:
+          element: "checkbox"
+          label: "Show ads"
+          value: false
+      - name: "comments"
+        field:
+          element: "checkbox"
+          label: "Comments"
+          value: true
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published"
+          value: true
 
 #Facebook Sharing
 facebook_app_id: 299865293700498
@@ -61,44 +195,6 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
-
-#Prose.io settings
-prose:
-  rooturl: '_posts'
-  siteurl: 'http://prose.github.io/starter/'
-  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
-  media: 'media'
-  ignore:
-    - index.md
-    - _config.yml
-    - /_layouts
-    - /_includes
-  metadata:
-    _posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "blog"
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
-    _posts/static:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "page"
-      - name: "permalink"
-        field:
-          element: "text"
-          label: "Permalink"
-          value: ""
 
 include:
   - .htaccess
