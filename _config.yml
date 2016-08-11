@@ -43,10 +43,6 @@ prose:
         field:
           element: "text"
           label: "Title"
-      - name: "modified"
-        field:
-          element: "hidden"
-          value: "CURRENT_DATETIME"
       - name: "tags"
         field:
           element: "multiselect"
@@ -98,6 +94,11 @@ prose:
           value:
             feature:
             teaser:
+      - name: "modified"
+        field:
+          element: "checkbox"
+          label: "Modified"
+          value: "CURRENT_DATETIME"
       - name: "published"
         field:
           element: "checkbox"
@@ -116,10 +117,6 @@ prose:
         field:
           element: "text"
           label: "Title"
-      - name: "modified"
-        field:
-          element: "hidden"
-          value: "CURRENT_DATETIME"
       - name: "tags"
         field:
           element: "multiselect"
@@ -171,6 +168,11 @@ prose:
           value:
             feature:
             teaser:
+      - name: "modified"
+        field:
+          element: "checkbox"
+          label: "Modified"
+          value: "CURRENT_DATETIME"
       - name: "published"
         field:
           element: "checkbox"
