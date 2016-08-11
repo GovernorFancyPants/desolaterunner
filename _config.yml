@@ -78,13 +78,10 @@ prose:
             teaser:
       - name: "modified"
         field:
-          element: "select"
+          element: "button"
           label: "Modified"
-          options:
-            - name: "No"
-              value: ""
-            - name: "Yes"
-              value: CURRENT_DATETIME
+          off: ""
+          on: CURRENT_DATETIME
       - name: "ads"
         field:
           element: "checkbox"
