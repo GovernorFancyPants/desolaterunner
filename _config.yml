@@ -54,11 +54,11 @@ sass:
   sass_dir: _sass
   style: compressed
 permalink: /:categories/:title/
-# kramdown:
-#   toc_levels: 1..2
+kramdown:
+  toc_levels: 1..2
 highlighter: rouge
 feed:
-  path: atom.xml
+  path: "atom.xml"
 paginate: 5
 paginate_path: "/journal/page:num/"
 gems:
