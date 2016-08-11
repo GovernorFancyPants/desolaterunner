@@ -77,12 +77,12 @@ prose:
             - name: "No"
               value: ""
             - name: "Yes"
-              value: "CURRENT_DATETIME"
+              value: CURRENT_DATETIME
       - name: "ads"
         field:
           element: "checkbox"
           label: "Show ads"
-          value: "false"
+          value: false
       - name: "comments"
         field:
           element: "checkbox"
