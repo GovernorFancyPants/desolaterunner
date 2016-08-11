@@ -40,9 +40,9 @@ prose:
           element: "hidden"
           value: "article"
       - name: "title"
-            field:
-              element: "text"
-              label: "title"
+        field:
+          element: "text"
+          label: "title"
       - name: "modified"
         field:
           element: "hidden"
