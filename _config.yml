@@ -69,22 +69,15 @@ prose:
         field:
           element: "textarea"
           label: "Excerpt"
-      - name: "splash"
-        field:
-          element: "text"
-          label: "Splash image"
-          value:
-            feature:
-            teaser:
       - name: "modified"
         field:
           element: "select"
           label: "Modified"
-            options:
-              - name: "No"
-                value: ""
-              - name: "Yes"
-                value: "CURRENT_DATETIME"
+          options:
+            - name: "No"
+              value: ""
+            - name: "Yes"
+              value: "CURRENT_DATETIME"
       - name: "ads"
         field:
           element: "checkbox"
