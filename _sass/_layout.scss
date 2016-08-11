@@ -335,9 +335,13 @@
 }
 
 article.wrap .page-content p img {
-	width: 120%;
-    margin: 0 -10%;
-    max-width: 120%;
+	width: 100%;
+	max-width: 100%;
+	@include media($medium) {
+		width: 120%;
+	    margin: 0 -10%;
+	    max-width: 120%;
+	}
 }
 
 .posts-wrapper {
