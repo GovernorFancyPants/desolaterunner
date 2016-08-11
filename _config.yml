@@ -100,13 +100,14 @@ prose:
             teaser:
       - name: "published"
         field:
-          element: "select"
-          label: "Publish"
-          options:
-            - name: "No"
-              value: "false"
-            - name: "Yes"
-              value: "true"
+          element: "checkbox"
+          label: "Published"
+          value: "true"
+    _posts/race-reports:
+      - name: "categories"
+        field:
+          element: "hidden"
+          value: "race-reports"
 
 #Facebook Sharing
 facebook_app_id: 299865293700498
