@@ -39,18 +39,20 @@ prose:
         field:
           element: "hidden"
           value: "article"
-      - name: "title"
-        field:
-          element: "text"
-          label: "title"
       - name: "modified"
         field:
           element: "hidden"
           value: "CURRENT_DATETIME"
       - name: "tags"
         field:
-          element: "text"
+          element: "multiselect"
           label: "Tags"
+          alterable: "true"
+          options:
+            - name: "Yes"
+              value: "true"
+            - name: "No"
+              value: "false"
       - name: "comments"
         field:
           element: "select"
@@ -73,10 +75,10 @@ prose:
           element: "select"
           label: "Show ads"
           options:
-            - name: "Yes"
-              value: "true"
             - name: "No"
               value: "false"
+            - name: "Yes"
+              value: "true"
       - name: "splash"
         field:
           element: "text"
