@@ -61,15 +61,6 @@ prose:
               value: running
             - name: "ultra"
               value: ultra
-      - name: "comments"
-        field:
-          element: "select"
-          label: "Allow comments"
-          options:
-            - name: "Yes"
-              value: "true"
-            - name: "No"
-              value: "false"
       - name: "introduction"
         field:
           element: "textarea"
@@ -78,15 +69,6 @@ prose:
         field:
           element: "textarea"
           label: "Excerpt"
-      - name: "ads"
-        field:
-          element: "select"
-          label: "Show ads"
-          options:
-            - name: "No"
-              value: "false"
-            - name: "Yes"
-              value: "true"
       - name: "splash"
         field:
           element: "text"
@@ -96,9 +78,23 @@ prose:
             teaser:
       - name: "modified"
         field:
-          element: "checkbox"
+          element: "select"
           label: "Modified"
-          value: "CURRENT_DATETIME"
+            options:
+              - name: "No"
+                value: ""
+              - name: "Yes"
+                value: "CURRENT_DATETIME"
+      - name: "ads"
+        field:
+          element: "checkbox"
+          label: "Show ads"
+          value: "false"
+      - name: "comments"
+        field:
+          element: "checkbox"
+          label: "Comments"
+          value: "true"
       - name: "published"
         field:
           element: "checkbox"
