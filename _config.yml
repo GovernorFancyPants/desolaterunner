@@ -48,38 +48,38 @@ prose:
           element: "hidden"
           value: "CURRENT_DATETIME"
       - name: "tags"
-        field:
-          element: "text"
-          label: "Tags"
+          field:
+            element: "text"
+            label: "Tags"
       - name: "comments"
-        field: "select"
-          label: "Allow comments"
-          options:
-            - name: "Yes"
-              value: "true"
-            - name: "No"
-              value: "false"
+          field: "select"
+            label: "Allow comments"
+            options:
+              - name: "Yes"
+                value: "true"
+              - name: "No"
+                value: "false"
       - name: "introduction"
-        field:
-          element: "textarea"
-          label: "Introduction"
+          field:
+            element: "textarea"
+            label: "Introduction"
       - name: "excerpt"
-        field:
-          element: "textarea"
-          label: "Excerpt"
+          field:
+            element: "textarea"
+            label: "Excerpt"
       - name: "ads"
-        field: "select"
-          label: "Show ads"
-          options:
-            - name: "Yes"
-              value: "true"
-            - name: "No"
-              value: "false"
+          field: "select"
+            label: "Show ads"
+            options:
+              - name: "Yes"
+                value: "true"
+              - name: "No"
+                value: "false"
       - name: "splash"
-        field:
-          element: "text"
-          label: "Splash image"
-          value: "/images/"
+          field:
+            element: "text"
+            label: "Splash image"
+            value: "/images/"
 
 #Facebook Sharing
 facebook_app_id: 299865293700498
