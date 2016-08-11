@@ -73,6 +73,8 @@ prose:
         field:
           element: "textarea"
           label: "Image"
+          value: "feature:
+                  teaser: "
       - name: "modified"
         field:
           element: "select"
