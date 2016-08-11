@@ -16,4 +16,4 @@ image:
 ## A New Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-![2014-07-04 18.45.16-1.jpg]({{site.baseurl}}/images/2014-07-04%2018.45.16-1.jpg)
+![2014-07-04 18.45.16-1.jpg](/images/2014-07-04%2018.45.16-1.jpg)
