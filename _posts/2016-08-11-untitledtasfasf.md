@@ -1,8 +1,8 @@
 ---
 layout: article
-image: >-
-  feature:/images/2014-07-04%2018.45.16-1.jpg
-  teaser:/images/2014-07-04%2018.45.16-teaser.jpg
+image:
+  feature: /images/2014-07-04%2018.45.16-1.jpg
+  teaser: /images/2014-07-04%2018.45.16-teaser.jpg
 modified: '2016-08-11 17:12 +0200'
 ads: false
 comments: true
