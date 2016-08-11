@@ -39,6 +39,10 @@ prose:
         field:
           element: "hidden"
           value: "article"
+      - name: "title"
+            field:
+              element: "text"
+              label: "title"
       - name: "modified"
         field:
           element: "hidden"
@@ -91,7 +95,8 @@ prose:
         field:
           element: "text"
           label: "Splash image"
-          value: "/images/"
+          value:
+            - name:
       - name: "published"
         field:
           element: "select"
