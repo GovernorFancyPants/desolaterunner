@@ -92,6 +92,15 @@ prose:
           element: "text"
           label: "Splash image"
           value: "/images/"
+      - name: "published"
+        field:
+          element: "select"
+          label: "Publish"
+          options:
+            - name: "No"
+              value: "false"
+            - name: "Yes"
+              value: "true"
 
 #Facebook Sharing
 facebook_app_id: 299865293700498
