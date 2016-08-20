@@ -27,6 +27,7 @@ tags:
   - Svantes Vilt & Bär
   - LOKSAK
   - Smartwool
+  - Chamonix
 introduction: >-
   Less than a week to go to CCC and time to go through the obligatory equipment.
   I always try to check my equipment about a week before a race, just to give me
@@ -35,7 +36,11 @@ excerpt: >-
   A declaration of my packing for CCC. I list the gear I for the obligatory list
   of items and also what I'll bring in excess of that.
 ---
-I haven't done much running since Swedish Alpine Ultra but my legs feel ok and I've been comuting to work on my bike to get some alternative training. I've never run with poles before so I've been concentrating on getting used to them up and down smaller hills around Stockholm. I think I'm as physically ready as I can be. Now I just need to get my gear in order. I did some looking around on the old interwebs after looking at the obligatory equipment and found some useful info. So I thought I'd give you my take on packing incase you or someone else might need it in the future. Note that I'll only list the not obligatory items if I plan to bring them.
+This will be the first time I run any of the UTMB races. I'm really looking forward to it and this new type of trail. Sweden and Stockholm in particular is rather flat compared to the alpes. It'll be interesting to see how the body reacts to a lot of vertical.
+
+I haven't done much running since Swedish Alpine Ultra but my legs feel ok and I've been comuting to work by bike to get some alternative training. I've never run with poles before so I've been concentrating on getting used to them up and down smaller hills around Stockholm. I think I'm as physically ready as I can hope to be. Now I just need to get my gear in order. I did some looking around the old interwebs after seeing the obligatory equipment list and found some useful info. So I thought I'd give you my take on packing incase you or someone else might need it in the future. Note that I'll only list the not obligatory items if I plan to bring them.
+
+A definitive list of obligatory equipment can be found at the [UTMB website](http://utmbmontblanc.com/en/page/359/Equipment%20advices.html).
 
 ## Obligatory equipment
 
@@ -111,13 +116,11 @@ This is required by the frontier police forces. I'll just have my regular driver
 
 **Walking poles**
 
-I've borrowed a pair of *Black Diamond Distance Carbon Z*
+I've borrowed a pair of *Black Diamond Distance Carbon Z*.
 
 **The sum of 20 € minimum**
 
 I'll carry some more cash than advised and a credit card just in case.
-
-A definitive list of obligatory equipment can be found at the [UTMB website](http://utmbmontblanc.com/en/page/359/Equipment%20advices.html).
 
 ## My extra equipment
 
@@ -145,4 +148,6 @@ LOKSAK makes great sealable bags for your phone.
 
 I will start the race, depending on the weather forecast, with shorts, running t-shirt, *New Balance Minimus Trail 00v2* shoes, *Suunto Ambit3 HR* and a pair of light Merino wool socks from SmartWool.
 
-If you want to follow me during the race go to [http://utmb.livetrail.net/coureur.php](http://utmb.livetrail.net/coureur.php) and search for 3292 or my name.
+That's everything I'll be bringing along the trail. I might add, remove or replace something in the coming week but this is more or less it. Looking forward to get down to Chamonix on Wednesday and feel the athmosphere, it's suppossed to be something else.
+
+If you want to follow me during the race go to [http://utmb.livetrail.net/coureur.php](http://utmb.livetrail.net/coureur.php) and search for **3292** or my name.
