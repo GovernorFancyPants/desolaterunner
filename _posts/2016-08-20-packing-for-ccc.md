@@ -86,7 +86,7 @@ Peak Performance LAVVU tights is a great pair of tights, fits well with good poc
 
 **Additional warm midlayer top**
 
-This one was the hardest for me to decide since there are two options, but ultimately I went for the second one. 
+This one was the hardest for me to decide since there are two options, but ultimately I went for the second one. Mostly because of flexibility.
 1. One single midlayer long sleeve top for warmth (cotton excluded) with a minimum weight of 180g (Men, size M) 
 2. A two piece clothing combination of a long sleeve baselayer/midlayer for warmth (cotton excluded) with a minimum weight of 110g (Men, size M) and a windproof jacket with DWR (Durable Water Repellent) protection	OBLIGATORY
 
@@ -142,7 +142,7 @@ In case it's sunny I like to protect my eyes by wearing cheap plastic and of cou
 
 **Waterproof phone case**
 
-LOKSAK makes great sealable bags for your phone.
+LOKSAK makes great sealable bags for your phone. You can still use the phone when in the bag and it's crazy waterproof.
 
 ## On my body
 
