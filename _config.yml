@@ -142,11 +142,16 @@ prose:
           value: |
             feature:
             teaser:
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          value: CURRENT_DATETIME
       - name: "modified"
         field:
           element: "text"
           label: "Modified"
-          value: CURRENT_DATETIME
+          value:
       - name: "ads"
         field:
           element: "checkbox"
