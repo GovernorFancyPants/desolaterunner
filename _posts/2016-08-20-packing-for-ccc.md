@@ -21,20 +21,21 @@ tags:
   - New Balance
   - Black Diamond
   - Petzl
-  - Cliff Bars
   - Peak Performance
   - Ullmax
   - Svantes Vilt & Bär
   - LOKSAK
   - Smartwool
   - Chamonix
+  - Clif bar
+  - EXPED
 introduction: >-
   Less than a week to go to CCC and time to go through the obligatory equipment.
   I always try to check my equipment about a week before a race, just to give me
   some time to complement any thing that might be missing.
 excerpt: >-
-  A declaration of my packing for CCC. I list the gear I for the obligatory list
-  of items and also what I'll bring in excess of that.
+  A declaration of my packing for CCC. I list the gear I use for the obligatory
+  list of items and also what I'll bring in excess of that.
 ---
 This will be the first time I run any of the UTMB races. I'm really looking forward to it and this new type of trail. Sweden and Stockholm in particular is rather flat compared to the alpes. It'll be interesting to see how the body reacts to a lot of vertical.
 
