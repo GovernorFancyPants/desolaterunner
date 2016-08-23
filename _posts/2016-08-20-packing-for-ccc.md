@@ -41,7 +41,7 @@ date: 2016-08-23T16:00:00.000Z
 ---
 This will be the first time I run any of the UTMB races. I'm really looking forward to it and this new type of trail. Sweden and Stockholm in particular is rather flat compared to the alpes. It'll be interesting to see how the body reacts to a lot of vertical.
 
-I haven't done much running since Swedish Alpine Ultra but my legs feel ok and I've been comuting to work by bike to get some alternative training. I've never run with poles before so I've been concentrating on getting used to them up and down smaller hills around Stockholm. I think I'm as physically ready as I can hope to be. Now I just need to get my gear in order. I did some looking around the old interwebs after seeing the obligatory equipment list and found some useful info. So I thought I'd give you my take on packing incase you or someone else might need it in the future. Note that I'll only list the not obligatory items if I plan to bring them.
+I haven't done much running since Swedish Alpine Ultra but my legs feel ok and I've been comuting to work by bike to get some alternative training. I've never run with poles before so I've been concentrating on getting used to them up and down smaller hills around Stockholm. I think I'm as physically ready as I can hope to be. Now I just need to get my gear in order. I did some looking around the old interwebs after seeing the obligatory equipment list and found some useful info. So I thought I'd give you my take on packing incase you or someone else might need it in the future.
 
 A definitive list of obligatory equipment can be found at the [UTMB website](http://utmbmontblanc.com/en/page/359/Equipment%20advices.html).
 
