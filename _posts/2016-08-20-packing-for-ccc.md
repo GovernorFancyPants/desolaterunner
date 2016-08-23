@@ -37,7 +37,7 @@ excerpt: >-
   A declaration of my packing for CCC. I list the gear I use for the obligatory
   list of items and also what I'll bring in excess of that.
 Date: null
-date: 2016-08-23T16:00:00.000Z
+date: 2016-08-23T18:00:00.000Z
 ---
 This will be the first time I run any of the UTMB races. I'm really looking forward to it and this new type of trail. Sweden and Stockholm in particular is rather flat compared to the alpes. It'll be interesting to see how the body reacts to a lot of vertical.
 
