@@ -1,8 +1,8 @@
 ---
 layout: article
 image:
-feature: /images/IMG_1320-1.jpg
-teaser: /images/IMG_1320-teaser.jpg
+  feature: /images/IMG_1320-1.jpg
+  teaser: /images/IMG_1320-teaser.jpg
 ads: false
 comments: true
 published: true
