@@ -44,6 +44,8 @@ I haven't done much running since Swedish Alpine Ultra but my legs feel ok and I
 
 A definitive list of obligatory equipment can be found at the [UTMB website](http://utmbmontblanc.com/en/page/359/Equipment%20advices.html).
 
+![equipment](/images/IMG_1320-1.jpg)
+
 ## Obligatory equipment
 
 **Mobile phone with option enabling its use in the three countries**
