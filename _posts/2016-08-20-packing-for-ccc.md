@@ -30,12 +30,14 @@ tags:
   - Clif bar
   - EXPED
 introduction: >-
-  Less than a week to go to CCC and time to go through the obligatory equipment.
-  I always try to check my equipment about a week before a race, just to give me
-  some time to complement any thing that might be missing.
+  A few days left to go to CCC and time to go through the obligatory equipment
+  for the last time. I always try to check my equipment about a week before a
+  race, just to give me some time to complement any thing that might be missing.
 excerpt: >-
   A declaration of my packing for CCC. I list the gear I use for the obligatory
   list of items and also what I'll bring in excess of that.
+Date: null
+date: 2016-08-23T16:00:00.000Z
 ---
 This will be the first time I run any of the UTMB races. I'm really looking forward to it and this new type of trail. Sweden and Stockholm in particular is rather flat compared to the alpes. It'll be interesting to see how the body reacts to a lot of vertical.
 
@@ -55,11 +57,11 @@ I will use the *Salomon soft cup 15ml*
 
 **Stock of water minimum 1 litre**
 
-I use the *Salomon S-lab Sense Ultra Set (3l)* running vest which comes with two 500ml soft flasks.
+I use the *Salomon S-lab Sense Ultra Set (3l)* running vest which comes with two 500ml soft flasks. But this year it's going to be extremely hot with 32C at 1000m so it's necessary to have a stock of 2 litres. I'll carry two extra soft flasks in my pack to use if necessary.
 
 **Two torches in good working condition with replacement batteries for each torch**
 
-I rarely use torches in training and when I do I just use a cheap Black Diamond torch. So for this I've barrowed a *Petzl Nao* and a *Black Diamond ION*. Since spare batteries also is obligatory I'll have four AA batteries, two for each torch.
+I rarely use torches in training and when I do I just use a cheap Black Diamond torch. So for this I've barrowed a *Petzl Nao* and a *Black Diamond ION*. Since spare batteries also is obligatory I'll have four AAA batteries, two for each torch.
 
 **Survival blanket 1.40m x 2m minimum**
 
@@ -75,7 +77,7 @@ I'm using one that actually is for animals and can be found in your local drugst
 
 **Food reserve**
 
-I will carry 2 Cliff Bars (I don't intend to eat these, they serve as emergency food), a bunch of Gels, Bloks and Chews.
+I will carry 2 Cliff bars (I don't intend to eat these, they serve as emergency food), a bunch of Gels, Bloks and Chews.
 
 **Jacket, with a hood**
 
@@ -87,7 +89,7 @@ Peak Performance LAVVU tights is a great pair of tights, fits well with good poc
 
 **Additional warm midlayer top**
 
-This one was the hardest for me to decide since there are two options, but ultimately I went for the second one. Mostly because of flexibility.
+This one was the hardest for me to decide since there are two options, but ultimately I went for the second one. My base layer will probably qualify for option one as well, but I'll bring a wind jacket too. Mostly because of flexibility.
 1. One single midlayer long sleeve top for warmth (cotton excluded) with a minimum weight of 180g (Men, size M) 
 2. A two piece clothing combination of a long sleeve baselayer/midlayer for warmth (cotton excluded) with a minimum weight of 110g (Men, size M) and a windproof jacket with DWR (Durable Water Repellent) protection	OBLIGATORY
 
@@ -148,6 +150,8 @@ LOKSAK makes great sealable bags for your phone. You can still use the phone whe
 ## On my body
 
 I will start the race, depending on the weather forecast, with shorts, running t-shirt, *New Balance Minimus Trail 00v2* shoes, *Suunto Ambit3 HR* and a pair of light Merino wool socks from SmartWool.
+
+Total weight of my pack, excluding what I'll wear on my body but including water reserves of 1 litre, will be around SUMMA
 
 That's everything I'll be bringing along the trail. I might add, remove or replace something in the coming week but this is more or less it. Looking forward to get down to Chamonix on Wednesday and feel the athmosphere, it's suppossed to be something else.
 
