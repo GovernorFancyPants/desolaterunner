@@ -5,7 +5,7 @@ image:
   teaser: null
 ads: false
 comments: true
-published: false
+published: true
 title: Packing for CCC
 tags:
   - running
@@ -115,6 +115,8 @@ When I ran Ursvik Ultra I got the official hat, comfortable and warm.
 
 This is required by the frontier police forces. I'll just have my regular drivers license.
 
+![race vest](/images/IMG_1322-1.jpg)
+
 ## Strongly recommended equipment
 
 **Walking poles**
@@ -151,7 +153,7 @@ LOKSAK makes great sealable bags for your phone. You can still use the phone whe
 
 I will start the race, depending on the weather forecast, with shorts, running t-shirt, *New Balance Minimus Trail 00v2* shoes, *Suunto Ambit3 HR* and a pair of light Merino wool socks from SmartWool.
 
-Total weight of my pack, excluding what I'll wear on my body but including water reserves of 1 litre, will be around SUMMA
+Total weight of my pack, excluding what I'll wear on my body and reserves of 1 litre, will be around 3kg.
 
 That's everything I'll be bringing along the trail. I might add, remove or replace something in the coming week but this is more or less it. Looking forward to get down to Chamonix on Wednesday and feel the athmosphere, it's suppossed to be something else.
 
