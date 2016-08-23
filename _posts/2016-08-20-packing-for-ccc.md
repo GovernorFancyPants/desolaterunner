@@ -149,8 +149,7 @@ In case it's sunny I like to protect my eyes by wearing cheap plastic and of cou
 
 I will start the race, depending on the weather forecast, with shorts, running t-shirt, *New Balance Minimus Trail 00v2* shoes, *Suunto Ambit3 HR* and a pair of light Merino wool socks from *SmartWool*.
 
-Total weight of my pack, excluding what I'll wear on my body and reserves of 1 litre, will be around 3kg.![IMG_1320-1.jpg]({{site.baseurl}}/images/IMG_1320-1.jpg)
-
+Total weight of my pack, excluding what I'll wear on my body and reserves of 1 litre, will be around 3kg.
 
 That's everything I'll be bringing along the trail. I might add, remove or replace something in the coming days but this is more or less it. Looking forward to get down to Chamonix on Wednesday and feel the athmosphere, it's suppossed to be something else.
 
