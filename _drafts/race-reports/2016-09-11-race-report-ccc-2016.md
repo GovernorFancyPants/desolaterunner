@@ -10,9 +10,15 @@ title: Race report CCC 2016
 tags:
   - running
   - ultra
+introduction: >-
+  Things doesn't always go according to plan, quite the opposite in this case
+  actually. Almost nothing went according to plan. I thought I was rather well
+  prepared for this race, both mentally and physically. I knew it was going to
+  be hot, a warning was sent out by the organizer a week ahead, and I knew the
+  mountains were going to be big and steep, I knew it was going to be long. I
+  knew all this and I thought I could handle it. But things doesn't always go
+  according to plan.
 ---
-Things doesn't always go according to plan, quite the opposite in this case actually. Almost nothing went according to plan. I thought I was rather well prepared for this race, both mentally and physically. I knew it was going to be hot, a warning was sent out by the organizer a week ahead, and I knew the mountains were going to be big and steep, I knew it was going to be long. I knew all this and I thought I could handle it. But things doesn't always go according to plan.
-
 The days before the race we walked around in Chamonix, got familiar with the town. Watched the first TDS runners cross the finish line and talked about when we were going to cross it, picked up our race bibs in good time before the race and watched a lot of excited runners go about their business. I did some complementary shopping to adhere the heat. I did a post about PACKING FOR THE CCC earlier but I did some last minute changes. I replaced my buff for a lighter one, I ditched my wind jacket because my base layer was sufficient to comply with the rules and the last, and maybe the most important, change I did was replace my black t-shirt with a light white t-shirt with a short chest zipper. I'm so happy I did this last change, running in the heat with a black shirt would for sure have ended me.
 
 I got up early on race day, everything was prepared the day before, a bag for the finish was packed, breakfast was made and all gear packed and ready. I put on all my race clothes and walked to the bus that was going to take us to Courmayeur and the start. Had breakfast on the bus packed with runners and made the last preparations when we got there and headed to the start. Thousands of runners were standing there eager to get out on the trails. Music was playing and the speaker was talking excitedly. I was in the first start group so I had a pretty good view on everything that was going on.
