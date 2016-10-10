@@ -34,13 +34,21 @@ Half way up, the first water refreshment was located. I dipped my buff in the co
 We kept on climbing for what felt like an eternity, I think I can see the top several times but once there it's just a small crest and the climb continues. I think we're at the top so many times I have to force myself to not get excited every time the thought pops into my head, the disappointment of not being there is tough to handle.
 I finally see some kind of station that looks like it could actually be the top of the mountain, the only problem is, it's on another ridge. I look down in the ground and just keep on going, for a long time, then finally I look up and realize I was right. I push on the last bit, have some water at the top then set out down the mountain. Finally I don't feel sick anymore which as plagued me more and more going up with the hot sun in my back. But then, just after a little while I get a horrible side stitch and this continues all the way down, and this would prove to plague me for the entire race. I'm usually fast going down, that's where I gain the time I've lost on the way up but now as soon as I tried to pick up speed I got a terrible stabbing pain in my side.
 
+**Refugee Bertone**
+
 First refreshment point was lovely, plenty of water, snacks, cheese, sports drinks and so on but sadly I couldn't stay for long, I had lost too much time. I continue on the trail and I'm going to be honest now, from this point forward I don't remember much and what I do remember is just fragments that could've happen almost anywhere during the race so from now on the chronology is going to be quite screwed up.
 
+**Arnouvaz**
+
 I met quite a few swedes along the route, some past me during the first climb, some I met along the trail and some I met in the refreshment posts. We seemed to keep about the same pace so we always reconnected at the refreshment posts. At the first real post, that served hot food, I talked to a guy who asked how I was feeling and I was honest, I didn't feel great and already had thoughts of quitting the race. I had some food, some salty crackers, threw some rubbish in the bin and kept on going.
+
+**La Fouly**
 
 The heat, I can't stress this enough, it was so damn hot I didn't know what to do with myself. My stomach started to shut down more and more and I had to force myself to eat. I hated it but I desperately needed the energy, ironic enough, to handle the heat. At the second post I thought I was done, I felt dizzy and didn't feel well enough to continue. I forced down some more food and thought I'd try to go to the bathroom, although I never do during races, just to see if I could remedy my stomach problems. As I sat down with my head in my hands I almost immediately fell asleep, less than a minute later I woke up and realized I had fallen asleep. Chocked and worried at first I got out and back to the tent and when I sat down I felt a little better. That's when I came up with the idea to nap for just a couple of minutes and just maybe I would feel well enough to continue. I did this and it worked, I kept going I wasn't done yet.
 
 I'm running through a small mountain village and every hundred meters or so there are people cheering me on, handing me water, coffee, cola and it was just wonderful. The heat, the exhaustion, the wonderful people and the thought of not being able to finish made me soppy, I could feel the tears burning in my eyes and then I hear my phone make a sound in my chest pocket. I reached for it immediately since it could be the race organizers with some kind of important message, but it is not, it's a message from my girlfriend saying she is following my and that she's proud of me. I can't hold back the tears now, I'm running and crying, happy tears and sad tears. This gives me new strength and I feel I have to finish the race now, I can't quite, I've come to far and I certainly don't want to get on the bus of shame.
+
+**Champex-lac**
 
 It's getting dark now, too dark to see. I reach the third refreshment post now which is about half way, HALF WAY. That can't be true, I've been running forever and I can't take another step now, it's just not possible. I feel horrible and people we're sitting on the side of the trail crying, talking on the phone, looking out in the distance with sad empty eyes. I grab some food, can barely get it down. I have some coke, oh coke still works great, I have some more. I try some te and it's amazing, the best te I've ever consumed. I lay down in the corner of the tent and realize there's some kind of party going on, they are serving wine and people are talking loudly, music is playing but I can't really grasp it. I fall asleep for 15 minutes or so. I wake up to my alarm, get my gear ready, time to get the torch out and a warmer sweater. On my way out again I first meet Adrián who also ran [Swedish Alpine Ultra](http://desolaterunner.com/race-reports/race-report-swedish-alpine-ultra-2016/) a month earlier and he has decided to quit the race. I grab some more te before I head and then I meet Daniel Perttu who also ran Swedish Alpine Ultra and I'm staying with him now. He's chocked to see me here, he started about fifteen minutes later than me and I'm usually a bit faster than he is, I explain that my stomach has given up and that I've had thoughts of quitting. He wishes me luck and I continue.
 
@@ -48,4 +56,26 @@ Not long after Champex there's a fork in the road. I follow the runners ahead of
 
 **Trail of lights**
 
-Traveling over roots and rocks in pitch dark with only a torch as a guide craves a lot of concentration. 
+Traveling over roots and rocks in pitch dark with only a torch as a guide craves alot of concentration. I remember passing quite a lot of people during this part, I'm always fast in technical terrain and even faster going downhill. But this kind of terrain is also very tiresome mentally since you have to mind every step, but also physically tiresome. It requires alot of core strength, quick legs and balance. I've been extremely focused just watching my feet for a long time when I finally look up and I see the train of lights. A string of lights in different levels in the dark sky, but it's not the sky, it's just another mountain and the lights aren't stars, they're torches on runners so far in the distance I can't even comprehend what I see infront of me. 
+
+**Trient**
+
+Falling asleep waking up and meeting Daniel
+
+Thinking it's the last mountain but there are two left
+
+Falling asleep waking up and meeting Daniel again
+
+Running with Daniel up the next moutntain
+
+Going really fast down passing 70 runners
+
+Sleeping for a few minutes throwing up at the next post
+
+Running with Daniel up the last mountain seeing the torches again, feeling horrible going up
+
+Flying down the last mountain, passing 70 runners again
+
+Finish line, medical personell asking me how I'm doing twice
+
+Aftermath, loosing weight, having trouble eating, legs feel fine
