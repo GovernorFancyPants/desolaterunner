@@ -1,7 +1,9 @@
 ---
 layout: article
 categories: race-reports
-image: 'feature: /images/IMG_1384-1.jpg teaser: /images/IMG_1384-teaser.jpg'
+image: |-
+  feature: /images/IMG_1384-1.jpg
+  teaser: /images/IMG_1384-teaser.jpg
 date: '2016-09-11 18:17 +0200'
 ads: false
 comments: true
@@ -26,7 +28,6 @@ excerpt: >-
   mountains were going to be big and steep, I knew it was going to be long. I
   knew all this and I thought I could handle it. But things doesn't always go
   according to plan.
-modified: ''
 ---
 The days before the race we walked around in Chamonix, got familiar with the town, watched the first TDS runners cross the finish line and talked about when we were going to cross it. We picked up our race bibs in good time before the race and watched a lot of excited runners go about their business. I did some complementary shopping to manage the heat. I did a post about [PACKING FOR CCC](http://desolaterunner.com/packing-for-ccc/) earlier but I did some last minute changes. I replaced my buff for a lighter one, I ditched my wind jacket because my base layer was sufficient to comply with the rules and the last, and maybe the most important, change I did was replacing my black t-shirt with a light white t-shirt with a short chest zipper. I'm so happy I did this last change, running in the heat with a black shirt would for sure have ended me.
 
