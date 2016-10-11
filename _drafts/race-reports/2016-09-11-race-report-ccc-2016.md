@@ -1,17 +1,19 @@
 ---
 layout: article
 categories: race-reports
-image: |-
-  feature: /images/IMG_1384-1.jpg
-  teaser: /images/IMG_1384-teaser.jpg
+image: 'feature: /images/IMG_1384-1.jpg teaser: /images/IMG_1384-teaser.jpg'
 date: '2016-09-11 18:17 +0200'
 ads: false
 comments: true
 published: false
 title: Race report CCC 2016
 tags:
+  - race report
   - running
   - ultra
+  - ccc
+  - utmb
+  - ultra trail du mont blanc
 introduction: >-
   Things doesn't always go according to plan, quite the opposite in this case
   actually. Almost nothing went according to plan. I thought I was rather well
