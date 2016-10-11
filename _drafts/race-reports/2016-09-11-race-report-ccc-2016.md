@@ -51,6 +51,8 @@ The start signal went off loudly and we were on our way down an asphalted road a
 
 Half way up, the first water refreshment was located. I dipped my buff in the cold water and put it back on my head again, even though the sun hadn't shown it's ugly face yet, it was starting to heat up. We kept on climbing and soon we were out in the open and the sun hit our backs with a fury. I had to stop a couple of times on the way up to the top just to cool down, I'm not anywhere near used to this kind of heat. I had eaten well so far, a gel every half an hour or so, but my stomach had already started acting up.
 
+> "I finally see some kind of station that looks like it could actually be the top of the mountain, the only problem is, it's on another ridge"
+
 We kept on climbing for what felt like an eternity, I think I can see the top several times but once there it's just a small crest and the climb continues. I think we're at the top so many times I have to force myself to not get excited every time the thought pops into my head, the disappointment of not being there is tough to handle.
 I finally see some kind of station that looks like it could actually be the top of the mountain, the only problem is, it's on another ridge. I look down in the ground and just keep on going, for a long time, then finally I look up and realize I was right. I push on the last bit, have some water at the top then set out down the mountain. Finally I don't feel sick anymore which as plagued me more and more going up with the hot sun in my back. But then, just after a little while I get a horrible side stitch and this continues all the way down, and this would prove to plague me for the entire race. I'm usually fast going down, that's where I gain the time I've lost on the way up but now as soon as I tried to pick up speed I got a terrible stabbing pain in my side.
 
@@ -70,6 +72,8 @@ I met quite a few swedes along the route, some past me during the first climb, s
 
 The heat, I can't stress this enough, it was so damn hot I didn't know what to do with myself. My stomach started to shut down more and more and I had to force myself to eat. I hated it but I desperately needed the energy, ironic enough, to handle the heat. At the second post I thought I was done, I felt dizzy and didn't feel well enough to continue. I forced down some more food and thought I'd try to go to the bathroom, although I never do during races, just to see if I could remedy my stomach problems. As I sat down with my head in my hands I almost immediately fell asleep, less than a minute later I woke up and realized I had fallen asleep. Chocked and worried at first I got out and back to the tent and when I sat down I felt a little better. That's when I came up with the idea to nap for just a couple of minutes and just maybe I would feel well enough to continue. I did this and it worked, I kept going I wasn't done yet.
 
+> "I can't hold back the tears now, I'm running and crying, happy tears and sad tears."
+
 I'm running through a small mountain village and every hundred meters or so there are people cheering me on, handing me water, coffee, cola and it was just wonderful. The heat, the exhaustion, the wonderful people and the thought of not being able to finish made me soppy, I could feel the tears burning in my eyes and then I hear my phone make a sound in my chest pocket. I reached for it immediately since it could be the race organizers with some kind of important message, but it is not, it's a message from my girlfriend saying she is following my and that she's proud of me. I can't hold back the tears now, I'm running and crying, happy tears and sad tears. This gives me new strength and I feel I have to finish the race now, I can't quite, I've come to far and I certainly don't want to get on the bus of shame.
 
 ![Peaks](/images/IMG_1379-1.jpg)
@@ -81,6 +85,8 @@ It's getting dark now, too dark to see. I reach the third refreshment post now w
 Not long after Champex there's a fork in the road. I follow the runners ahead of me but have this nagging feeling we're going the wrong way. I'm not sure why I have this feeling but after a little while I notice the lack of reflective markers and start to get nervous, the course has been rather well marked up to here. I check the map on my watch and I notice we are slightly off the track but not by much so I ask a guy running next to me if he knows if this is the right way, he answers "yes" in a french accent. I ask him if he's sure because I'm not, "I'm sure, this is the right way" he says and I believe him, partly due to the french accent and partly due to my state of mind at this point. We continue on for a while and the road starts to get steeper and steeper and I start to worry again, still no markers. After a while I see a group of runners ahead standing still and when I reach them I realize they're talking about if this is the right way or not and they've come to the conclusion it is not. The backlash is huge, instead of going downhill we've done the opposite. In my frustration I start to run back in a furious pace, passing a lot of runners. How could I be so stupid, always go with your gut feeling. Back at the fork in the road, just a bit further on the other road there are plenty of markers and here's the kicker, instead of going up, this way is downhill and easy terrain, I've lost a lot of time.
 
 ![Peak](/images/IMG_1378-1.jpg)
+
+> "I know I have to get to where they are and even further after that but it seems impossible right now"
 
 **Trail of lights**
 
@@ -101,6 +107,8 @@ At the top I tell Daniel my legs feel great going down so I'm going to go fast t
 Once again I look up and see the dreaded trail of lights but this time it's different. It's not as dark anymore and it's a different angle so it doesn't look like stars in the sky this time, it's more of a wall with a snake of sconces. We made a deal back at Vallorcine that we would stick together climbing the last mountain but after that we go in our own pace. I'm incredibly glad for this deal, my spirit is at an all time low, my stomach feels awful and I'm running empty. I have to stop several times catching my breath, the climb is steep and in my condition it's tough. It literally feels like climbing a wall that never ends. I get flashbacks from the first climb where I thought I was done with the climb so many times but it was always a mirage. We stop at one point to take a picture, it's the second time during the race I take a little time to do this, when the sun rises over the mountain and it's the one you see as the cover photo of this post. It's breathtaking, even though I felt horrible I'm glad I stopped to appreciate this.
 
 ![Gate](/images/IMG_1388-1.jpg)
+
+> "Immediately after I finish a person from the medical team comes up to me checking my pulse and ask me if I'm alright"
 
 **Finish line**
 
