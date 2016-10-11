@@ -56,26 +56,27 @@ Not long after Champex there's a fork in the road. I follow the runners ahead of
 
 **Trail of lights**
 
-Traveling over roots and rocks in pitch dark with only a torch as a guide craves alot of concentration. I remember passing quite a lot of people during this part, I'm always fast in technical terrain and even faster going downhill. But this kind of terrain is also very tiresome mentally since you have to mind every step, but also physically tiresome. It requires alot of core strength, quick legs and balance. I've been extremely focused just watching my feet for a long time when I finally look up and I see the train of lights. A string of lights in different levels in the dark sky, but it's not the sky, it's just another mountain and the lights aren't stars, they're torches on runners so far in the distance I can't even comprehend what I see infront of me. 
+Traveling over roots and rocks in pitch dark with only a torch as a guide craves alot of concentration. I remember passing quite a lot of people during this part, I'm always fast in technical terrain and even faster going downhill. But this kind of terrain is also very tiresome mentally since you have to mind every step, but also physically tiresome. It requires alot of core strength, quick legs and balance. I've been extremely focused just watching my feet for a long time when I finally look up and I see the train of lights. A string of lights in different levels in the dark sky, but it's not the sky, it's just another mountain and the lights aren't stars, they're torches on runners so far in the distance I can't even comprehend what I see infront of me. This is difficult to take in, I know I have to get to where they are and even further after that but it seems impossible right now but I can't quit, I try to think of other things and put one foot after another. I started counting steps already during the first climb, I don't know how many I've counted to by now but I'm sure it's alot and it's going to be alot more.
 
 **Trient**
 
-Falling asleep waking up and meeting Daniel
+Going down again there's a small post where a few runners sitting by a fire take a quick brake before continueing and I sit down next to them. They're talking about how much is left, and I notice they're pointing at the map but it doesn't look right to me. I'm sure there's only one climb left so I ask them where we are, one guy points at the map and says "only two more climbs to go now" and I'm stunned, how is it possible? I sit quiet for a while and wish I was somewhere else, but it doesn't work, I continue down the mountain. Once at the Trient refreshment post I have some food and lay down on a bench to sleep for ten minutes. I wake up to my alarm and have some coke before I head out on the trail, that's where I meet Daniel again. We share som words and I head out, but not long after he catch up to me during the climb and we continue on together. Even though we don't talk much it feels good to have some company during the climb.
 
-Thinking it's the last mountain but there are two left
+**Vallorcine**
 
-Falling asleep waking up and meeting Daniel again
+At the top I tell Daniel my legs feel great going down so I'm going to go fast to get a few minutes of sleep at the last refreshment point before he gets there. I wasn't lying, I'm really fast downhill even though it's rather steep and pitch dark except for my torch. I'm starting to pass people, alot of them, I'm as close to flying as I'll ever get. In the end I think I pass around 70 runners before I reach Vallorcine where I have some food and a couple of orange slices before I lay down to get som sleep. When I wake up Daniel is there and we get ready to move out but I ask him to wait for a few minutes, my stomach feels weird. I walk around the back of the tent and force myself to throw up, out comes the orange slices and I feel well again. No time to lose, I go back to Daniel and we head out on the trail again.
 
-Running with Daniel up the next moutntain
+**Trail of lights.. again**
 
-Going really fast down passing 70 runners
+Once again I look up and see the dreaded trail of lights but this time it's different. It's not as dark anymore and it's a different angle so it doesn't look like stars in the sky this time, it's more of a wall with a snake of sconces. We made a deal back at Vallorcine that we would stick together climbing the last mountain but after that we go in our own pace. I'm incredibly glad for this deal, my spirit is at an all time low, my stomach feels awful and I'm running empty. I have to stop several times catching my breath, the climb is steep and in my condition it's tough. It literailly feels like climbing a wall that never ends. I get flashbacks from the first climb where I thought I was done with the climb so many times but it was always a mirrage. We stop at one point to take a picture, it's the second time during the race I take a little time to do this, when the sun rises over the mountain and it's the one you see as the cover photo of this post. It's breathtaking, even though I felt horrible I'm glad I stopped to appreciate this.
 
-Sleeping for a few minutes throwing up at the next post
+**Finish line**
 
-Running with Daniel up the last mountain seeing the torches again, feeling horrible going up
 
 Flying down the last mountain, passing 70 runners again
 
-Finish line, medical personell asking me how I'm doing twice
+Finish line, medical personel asking me how I'm doing twice
+
+**Aftermath**
 
 Aftermath, loosing weight, having trouble eating, legs feel fine
