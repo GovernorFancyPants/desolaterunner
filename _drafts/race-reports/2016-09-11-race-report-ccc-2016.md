@@ -36,6 +36,7 @@ excerpt: >-
 The days before the race we walked around in Chamonix, got familiar with the town, watched the first TDS runners cross the finish line and talked about when we were going to cross it. We picked up our race bibs in good time before the race and watched a lot of excited runners go about their business. I did some complementary shopping to manage the heat. I did a post about [PACKING FOR CCC](http://desolaterunner.com/packing-for-ccc/) earlier but I did some last minute changes. I replaced my buff for a lighter one, I ditched my wind jacket because my base layer was sufficient to comply with the rules and the last, and maybe the most important, change I did was replacing my black t-shirt with a light white t-shirt with a short chest zipper. I'm so happy I did this last change, running in the heat with a black shirt would for sure have ended me.
 
 ![finish line](/images/IMG_1333-1.jpg)
+
 ![selfie](/images/IMG_1359-1.jpg)
 
 **Race day**
@@ -43,6 +44,7 @@ The days before the race we walked around in Chamonix, got familiar with the tow
 I got up early on race day, everything was prepared the day before, a bag for the finish line was packed, breakfast was made and all gear packed and ready. I put on all my race clothes and walked to the bus that was going to take us to Courmayeur and the start. Had breakfast on the bus, packed with runners, and made the last preparations when we got there and headed to the start. Thousands of runners were standing there eager to get out on the trails. Music was playing and the speaker was talking excitedly. I was in the first start group so I had a pretty good view on everything that was going on.
 
 ![Packing](/images/IMG_1366-1.jpg)
+
 ![Start](/images/IMG_1372-1.jpg)
 
 The start signal went off loudly and we were on our way down an asphalted road and after just a few hundred meters a girl in front of me drops her stuffed animal and stops abruptly and bends forward. I have to do some kind of gymnastic maneuver, spread my legs and jump over her sideways. I manage to get out of that situation without a scratch but it didn't feel like a good start of a 100k race. We continue running through the town and soon the first and longest climb begins. About 1400m vertical was ahead of me, the biggest climb I've ever done in one go. The first bit is asphalt and then we continue through the woods and everything goes well, I've got a good spot and don't have to que at all, which I've heard is a problem for runners further back. I'm keeping a good pace and everything feels great. I've already got my poles out, before the race I thought of different ways of easily stuff them in my vest again when they weren't needed, it turns out I would be needing them throughout the race from then on.
@@ -114,4 +116,5 @@ A couple of days after the race I still had a hard time getting food down but I 
 It's hard not to be a little disappointed afterwards, I couldn't do it in the time I wanted and my body didn't perform as I wanted to but in the end I'm happy I stuck in there and finished. It would have felt terrible to go home with a DNF. It was my first race outside Sweden and I have learned a lot. I'm not well suited for running in the heat, that's something I really have to work on and I'm also not very good at climbing. The alpine mountains is a beast I'm going to conquer one day in the future with a little more continues training, a little more heat training and a lot of climbing. I will be back and I will be better.
 
 ![Medical](/images/IMG_1396-1.jpg)
+
 ![Tired](/images/IMG_1395-1.jpg)
