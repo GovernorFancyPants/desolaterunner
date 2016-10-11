@@ -108,7 +108,7 @@ Once again I look up and see the dreaded trail of lights but this time it's diff
 
 ![Gate](/images/IMG_1388-1.jpg)
 
-> "Immediately after I finish a person from the medical team comes up to me checking my pulse and ask me if I'm alright"
+> Immediately after I finish a person from the medical team comes up to me checking my pulse and ask me if I'm alright
 
 **Finish line**
 
