@@ -7,7 +7,7 @@ image:
 date: '2016-09-11 18:17 +0200'
 ads: false
 comments: true
-published: false
+published: true
 title: Race report CCC 2016
 tags:
   - race report
@@ -109,7 +109,7 @@ Once again I look up and see the dreaded trail of lights but this time it's diff
 
 I'm terrible during the climbs and it was embarrassingly apparent climbing the last mountain but as soon it's going downhill again I'm back and I'm strong. Once we reach the last small refreshment point we realise it's closing in on cut off time, we grab some quick snacks and some coke before we head down the last bit before the finish line. I still feel horrible, everything hurts and I'm feeling sick but now it's not far and I know it's just downhill from now on, this makes me strong. I set off in a staggering pace, flying once again, it feels great. I'm starting to pass runner after runner and I get a little more energy for every person I pass. The sun is up now and I've never been so happy to run on asphalt because now I can feel the finish line, I can't see it yet but I feel it inside of me. I'm giving it all now and I reach the last bit before crossing the finish line and people ar cheering from the side lines and somehow now it all seems worth it, the pain, the agony, the stomach problems and the tough climbs. I cross the finish line with my arms up in the air and stop, it's over, i did it. Not nearly in the time I wanted but it doesn't matter now, I'm so happy to have made it through. Immediately after I finish, a person from the medical team comes up to me checking my pulse and ask me if I'm alright, "I'm fine, just tired" I answer, she tells me to get some sleep and I tell her it's the first thing on my agenda.
 
-In the end I think I passed somewhere around 70 runners during the decent also and finished in 24:43:21 and placed somewhere in the middle of the pack. After a while my brother and his wife finds me and we wait for Daniel to finish. Then we sit down by a wall in the shade and I have some juice, for some reason I've been craving juice for a while now. A second person from the medical team comes up to me and checks my pulse and ask me how I'm doing, "I'm fine, just tired" I tell him too and he tells me to get some sleep and fluids and to keep track of my urine. I'm hot and I'm cold and all I want to do is to go home and fall asleep. I usually have a hard time sleeping after a race like this but as soon as I hit the bed I'm out like a light.
+In the end I think I passed somewhere around 70 runners during the last decent and finished in 24:43:21 and placed somewhere in the middle of the pack. After a while my brother and his wife finds me and we wait for Daniel to finish. Then we sit down by a wall in the shade and I have some juice, for some reason I've been craving juice for a while now. A second person from the medical team comes up to me and checks my pulse and ask me how I'm doing, "I'm fine, just tired" I tell him too and he tells me to get some sleep and fluids and to keep track of my urine. I'm hot and I'm cold and all I want to do is to go home and fall asleep. I usually have a hard time sleeping after a race like this but as soon as I hit the bed I'm out like a light.
 
 ![Walk](/images/IMG_1393-1.jpg)
 
