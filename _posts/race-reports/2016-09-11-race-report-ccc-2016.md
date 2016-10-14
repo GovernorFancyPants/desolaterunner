@@ -5,6 +5,7 @@ image:
   feature: /images/IMG_1384-1.jpg
   teaser: /images/IMG_1384-teaser.jpg
 date: '2016-09-11 18:17 +0200'
+modified: '2016-10-14 18:17 +0200'
 ads: false
 comments: true
 published: true
@@ -33,6 +34,8 @@ The days before the race we walked around in Chamonix, got familiar with the tow
 ![finish line](/images/IMG_1333-1.jpg)
 
 ![selfie](/images/IMG_1359-1.jpg)
+
+![Profile](/images/Profil_CCC_2016.png)
 
 **Race day**
 
@@ -117,6 +120,8 @@ In the end I think I passed somewhere around 70 runners during the last decent a
 
 A couple of days after the race I still had a hard time getting food down but I had to force myself. I lost about 4-5kg during the race and I was rather weak. My legs felt fine, a little stiff but no injuries or nothing, a few days later I felt almost completely restored but I wasn't going to run for a while, time for some well deserved rest.
 It's hard not to be a little disappointed afterwards, I couldn't do it in the time I wanted and my body didn't perform as I wanted to but in the end I'm happy I stuck in there and finished the race. It would have felt terrible to go home with a DNF. It was my first race outside Sweden and I have learned a lot. I'm not well suited for running in the heat, that's something I really have to work on and I'm also not very good at climbing. The alpine mountains is a beast I'm going to conquer one day in the future with a little more continues training, a little more heat training and a lot of climbing. I will be back and I will be better.
+
+![Profile](/images/times.png)
 
 ![Medical](/images/IMG_1396-1.jpg)
 
