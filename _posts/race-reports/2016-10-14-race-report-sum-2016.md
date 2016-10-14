@@ -37,6 +37,8 @@ I got to Björkhagen early, since pre registration was closed I had to join at t
 
 We were off and I’m way up front as usual, I always try to get a good position in the start. It’s more fun and have some advantages in the beginning when it tends to be crowded. I felt right away my lack of training the last couple of months, I had trouble keeping speed but I kept pushing a bit further, I felt pretty good considering. After a few kilometers I removed my rain jacket and let body heat take over the job.
 
+> "I had to slow down the pace a bit but it didn’t matter much, I knew something like this would happen."
+
 The first part follows Sörmlandsleden and I remembered most bits from my run two years ago. After about 12km my left hamstring and butt started to act up and soon the right side would follow. I had to slow down the pace a bit but it didn’t matter much, I knew something like this would happen. It was cold and my legs weren’t used to running. Nothing to dwell on, just keep on going and it will sort itself out. I didn’t even stop when I reached the first checkpoint, I was carrying half a litre of water and some gels and blocks, I just ran passed it.
 
 ![Enroute](/images/IMG_20150905_164920-1.jpg)
@@ -51,7 +53,7 @@ I didn’t feel very good during this parts, a lot of bad thoughts about it bein
 
 **The end**
 
-After the next checkpoint a sign said 42,2km but my watch only said 41,2km. I was overrun with joy, my watch had to be wrong since the sign before this one said 40km and my watch 39km. 1km isn’t much but it’s a nice surprise to have 1km less left than you thought. The finish line wasn’t far off now and we were back at Sörmlandsleden. I grab a couple of pieces of chocolate at the next checkpoint and kept on going.
+After the next checkpoint a sign said 42,2km but my watch only said 41,2km. I was overrun with joy, my watch had to be wrong since the sign before this one said 40km and my watch 39km. 1km isn’t much but it’s a nice surprise to have 1km less left than you thought. The finish line wasn’t far off now and we were back at Sörmlandsleden. I grabbed a couple of pieces of chocolate at the next checkpoint and kept on going.
 
 When I reached the field where the finish was located I realized my watch wasn’t wrong at all, the signs were wrong. There’s a last checkpoint, that I ignored totally, and went out on the last little loop around a small lake before going back to the field. I was pretty much done now, my legs were tired and my mind too. There are a couple of grueling hills during the last loop before going down to the finish line. I finished 52 in 4:46:36 and that’s ok, I just wanted to get some milage in my legs and finish under five hours.
 
