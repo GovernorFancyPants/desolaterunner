@@ -32,6 +32,7 @@ I got to Björkhagen early, since pre registration was closed I had to join at t
 ![Map](/images/karta_SUM_txt_stor.png)
 
 ![Start](/images/14524502_10154293150284130_3980353448345726115_o.jpg)
+*Photo by Maria Viberg*
 
 **The start**
 
@@ -50,6 +51,7 @@ Next up was the mountain price and som asphalted road and that means we’ve lef
 I didn’t feel very good during this parts, a lot of bad thoughts about it being stupid to run this far right now but it was mostly because of the road running, I really don’t like road running and especially not when I know there’s an excellent trail not far in the woods. I noticed someone was cheering on me next to the track but I didn’t recognize her at first, but the next time I saw her she said my name and then pieces fell in place, it was of course Sara, a friend I met during Swedish Alpine Ultra last year. It turns out her boyfriend Jonathan (who also ran Swedish Alpine Ultra) was running too. As always it felt nice to see a friendly face along the trail.
 
 ![Enroute](/images/14563380_10154165752078542_5012731908424423503_n.png)
+*Photo by Fredrik Stridsman*
 
 **The end**
 

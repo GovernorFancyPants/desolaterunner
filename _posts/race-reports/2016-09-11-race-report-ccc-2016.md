@@ -115,6 +115,7 @@ I'm terrible during the climbs and it was embarrassingly apparent climbing the l
 In the end I think I passed somewhere around 70 runners during the last decent and finished in 24:43:21 and placed somewhere in the middle of the pack. After a while my brother and his wife finds me and we wait for Daniel to finish. Then we sit down by a wall in the shade and I have some juice, for some reason I've been craving juice for a while now. A second person from the medical team comes up to me and checks my pulse and ask me how I'm doing, "I'm fine, just tired" I tell him too and he tells me to get some sleep and fluids and to keep track of my urine. I'm hot and I'm cold and all I want to do is to go home and fall asleep. I usually have a hard time sleeping after a race like this but as soon as I hit the bed I'm out like a light.
 
 ![Walk](/images/IMG_1393-1.jpg)
+*Photo by Sari Nikula*
 
 **Aftermath**
 
@@ -124,8 +125,10 @@ It's hard not to be a little disappointed afterwards, I couldn't do it in the ti
 ![Profile](/images/times.png)
 
 ![Medical](/images/IMG_1396-1.jpg)
+*Photo by Sari Nikula*
 
 ![Tired](/images/IMG_1395-1.jpg)
+*Photo by Sari Nikula*
 
 My watch gave up after 20 hours (exactly what Suunto says it should last) so the activity below isn't the entire race unfortunately.
 
