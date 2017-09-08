@@ -9,14 +9,12 @@ image:
   teaser: ''
 introduction: SAU - Swedish Alpine Ultra 107k 2017
 layout: article
-modified: Invalid date
 tags:
 - ultra
 - Swedish Alpine Ultra
 - race report
 - running
 title: Race report Swedish Alpine Ultra 2017
-undefined: ''
 ---
 
 
