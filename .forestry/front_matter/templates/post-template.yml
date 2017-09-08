@@ -10,33 +10,6 @@ fields:
 - name: tags
   type: tag_list
   label: Tags
-- name: comments
-  type: boolean
-  label: Comments
-  config:
-    source:
-      type: simple
-    options:
-    - 'true'
-    - 'false'
-  default: 'true'
-- name: ads
-  type: boolean
-  label: Ads
-  config:
-    source:
-      type: simple
-    options:
-    - 'true'
-    - 'false'
-  default: 'false'
-- name: layout
-  type: text
-  label: Layout
-  hidden: true
-  default: article
-  config:
-    source: {}
 - type: textarea
   label: Excerpt
   name: excerpt
@@ -60,3 +33,30 @@ fields:
   label: Modified date
   description: When last modified
   default: Invalid date
+- name: layout
+  type: text
+  label: Layout
+  hidden: true
+  default: article
+  config:
+    source: {}
+- name: comments
+  type: boolean
+  label: Comments
+  config:
+    source:
+      type: simple
+    options:
+    - 'true'
+    - 'false'
+  default: 'true'
+- name: ads
+  type: boolean
+  label: Ads
+  config:
+    source:
+      type: simple
+    options:
+    - 'true'
+    - 'false'
+  default: 'false'
