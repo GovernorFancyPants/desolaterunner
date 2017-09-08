@@ -33,10 +33,9 @@ fields:
   label: Image
   name: image
 - type: datetime
-  name: modified
-  label: Modified date
-  description: When last modified
-  default: Invalid date
+  name: date
+  label: Date published
+  description: When published
 - name: layout
   type: text
   label: Layout
