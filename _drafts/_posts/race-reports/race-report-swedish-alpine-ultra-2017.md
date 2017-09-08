@@ -1,5 +1,5 @@
 ---
-ads: true
+ads: false
 comments: true
 date: 2017-07-25 09:51:19 +0000
 layout: article
