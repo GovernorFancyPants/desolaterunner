@@ -3,6 +3,10 @@ pages:
 - _posts/race-reports/2017-09-08-race-report-swedish-alpine-ultra-2017.md
 hide_body: false
 fields:
+- type: text
+  name: title
+  label: Title
+  description: Post title
 - name: categories
   type: text
   label: Categories
