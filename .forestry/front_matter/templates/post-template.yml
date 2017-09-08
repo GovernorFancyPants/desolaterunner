@@ -29,10 +29,6 @@ fields:
   label: Image
   name: image
 - type: datetime
-  label: Date published
-  name: date
-  description: When first published
-- type: datetime
   name: modified
   label: Modified date
   description: When last modified
