@@ -27,9 +27,11 @@ fields:
   - name: feature
     type: file
     label: Feature
+    description: Dimensions 1800x1013
   - name: teaser
     type: file
     label: Teaser
+    description: Dimensions 512x288
   label: Image
   name: image
 - type: datetime
