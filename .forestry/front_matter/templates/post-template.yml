@@ -55,10 +55,6 @@ fields:
     label: Teaser
   label: Image
   name: image
-- fields:
-  - type: boolean
-  - type: boolean
-  type: boolean
 - type: datetime
   name: modified
   label: Modified date
