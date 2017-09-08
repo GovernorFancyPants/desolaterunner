@@ -2,13 +2,14 @@
 ads: false
 categories: race-reports
 comments: true
-date: 2017-07-25 00:00:00 +0000
+date: 2017-07-25 11:51:19 +0200
 excerpt: SAU - Swedish Alpine Ultra 107k 2017
 image:
   feature: ''
   teaser: ''
 introduction: SAU - Swedish Alpine Ultra 107k 2017
 layout: article
+modified: 2017-09-08 00:00:00 +0200
 tags:
 - ultra
 - Swedish Alpine Ultra
@@ -16,7 +17,6 @@ tags:
 - running
 title: Race report Swedish Alpine Ultra 2017
 undefined: ''
-modified: Invalid date
 ---
 
 
