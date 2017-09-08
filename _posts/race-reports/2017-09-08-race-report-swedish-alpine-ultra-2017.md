@@ -1,4 +1,5 @@
 ---
+published: true
 ads: false
 categories: race-reports
 comments: true
