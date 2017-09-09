@@ -19,4 +19,4 @@ title: Race report Swedish Alpine Ultra 2017
 ---
 
 
-Crossing that finish line! Amazing!
+There I was, back in Nikkaloukta again. Ready to toe the line with a lot of familiar faces and also a few new ones. Even though I had problems with my back/hip, I had never been so well prepared for this race. Also it looked like the stars would align and both me and my brother would both be able to do the race for once. In the past we've taken turns for a variety of reasons but it seemed like this would be the year.
