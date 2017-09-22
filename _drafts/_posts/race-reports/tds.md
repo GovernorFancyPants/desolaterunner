@@ -53,4 +53,4 @@ The climb up to Col du tricot was truly horrible, so steep and headlights all th
 
 The guy ahead of me on the decent from Col du tricot was screaming and swearing, I couldn't figure out to what or whom. As it turns out he was really mad at his quads which were completely trashed and he was stumbling the whole way down.
 
-My quads were killing me on the last decent but I knew that everyone was hurting there so that was no reason to slow down, on the contrary, I started speeding up. I'm good on the down hills, quad pain wasn't gonna stop me if my hip hadn't.
+My quads were killing me on the last decent but I knew that everyone was hurting there so that was no reason to slow down, on the contrary, I started speeding up. I'm good on the down hills, quad pain wasn't gonna stop me if my hip hadn't yet.
