@@ -65,3 +65,7 @@ fields:
     - 'true'
     - 'false'
   default: 'false'
+- type: datetime
+  name: modified
+  label: Date modified
+  description: When modified
