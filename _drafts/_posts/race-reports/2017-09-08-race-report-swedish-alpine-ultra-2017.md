@@ -39,6 +39,7 @@ In Singi, about 35km in, I started to feel a some pain in my hip and told Jonas 
 
 After Sälka Jonas had a dark period, he figured it was because of lack of energy and so started eating bloks. We slowed down the pace a bit, which we had to do anyway because of how technical the trail is right here. It's better to take it slow than to end up standing on your face on top of a sharp rock. After eating an entire pack of bloks in minutes Jonas was sure the lack of energy was the problem and soon we got closer to the Tjäcktja pass and he was back on track again.
 
-**The talked about snow**
+Up until Tjäcktja there had barely been any snow at all and now it only seemed to aid us more than it slowed us down. Instead of sharp rocks it was smooth rather well packed snow under our feet. We kept on going past the Tjäcktja hut and towards Alesjaure. Somewhere around here I had a dark period, my quads and calfs were in pain doing the job of my bad hip and I didn't feel I had any energy left but we kept on going. The good thing was that I knew I had a dark period and I also knew dark periods end, they always do.
 
-Up until Tjäcktja there had barely been any snow
+**Autopilot**
+
