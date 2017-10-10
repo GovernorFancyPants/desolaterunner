@@ -43,3 +43,4 @@ Up until Tjäcktja there had barely been any snow at all and now it only seemed 
 
 **Autopilot**
 
+From Alesjaure there's only about 35k left and this part pretty much goes on autopilot. But it's dangerous to relax too much, I think Jonas would agree to that. He was running in front of me and all of a sudden he was on his back on a footbridge, it all went so fast I didn't understand what had happened. He got up again and fortunately avoided any serious injury.
