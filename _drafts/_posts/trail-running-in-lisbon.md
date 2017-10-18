@@ -17,7 +17,9 @@ modified: ''
 
 ### Monsanto Forest Park
 
-The
+In the Monsanto Forest Park you can find the most accessible trails in the Lisbon area. A 2500 acre forest park right next to Lisbon center, it's not all forest though, there are small communities inside of it and roads and traffic, all of the things you will find in a big city. But if you know your way around the park you can go for a rather long run without even noticing you're still in the city. Mountain biking seems to be a huge sport in Portugal, that is apparent when you explore this place. There are MTB tracks all over the place which is great for trail runners as well. If you use the Movescount map to navigate you'll even see all these tracks.
+
+It's a mix between gravel roads, asphalted roads (very little though) and single track trails and if you make an effort you could even find some decent vertical gain here.
 
 ### West coast
 
@@ -29,7 +31,7 @@ We took the train from Lisbon out to Cascais and from there we jumped on b<span 
 
 <span style="font-size: 1rem;">From&nbsp;</span><span style="font-size: 1rem;">Azenhas do Mar we took b</span><span style="font-size: 1rem;">us 440 (Azenhas do Mar - Portela de Sintra Station) all the way to&nbsp;</span><span style="font-size: 1rem;">Portela de Sintra Station and jumped on the train back to the city.</span>
 
-<span style="font-size: 1rem;">The buses are local and not very frequent so I would recommend checking the timetable at Scotturb.</span>
+<span style="font-size: 1rem;">The buses are local and not very frequent so I would recommend checking the timetable at <a href="http://www.scotturb.com/">Scotturb</a>&nbsp;before going.&nbsp;</span><span style="font-size: 1rem;">They will cost you about 3-4 euros each.&nbsp;</span><span style="font-size: 1rem;">Also make sure to have plenty of wiggle room if things doesn't go according to plan.</span>
 
 <span style="font-size: 1rem;">What is the trail like?</span>
 
@@ -47,3 +49,8 @@ Don't run close to the castles, you are very limited in where you can run withou
 
 ### Arrábida National Park
 
+How to get there?
+
+We took the train from Lisbon down to Setúbal
+
+Bushes from hell, where even the leafs have thorns, THE LEAFS, come on...
