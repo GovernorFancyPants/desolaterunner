@@ -4,14 +4,14 @@ categories: race-reports
 comments: true
 date: 2017-07-25 09:51:19 +0000
 excerpt: SAU - Swedish Alpine Ultra 107k 2017. My third go at this great race. It's
-  easy to come back year after year. It's beautiful, it's wild and it's fun and familiar.
-  Roland continues to organize a entertaining adventure in the Swedish mountains.
+  easy to come back year after year. It's beautiful, it's wild and it's fun. Roland
+  continues to organize an entertaining adventure in the Swedish mountains.
 image:
   feature: ''
   teaser: ''
 introduction: SAU - Swedish Alpine Ultra 107k 2017 My third go at this great race.
-  It's easy to come back year after year. It's beautiful, it's wild and it's fun and
-  familiar. Roland continues to organize a entertaining adventure in the Swedish mountains.
+  It's easy to come back year after year. It's beautiful, it's wild and it's fun.
+  Roland continues to organize an entertaining adventure in the Swedish mountains.
 layout: article
 published: true
 tags:
@@ -55,4 +55,4 @@ Making sure we kept on record pace
 
 I was concentrating a lot on not falling down and losing rythm, that would've been a tough blow to get back from
 
-Crossing the finish line once again, hand in hand with my brother in course record time and also a new FKT on the route.
+Crossing the finish line once again, hand in hand with my brother in course record time and also a new FKT on the route. My girlfriend, mother and Jonas' wife and kids
