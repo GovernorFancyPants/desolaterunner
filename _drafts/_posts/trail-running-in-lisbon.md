@@ -22,6 +22,7 @@ tags:
 - azinhas do mar
 - setúbal
 - arrábida
+- sintra
 title: Trail running in Lisbon
 ---
 
@@ -32,9 +33,7 @@ In the Monsanto Forest Park you can find the most accessible trails in the Lisbo
 
 It's a mix between gravel roads, asphalted roads (very little though) and single track trails and if you make an effort you could even find some decent vertical gain here.
 
-### West coast
-
-**Cabo da Roca - Azinhas do mar**
+### Cabo da Roca - Azinhas do mar
 
 How to get there?
 
@@ -42,19 +41,17 @@ We took the train from Lisbon out to Cascais which takes about 30 minutes and fr
 
 <span style="font-size: 1rem;">From&nbsp;</span><span style="font-size: 1rem;">Azenhas do Mar we took b</span><span style="font-size: 1rem;">us 440 (Azenhas do Mar - Portela de Sintra Station) all the way to&nbsp;</span><span style="font-size: 1rem;">Portela de Sintra Station and jumped on the train back to the city.</span>
 
-<span style="font-size: 1rem;">The buses are local and not very frequent so I would recommend checking the timetable at <a href="http://www.scotturb.com/">Scotturb</a>&nbsp;before going.&nbsp;</span><span style="font-size: 1rem;">They will cost you about 3-4 euros each.&nbsp;</span><span style="font-size: 1rem;">Also make sure to have plenty of wiggle room if things doesn't go according to plan.</span>
+<span style="font-size: 1rem;">The buses are local and not very frequent so I would recommend checking the timetable at <a href="http://www.scotturb.com/">Scotturb</a>&nbsp;before going.&nbsp;</span><span style="font-size: 1rem;">They will cost you about 3-4 euros each and the same goes for the train.&nbsp;</span><span style="font-size: 1rem;">Also make sure to have plenty of wiggle room if things doesn't go according to plan.</span>
 
 <span style="font-size: 1rem;">What is the trail like?</span>
 
-<span style="font-size: 1rem;">It's mostly single track in the beginning, technical at parts but mostly it's well established. There are small secluded beaches everywhere with very few people but most of them involves deviating from the trail and a decent down to sea level.</span>
+<span style="font-size: 1rem;">It's mostly single track in the beginning, technical at parts but mostly it's well established. There are small secluded beaches everywhere with very few people but most of them involves deviating from the trail and a decent down to sea level. It's not much of a detour though and can be well worth it if you have the time. there are no place to buy food or drinks in the beginning except for in Cabo da Roca but after a while it will be more frequent places to get some energy for going on. When you arrive in Azenhas do Mar there are a few restaurants where you can eat, I'd recommend&nbsp;</span><span style="font-size: 1rem;">Restaurante Piscina Azenhas do Mar, great food and awesome ocean view albeit a little pricey.</span>
 
-<span style="font-size: 1rem;">GR11/E9</span>
+In the beginning it can be a little difficult finding your way since there is no marked trail, you have to do some guessing but as long as you stick to the coast it shouldn't be any problem. After a while you will connect to the <span style="font-size: 1rem;">GR11/E9 route which is marked by white and red stripes. You can follow it the rest of the way to Azenhas do Mar or even longer if you want to.</span>
 
 Upload gpx and show picture of route.
 
-**Cascais**
-
-**Sintra**
+### Sintra
 
 Don't run close to the castles, you are very limited in where you can run without paying for it or use the asphalted road which has a lot of traffic.
 
@@ -62,7 +59,7 @@ Don't run close to the castles, you are very limited in where you can run withou
 
 How to get there?
 
-We took the train from Lisbon down to Setúbal
+We took the train from Lisbon down to Setúbal which
 
 Bushes from hell, where even the leafs have thorns, THE LEAFS, come on...
 
