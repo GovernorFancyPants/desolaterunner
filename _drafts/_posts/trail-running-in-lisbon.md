@@ -67,6 +67,12 @@ Take the train from Lisbon all the way to Sintra for about 3-4 euros. It only ta
 
 Don't run close to the castles, you are very limited in where you can run without paying for it or use the asphalted road which has a lot of traffic.
 
+Touristy.
+
+A lot of people and a lot of cars. Few places to run. A lot of private hunting grounds.
+
+An update will come later when I've had time to explore more of the Sintra area.
+
 ### Arrábida National Park
 
 **How to get there?**
