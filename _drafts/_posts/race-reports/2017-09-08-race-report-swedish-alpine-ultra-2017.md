@@ -55,4 +55,4 @@ Making sure we kept on record pace
 
 I was concentrating a lot on not falling down and losing rythm, that would've been a tough blow to get back from
 
-Crossing the finish line once again, hand in hand with my brother in course record time and also a new FKT
+Crossing the finish line once again, hand in hand with my brother in course record time and also a new FKT on the route.
