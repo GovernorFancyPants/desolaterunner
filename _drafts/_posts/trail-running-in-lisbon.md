@@ -31,11 +31,11 @@ title: Trail running in Lisbon
 
 **How to get there?**
 
-You can just walk or run there and if you're a bit lazy just take the bus to somewhere close by. The only thing to watch out for is to not get stuck behind the freeway or train tracks.
+You can just walk or run there and if you're a bit lazy take the bus to somewhere close by. The only thing to watch out for is to not get stuck behind the freeway or train tracks.
 
 **What is the trail like?**
 
-In the Monsanto Forest Park you can find the most accessible trails in the Lisbon area. A 2500 acre forest park right next to Lisbon center, it's not all forest though, there are small communities inside of it and roads and traffic, all of the things you will find in a big city. But if you know your way around the park you can go for a rather long run without even noticing you're still in the city. Mountain biking seems to be a huge sport in Portugal, that is apparent when you explore this place. There are MTB tracks all over the place which is great for trail runners as well. If you use the Movescount map to navigate you'll even see all these tracks.
+In the Monsanto Forest Park you can find the most accessible trails in the Lisbon area. A 2500 acre forest park right next to Lisbon center, it's not all forest though, there are small communities inside of it and roads and traffic, basically all the things you will find in a big city. But if you know your way around the park you can go for a rather long run without even noticing you're still in the city. Mountain biking seems to be a huge sport in Portugal, that is apparent when you explore this place. There are MTB tracks all over the place which is great for trail runners as well. If you use the Movescount map to navigate you'll even see all these tracks.
 
 It's a mix between gravel roads, asphalted roads (very little though) and single track trails and if you make an effort you could even find some decent vertical gain here.
 
@@ -69,7 +69,7 @@ Don't run close to the castles, you are very limited in where you can run withou
 
 **How to get there?**
 
-We took the train from Lisbon down to Setúbal which takes about an hour and cost 4-5 euros. During the summer you can take a bus from Setúbal to Portinho da Arrábida, and probably other destinations too. We were there off season so we started our run directly from Setúbal
+We took the train from Lisbon down to Setúbal which takes about an hour and cost 4-5 euros. During the summer you can take a bus from Setúbal to Portinho da Arrábida, and probably other destinations too. We were there off season so we started our run directly from Setúbal.
 
 **What is the trail like?**
 
