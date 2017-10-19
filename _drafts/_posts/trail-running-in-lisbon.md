@@ -54,3 +54,9 @@ How to get there?
 We took the train from Lisbon down to Setúbal
 
 Bushes from hell, where even the leafs have thorns, THE LEAFS, come on...
+
+The heat
+
+B&B Adóa in Portinho da Arrábida
+
+The beach, salt in the wounds
