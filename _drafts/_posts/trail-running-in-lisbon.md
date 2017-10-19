@@ -1,17 +1,28 @@
 ---
-title: Trail running in Lisbon
-layout: article
-comments: true
 ads: true
-date: 2017-10-16 00:00:00 +0000
 categories: ''
-tags: []
+comments: true
+date: 2017-10-16 00:00:00 +0000
 excerpt: ''
-introduction: ''
 image:
   feature: ''
   teaser: ''
+introduction: ''
+layout: article
 modified: ''
+tags:
+- portugal
+- trail
+- trail running
+- ultra
+- running
+- lisbon
+- cabo da roca
+- monsanto
+- azinhas do mar
+- setúbal
+- arrábida
+title: Trail running in Lisbon
 ---
 
 
@@ -23,11 +34,11 @@ It's a mix between gravel roads, asphalted roads (very little though) and single
 
 ### West coast
 
-**Cabo da Roca - Azinhos do mar**
+**Cabo da Roca - Azinhas do mar**
 
 How to get there?
 
-We took the train from Lisbon out to Cascais and from there we jumped on b<span style="font-size: 1rem;">us 403 (Cascais Terminal - Sintra Station) to Cabo da Roca. If you time it right you have about ten minutes between the train and the bus, so make sure you know the way to to bus terminal, otherwise you have to wait for 40 or so minutes for the next one. Or if you don't mind a bit of road running you can always start in Cascais and go all the way along the coast to Cabo da Roca.</span>
+We took the train from Lisbon out to Cascais which takes about 30 minutes and from there we jumped on b<span style="font-size: 1rem;">us 403 (Cascais Terminal - Sintra Station) to Cabo da Roca, it takes about 25 minutes. If you time it right you have about ten minutes between the train and the bus, so make sure you know the way to the bus terminal, otherwise you have to wait for 40 or so minutes for the next one. Or if you don't mind a bit of road running you can always start in Cascais and go all the way along the coast to Cabo da Roca.</span>
 
 <span style="font-size: 1rem;">From&nbsp;</span><span style="font-size: 1rem;">Azenhas do Mar we took b</span><span style="font-size: 1rem;">us 440 (Azenhas do Mar - Portela de Sintra Station) all the way to&nbsp;</span><span style="font-size: 1rem;">Portela de Sintra Station and jumped on the train back to the city.</span>
 
