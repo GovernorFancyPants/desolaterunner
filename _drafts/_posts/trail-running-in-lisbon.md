@@ -69,7 +69,9 @@ Don't run close to the castles, you are very limited in where you can run withou
 
 **How to get there?**
 
-We took the train from Lisbon down to Setúbal which takes about an hour and will cost you 4-5 euros.
+We took the train from Lisbon down to Setúbal which takes about an hour and cost 4-5 euros.
+
+**What is the trail like?**
 
 Bushes from hell, where even the leafs have thorns, THE LEAFS, come on...
 
