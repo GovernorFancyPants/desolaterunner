@@ -51,10 +51,12 @@ From Alesjaure there's only about 35k left and this part pretty much goes on aut
 
 We had kept steady on record pace all the way, kept track of it to not let it get away from us but now we had discovered something wasn't right. The remaining kilometers and the time didn't add up and once we got to Abiskojaure we knew for sure we had to recalculate and speed up the pace. Jonas kept us on track since he had a little more energy than me at this point, I was really focused not to do anything stupid like forget to eat or fall down at this point. He asked me if I wanted to get updates on how far it was left and what pace we needed to keep but I wasn't interested now. I told him to stay on pace for the course record and I would keep up with him.
 
+Crossing the finish line once again, hand in hand with my brother in course record time and also a new FKT on the route. My girlfriend, mother and Jonas' wife and kids
+
+**A few reflections**
+
 First time using tailwind, worked well, difficult to load up
 
-Making sure we kept on record pace
+It has never felt this "easy", steady pace, perfect conditions etc
 
-I was concentrating a lot on not falling down and losing rythm, that would've been a tough blow to get back from
-
-Crossing the finish line once again, hand in hand with my brother in course record time and also a new FKT on the route. My girlfriend, mother and Jonas' wife and kids
+Felt great to set a new pr, course record, FKT and to cross the finish line together with my brother.
