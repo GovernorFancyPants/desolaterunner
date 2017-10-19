@@ -2,7 +2,7 @@
 ads: false
 categories: race-reports
 comments: true
-date: 2017-07-25 09:51:19 +0000
+date: 2017-10-20 11:51:19 +0200
 excerpt: SAU - Swedish Alpine Ultra 107k 2017. My third go at this great race. It's
   easy to come back year after year. It's beautiful, it's wild and it's fun. Roland
   continues to organize an entertaining adventure in the Swedish mountains.
@@ -43,13 +43,15 @@ Up until Tjäcktja there had barely been any snow at all and now it only seemed 
 
 **Autopilot**
 
-From Alesjaure there's only about 35k left and this part pretty much goes on autopilot. But it's dangerous to relax too much, I think Jonas would agree to that. He was running in front of me and all of a sudden he was on his back on a footbridge, it all went so fast I didn't understand what had happened. He got up again and fortunately avoided any serious injury.
+From Alesjaure there's only about 35k left and this part pretty much goes on autopilot. But it's dangerous to relax too much, I think Jonas would agree to that. He was running in front of me and all of a sudden he was on his back on a footbridge, it all went so fast I didn't understand what had happened. He got up again and fortunately avoided any serious injury. <span style="font-size: 1rem;">From here we kept a steady pace, just trying to get passed this part because after this you can almost feel the finish line. Even though it is a long ways to go but you know it is within reach.&nbsp;</span>
+
+<span style="font-size: 1rem;">After a few more close calls getting seriously injured we reach the ever so welcomed Kieron decent. It felt like we were </span>literarily flying down down to the suspension bridge below.<span style="font-size: 1rem;">&nbsp;It was the first time I felt this good at this part of the trail, I had a few pains but nothing serious and I had eaten well enough but I was very careful not to bonk here, I've done just that so many times before. I just wanted to keep a steady pace all the way to the finish line.</span>
+
+**Having to recalculate**
+
+We had kept steady on record pace all the way, kept track of it to not let it get away from us but now we had discovered something wasn't right. The remaining kilometers and the time didn't add up and once we got to Abiskojaure we knew for sure we had to recalculate and speed up the pace. Jonas kept us on track since he had a little more energy than me at this point, I was really focused not to do anything stupid like forget to eat or fall down at this point. He asked me if I wanted to get updates on how far it was left and what pace we needed to keep but I wasn't interested now. I told him to stay on pace for the course record and I would keep up with him.
 
 First time using tailwind, worked well, difficult to load up
-
-Flying down Kieron
-
-Trying not to bonk
 
 Making sure we kept on record pace
 
