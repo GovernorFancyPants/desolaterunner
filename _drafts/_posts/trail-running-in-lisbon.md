@@ -61,7 +61,7 @@ Upload gpx and show picture of route.
 
 **How to get there?**
 
-Take the train from Lisbon all the way to Sintra for about 3-4 euros. It only takes about 40 minutes.
+Take the train from Lisbon all the way to Sintra for about 3-4 euros. It only takes 40 minutes or so.
 
 **What is the trail like?**
 
