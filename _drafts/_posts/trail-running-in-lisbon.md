@@ -69,7 +69,7 @@ Don't run close to the castles, you are very limited in where you can run withou
 
 **How to get there?**
 
-We took the train from Lisbon down to Setúbal which takes about an hour and cost 4-5 euros.
+We took the train from Lisbon down to Setúbal which takes about an hour and cost 4-5 euros. During the summer you can take a bus from Setúbal to Portinho da Arrábida, and probably other destinations too. We were there off season so we started our run directly from Setúbal
 
 **What is the trail like?**
 
