@@ -22,13 +22,13 @@ tags:
 image:
   feature: "/uploads/2017/10/20/IMG_3682-1.jpg"
   teaser: "/uploads/2017/10/20/IMG_3682-teaser.jpg"
-modified: ''
+modified: 2017-10-20 01:00:00 +0200
 ---
 
 
 **Leading up**
 
-There I was, back in Nikkaloukta again. Ready to toe the line with a lot of familiar faces and a few new ones. Even though I had problems with my back/hip, I had never been so well prepared for this race. That probably says more about my consistency than my form though. Also it looked like the stars would align and both me and my brother would be able to do the race at the same time for once. In the past we've taken turns for a variety of reasons but it seemed like this would be the year.
+There I was, back in Nikkaloukta again. Ready to toe the line with a lot of familiar faces and a few new ones. Even though I had problems with my back/hip, I had never been so well prepared for this race. That probably says more about my consistency than my form though. Also it looked like the stars would align and both me and my brother would be able to do the race at the same time. In the past we've taken turns for a variety of reasons but it seemed like this would be the year.
 
 Everyone was talking about the weather, how much would it rain on race day? How wet was it going to be out there? How much snow was left, more than a couple of years ago? How cold would it be? The questions were many, but the answers were few.
 
@@ -72,3 +72,4 @@ The race has never felt this "easy", don't get me wrong, it's a tough race but c
 
 No sub10 this year either, but I get closer every year. It's good to have something to come back for. But I will tell you it felt truly great to set a new PR, course record, FKT and to cross the finish line together with my brother. That's something that doesn't happen to often in once life.
 
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1085542975/embed/6f04a4ad56f0134ca4d7754682701f708a86c954'></iframe>
