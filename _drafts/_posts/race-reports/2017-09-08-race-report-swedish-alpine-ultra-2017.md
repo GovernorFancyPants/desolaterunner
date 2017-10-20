@@ -15,6 +15,8 @@ introduction: SAU - Swedish Alpine Ultra 107k 2017 My third go at this great rac
 layout: article
 published: true
 tags:
+- altra king mt
+- altra
 - tailwind
 - ultra
 - Swedish Alpine Ultra
@@ -60,6 +62,6 @@ This was my first race using mainly a fluid source of energy. I used Tailwind wh
 
 The conditions were as close to perfect as possible this year. It was cool but not to cold, barely any rain and the snow fields seemed almost laid out in strategic places. It was some mud and a bit slippery at places but with a good shoe choice this was barely noticeable. I used the Altra King MT which was a great shoe for this course and these conditions. It will probably never be as good conditions ever again, but one can always hope.
 
-It has never felt this "easy", steady pace, perfect conditions etc
+The race has never felt this "easy", don't get me wrong, it's a tough race but compared to the other times I've ran it this was by far the most comfortable I've been. We kept a steady pace from start to finish, we kept an eye on the course record the entire way, made no big mistakes and we had perfect conditions. Another big factor I think, at least for me, was having a running partner I knew the ins and outs of. I think we complement each other pretty good out there on the course.
 
 No sub10 this year either, but I get closer every year. It's good to have something to come back for. But I will tell you it felt truly great to set a new PR, course record, FKT and to cross the finish line together with my brother. That's something that doesn't happen to often in once life.
