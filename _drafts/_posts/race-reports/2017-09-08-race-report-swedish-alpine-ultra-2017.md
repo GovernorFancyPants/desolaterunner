@@ -52,11 +52,13 @@ From Alesjaure there's only about 35k left and this part pretty much goes on aut
 
 We had kept steady on record pace all the way, kept track of it to not let it get away from us but now we had discovered something wasn't right. The remaining kilometers and the time didn't add up and once we got to Abiskojaure we knew for sure we had to recalculate and speed up the pace. Jonas kept us on track since he had a little more energy than me at this point, I was really focused not to do anything stupid like forget to eat or fall down at this point. He asked me if I wanted to get updates on how far it was left and what pace we needed to keep but I wasn't interested now. I told him to stay on pace for the course record and I would keep up with him.
 
-Crossing the finish line once again, hand in hand with my brother in course record time and also a new FKT on the route. My girlfriend, my mother and Jonas' wife and kids, Roland and all of the people helping out was all there to cheer us across the finish line
+Crossing the finish line once again, hand in hand with my brother in course record time and also a new FKT on the route was amazing. My girlfriend, my mother and Jonas' wife and kids, Roland and all of the people helping out was all there to cheer us across the finish line after
 
 **A few reflections**
 
-This was my first race using mainly a fluid source of energy. I was using Tailwind which worked really well for me. The taste is of course a bit sweet but I noticed the "Naked" taste worked best for me, with very little taste and barely no after taste. The only problem I haven't worked out yet is how to load up in an efficient way.
+This was my first race using mainly a fluid source of energy. I used Tailwind which worked really well for me. The taste is of course a bit sweet but I noticed the "naked" taste worked best for me, it has the least taste of all and barely no after taste. The only problem I haven't worked out a fix for yet is how to load up in an efficient way. I used the stick packs which tends to be difficult to open and even more difficult to pour into the bottle. If anyone has any tips on how to load up quickly, please let me know!
+
+The conditions were as close to perfect as possible this year. It was cool but not to cold, barely any rain and the snow fields seemed almost laid out in strategic places. It was some mud and a bit slippery at places but with a good shoe choice this was barely noticeable. I used the Altra King MT which was a great shoe for this course and these conditions. It will probably never be as good conditions ever again, but one can always hope.
 
 It has never felt this "easy", steady pace, perfect conditions etc
 
