@@ -56,7 +56,7 @@ Crossing the finish line once again, hand in hand with my brother in course reco
 
 **A few reflections**
 
-This was my first race using mainly a fluid source of energy. I was using Tailwind, worked well, difficult to load up
+This was my first race using mainly a fluid source of energy. I was using Tailwind which worked really well for me. The taste is of course a bit sweet but I noticed the "Naked" taste worked best for me, with very little taste and barely no after taste. The only problem I haven't worked out yet is how to load up in an efficient way.
 
 It has never felt this "easy", steady pace, perfect conditions etc
 
