@@ -1,5 +1,5 @@
 ---
-ads: true
+ads: false
 categories: ''
 comments: true
 date: 2017-10-16 00:00:00 +0000
@@ -27,7 +27,9 @@ title: Trail running in Lisbon
 ---
 
 
-### Monsanto Forest Park
+I recently moved to Lisbon, Portugal, with my girlfriend since she's doing her masters here. I like to explore places by running and since I prefer trails over roads I try to find good trails wherever I'm at. I thought I'd do a series of posts with my best tips on trail running in the Lisbon area. If you've got any tips on places to run I'd very much appreciate it!
+
+<span style="color: rgb(40, 40, 40); font-size: 1.5em; word-spacing: 0.5px;">Monsanto Forest Park</span>
 
 **How to get there?**
 
