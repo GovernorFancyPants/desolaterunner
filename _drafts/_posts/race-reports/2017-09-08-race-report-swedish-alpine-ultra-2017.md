@@ -15,6 +15,7 @@ introduction: SAU - Swedish Alpine Ultra 107k 2017 My third go at this great rac
 layout: article
 published: true
 tags:
+- tailwind
 - ultra
 - Swedish Alpine Ultra
 - race report
@@ -55,7 +56,7 @@ Crossing the finish line once again, hand in hand with my brother in course reco
 
 **A few reflections**
 
-First time using tailwind, worked well, difficult to load up
+This was my first race using mainly a fluid source of energy. I was using Tailwind, worked well, difficult to load up
 
 It has never felt this "easy", steady pace, perfect conditions etc
 
