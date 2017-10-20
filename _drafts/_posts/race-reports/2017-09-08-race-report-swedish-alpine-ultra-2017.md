@@ -52,7 +52,7 @@ From Alesjaure there's only about 35k left and this part pretty much goes on aut
 
 We had kept steady on record pace all the way, kept track of it to not let it get away from us but now we had discovered something wasn't right. The remaining kilometers and the time didn't add up and once we got to Abiskojaure we knew for sure we had to recalculate and speed up the pace. Jonas kept us on track since he had a little more energy than me at this point, I was really focused not to do anything stupid like forget to eat or fall down at this point. He asked me if I wanted to get updates on how far it was left and what pace we needed to keep but I wasn't interested now. I told him to stay on pace for the course record and I would keep up with him.
 
-Crossing the finish line once again, hand in hand with my brother in course record time and also a new FKT on the route was amazing. My girlfriend, my mother and Jonas' wife and kids, Roland and all of the people helping out was all there to cheer us across the finish line after
+Crossing the finish line once again, hand in hand with my brother in course record time and also a new FKT on the route was amazing. My girlfriend, my mother and Jonas' wife and kids, Roland and all of the people helping out was all there to cheer us across the finish line after 11:52.35 out in the Swedish mountains. After the finish I stayed there for a long time cheering on all the others crossing the finish line, one after the other. It's great to be there a see the joy in people's faces when crossing that line, great performances all around.
 
 **A few reflections**
 
@@ -62,4 +62,4 @@ The conditions were as close to perfect as possible this year. It was cool but n
 
 It has never felt this "easy", steady pace, perfect conditions etc
 
-Felt great to set a new pr, course record, FKT and to cross the finish line together with my brother.
+No sub10 this year either, but I get closer every year. It's good to have something to come back for. But I will tell you it felt truly great to set a new PR, course record, FKT and to cross the finish line together with my brother. That's something that doesn't happen to often in once life.
