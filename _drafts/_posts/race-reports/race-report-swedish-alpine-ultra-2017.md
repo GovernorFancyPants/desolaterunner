@@ -19,6 +19,7 @@ tags:
 - tailwind
 - altra
 - altra king mt
+- SAU
 image:
   feature: "/uploads/2017/10/20/IMG_3682-1.jpg"
   teaser: "/uploads/2017/10/20/IMG_3682-teaser.jpg"
