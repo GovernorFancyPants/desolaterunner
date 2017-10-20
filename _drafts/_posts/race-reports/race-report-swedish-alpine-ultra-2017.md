@@ -20,8 +20,8 @@ tags:
 - altra
 - altra king mt
 image:
-  feature: ''
-  teaser: ''
+  feature: "/uploads/2017/10/20/IMG_3682-1.jpg"
+  teaser: "/uploads/2017/10/20/IMG_3682-teaser.jpg"
 modified: ''
 ---
 
@@ -38,12 +38,6 @@ Everything went well to Keb, we were there in about 1h45m. Filled up our bottles
 
 <img src="/uploads/2017/10/20/IMG_3599.jpg" title="" style="">
 
-![](/uploads/2017/10/20/IMG_3674-1.jpg)
-
-<img src="/uploads/2017/10/20/IMG_3682-1.jpg" title="" style="">
-
-<img src="/uploads/2017/10/20/IMG_3697-1.jpg" class="">
-
 **Hip pain and dark periods**
 
 In Singi, about 35km in, I started to feel a some pain in my hip and told Jonas so, but we kept on going in the same pace, either it would get worse or it would subside. Thankfully it subsided and I could run unobstructed again but I would later turn out to have some side effects. My quad and my calf had to do some heavy lifting to compensate for my hip not doing it's job and I knew I had to stay in control of it and manage it the rest of the way.
@@ -51,6 +45,8 @@ In Singi, about 35km in, I started to feel a some pain in my hip and told Jonas 
 After Sälka Jonas had a dark period, he figured it was because of lack of energy and so started eating bloks. We slowed down the pace a bit, which we had to do anyway because of how technical the trail is right here. It's better to take it slow than to end up standing on your face on top of a sharp rock. After eating an entire pack of bloks in minutes Jonas was sure the lack of energy was the problem and soon we got closer to the Tjäcktja pass and he was back on track again.
 
 Up until Tjäcktja there had barely been any snow at all and now it only seemed to aid us more than it slowed us down. Instead of sharp rocks it was smooth rather well packed snow under our feet. We kept on going past the Tjäcktja hut and towards Alesjaure. Somewhere around here I had a dark period, my quads and calfs were in pain doing the job of my bad hip and I didn't feel I had any energy left but we kept on going. The good thing was that I knew I had a dark period and I also knew dark periods end, they always do.
+
+![](/uploads/2017/10/20/IMG_3674-1.jpg)
 
 **Autopilot**
 
@@ -63,6 +59,8 @@ After a few more close calls getting seriously injured we reach the ever so welc
 We had kept steady on record pace all the way, kept track of it to not let it get away from us but now we had discovered something wasn't right. The remaining kilometers and the time didn't add up and once we got to Abiskojaure we knew for sure we had to recalculate and speed up the pace. Jonas kept us on track since he had a little more energy than me at this point, I was really focused not to do anything stupid like forget to eat or fall down at this point. He asked me if I wanted to get updates on how far it was left and what pace we needed to keep but I wasn't interested now. I told him to stay on pace for the course record and I would keep up with him.
 
 Crossing the finish line once again, hand in hand with my brother in course record time and also a new FKT on the route was amazing. My girlfriend, my mother and Jonas' wife and kids, Roland and all of the people helping out was all there to cheer us across the finish line after 11:52.35 out in the Swedish mountains. After the finish I stayed there for a long time cheering on all the others crossing the finish line, one after the other. It's great to be there a see the joy in people's faces when crossing that line, great performances all around.
+
+![](/uploads/2017/10/20/IMG_3697-1.jpg)
 
 **A few reflections**
 
