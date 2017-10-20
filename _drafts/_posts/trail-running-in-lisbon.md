@@ -5,8 +5,8 @@ comments: true
 date: 2017-10-16 00:00:00 +0000
 excerpt: ''
 image:
-  feature: ''
-  teaser: ''
+  feature: "/uploads/2017/10/20/IMG_5036-1.jpg"
+  teaser: "/uploads/2017/10/20/IMG_5036-teaser.jpg"
 introduction: ''
 layout: article
 modified: ''
