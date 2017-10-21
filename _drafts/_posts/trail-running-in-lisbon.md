@@ -3,11 +3,17 @@ ads: false
 categories: ''
 comments: true
 date: 2017-10-16 00:00:00 +0000
-excerpt: ''
+excerpt: I recently moved to Lisbon, Portugal, with my girlfriend since she's doing
+  her masters here. I like to explore places by running and since I prefer trails
+  over roads I try to find good trails wherever I'm at.
 image:
   feature: "/uploads/2017/10/20/IMG_5036-1.jpg"
   teaser: "/uploads/2017/10/20/IMG_5036-teaser.jpg"
-introduction: ''
+introduction: I recently moved to Lisbon, Portugal, with my girlfriend since she's
+  doing her masters here. I like to explore places by running and since I prefer trails
+  over roads I try to find good trails wherever I'm at. I thought I'd do a series
+  of posts with my best tips on trail running in the Lisbon area. If you've got any
+  tips on places to run I'd very much appreciate it!
 layout: article
 modified: ''
 tags:
@@ -26,8 +32,6 @@ tags:
 title: Trail running in Lisbon
 ---
 
-
-I recently moved to Lisbon, Portugal, with my girlfriend since she's doing her masters here. I like to explore places by running and since I prefer trails over roads I try to find good trails wherever I'm at. I thought I'd do a series of posts with my best tips on trail running in the Lisbon area. If you've got any tips on places to run I'd very much appreciate it!
 
 ### Monsanto Forest Park
 
@@ -51,11 +55,19 @@ We took the train from Lisbon out to Cascais which takes about 30 minutes and fr
 
 <span style="font-size: 1rem;">The buses are local and not very frequent so I would recommend checking the timetable at <a href="http://www.scotturb.com/">Scotturb</a>&nbsp;before going.&nbsp;</span><span style="font-size: 1rem;">They will cost you about 3-4 euros each and the same goes for the train.&nbsp;</span><span style="font-size: 1rem;">Also make sure to have plenty of wiggle room if things doesn't go according to plan.</span>
 
+<img src="/uploads/2017/10/20/IMG_5018-1.jpg" title="" style="">
+
 <span style="font-size: 1rem;"><b>What is the trail like?</b></span>
 
 <span style="font-size: 1rem;">It's mostly single track in the beginning, technical at parts but mostly it's well established. There are small secluded beaches everywhere with very few people but most of them involves deviating from the trail and a decent down to sea level. It's not much of a detour though and can be well worth it if you have the time. there are no place to buy food or drinks in the beginning except for in Cabo da Roca but after a while it will be more frequent places to get some energy for going on. When you arrive in Azenhas do Mar there are a few restaurants where you can eat, I'd recommend&nbsp;</span><span style="font-size: 1rem;">Restaurante Piscina Azenhas do Mar, great food and awesome ocean view albeit a little pricey.</span>
 
 In the beginning it can be a little difficult finding your way since there is no marked trail, you have to do some guessing but as long as you stick to the coast it shouldn't be any problem. After a while you will connect to the <span style="font-size: 1rem;">GR11/E9 route which is marked by white and red stripes. You can follow it the rest of the way to Azenhas do Mar or even longer if you want to.</span>
+
+<img src="/uploads/2017/10/21/IMG_5113-1-1.jpg" title="" style="">
+
+<img src="/uploads/2017/10/21/IMG_5028-1.jpg" title="" style="">
+
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1219321605/embed/d196d5bbf09884661264c98713886030cbe1d498'></iframe>
 
 Upload gpx and show picture of route.
 
@@ -90,3 +102,4 @@ The heat
 B&B Adóa in Portinho da Arrábida
 
 The beach, salt in the wounds
+
