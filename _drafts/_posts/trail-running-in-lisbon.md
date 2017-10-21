@@ -67,9 +67,7 @@ In the beginning it can be a little difficult finding your way since there is no
 
 <img src="/uploads/2017/10/21/IMG_5028-1.jpg" title="" style="">
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1219321605/embed/d196d5bbf09884661264c98713886030cbe1d498'></iframe>
-
-Upload gpx and show picture of route.
+<iframe height="405" width="590" frameborder="0" allowtransparency="true" scrolling="no" src="https://www.strava.com/activities/1219321605/embed/d196d5bbf09884661264c98713886030cbe1d498"></iframe>
 
 ### Sintra
 
@@ -103,3 +101,6 @@ B&B Adóa in Portinho da Arrábida
 
 The beach, salt in the wounds
 
+<iframe height="405" width="590" frameborder="0" allowtransparency="true" scrolling="no" src="https://www.strava.com/activities/1232336030/embed/ccfbda35cb0c912c274df1e8667d8d9c81ef3105"></iframe> 
+
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1233052161/embed/c5602c430731092efa0e594952978d4d75379a0d'></iframe>
