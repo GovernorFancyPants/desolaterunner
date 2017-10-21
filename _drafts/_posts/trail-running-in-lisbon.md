@@ -41,9 +41,11 @@ You can just walk or run there and if you're a bit lazy take the bus to somewher
 
 **What is the trail like?**
 
-In the Monsanto Forest Park you can find the most accessible trails in the Lisbon area. A 2500 acre forest park right next to Lisbon center, it's not all forest though, there are small communities inside of it and roads and traffic, basically all the things you will find in a big city. But if you know your way around the park you can go for a rather long run without even noticing you're still in the city. Mountain biking seems to be a huge sport in Portugal, that is apparent when you explore this place. There are MTB tracks all over the place which is great for trail runners as well. If you use the Movescount map to navigate you'll even see all these tracks.
+In the Monsanto Forest Park you can find the most accessible trails in the Lisbon area. A 2500 acre forest park right next to Lisbon city center, it's not all forest though, there are small communities inside of it and roads and traffic, basically all the things you would find in a big city. But if you know your way around the park you can go for a rather long run without even noticing you're still in the city. Mountain biking seems to be a huge sport in Portugal, that is apparent when you explore this place. There are MTB tracks all over the place which is great for trail runners as well. If you use the Movescount map to navigate you'll even see all these tracks.
 
-It's a mix between gravel roads, asphalted roads (very little though) and single track trails and if you make an effort you could even find some decent vertical gain here.
+It's a mix between dirt roads, asphalted roads (very little though) and single track trails and if you make an effort you could even get some decent vertical gain here.
+
+<iframe height="405" width="590" frameborder="0" allowtransparency="true" scrolling="no" src="https://www.strava.com/activities/1195054971/embed/83b3acf8f58d50f88664c694d394cc7c97415315"></iframe>
 
 ### Cabo da Roca - Azinhas do mar
 
@@ -103,4 +105,4 @@ The beach, salt in the wounds
 
 <iframe height="405" width="590" frameborder="0" allowtransparency="true" scrolling="no" src="https://www.strava.com/activities/1232336030/embed/ccfbda35cb0c912c274df1e8667d8d9c81ef3105"></iframe> 
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1233052161/embed/c5602c430731092efa0e594952978d4d75379a0d'></iframe>
+<iframe height="405" width="590" frameborder="0" allowtransparency="true" scrolling="no" src="https://www.strava.com/activities/1233052161/embed/c5602c430731092efa0e594952978d4d75379a0d"></iframe>
