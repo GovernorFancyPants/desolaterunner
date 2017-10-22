@@ -40,11 +40,15 @@ title: Trail running in Lisbon
 
 You can just walk or run there and if you're a bit lazy take the bus to somewhere close by. The only thing to watch out for is to not get stuck behind the freeway or train tracks.
 
+<img src="/uploads/2017/10/22/IMG_4931-1.jpg" title="" style="">
+
 **What is the trail like?**
 
 In the Monsanto Forest Park you can find the most accessible trails in the Lisbon area. A 2500 acre forest park right next to Lisbon city center, it's not all forest though, there are small communities inside of it and roads and traffic, basically all the things you would find in a big city. But if you know your way around the park you can go for a rather long run without even noticing you're still in the city. Mountain biking seems to be a huge sport in Portugal, that is apparent when you explore this place. There are MTB tracks all over the place which is great for trail runners as well. If you use the Movescount map to navigate you'll even see all these tracks.
 
 It's a mix between dirt roads, asphalted roads (very little though) and single track trails and if you make an effort you could even get some decent vertical gain here.
+
+![](/uploads/2017/10/22/IMG_4884-1.jpg)
 
 <iframe height="405" width="590" frameborder="0" allowtransparency="true" scrolling="no" src="https://www.strava.com/activities/1195054971/embed/83b3acf8f58d50f88664c694d394cc7c97415315"></iframe>
 
