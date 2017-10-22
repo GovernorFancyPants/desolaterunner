@@ -29,6 +29,7 @@ tags:
 - setúbal
 - arrábida
 - sintra
+- portinho da arrábida
 title: Trail running in Lisbon
 ---
 
