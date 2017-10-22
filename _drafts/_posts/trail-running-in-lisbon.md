@@ -103,6 +103,13 @@ B&B Adóa in Portinho da Arrábida
 
 The beach, salt in the wounds
 
+![](/uploads/2017/10/22/IMG_5484-1.jpg)
+
+![](/uploads/2017/10/22/IMG_5501-1.jpg)
+
+![](/uploads/2017/10/22/IMG_5506-1.jpg)
+
 <iframe height="405" width="590" frameborder="0" allowtransparency="true" scrolling="no" src="https://www.strava.com/activities/1232336030/embed/ccfbda35cb0c912c274df1e8667d8d9c81ef3105"></iframe> 
 
 <iframe height="405" width="590" frameborder="0" allowtransparency="true" scrolling="no" src="https://www.strava.com/activities/1233052161/embed/c5602c430731092efa0e594952978d4d75379a0d"></iframe>
+
