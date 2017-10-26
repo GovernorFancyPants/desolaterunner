@@ -38,7 +38,9 @@ title: Trail running in Lisbon
 
 **How to get there?**
 
-You can just walk or run there and if you're a bit lazy take the bus to somewhere close by. The only thing to watch out for is to not get stuck behind the freeway or train tracks.
+You can just walk or run there and if you're a bit lazy take the bus to somewhere close by. The only thing to watch out for is to not get stuck behind the freeway or train tracks. I've circled the places where I've found it the easiest to enter/exit the park.
+
+![](/uploads/2017/10/26/Screenshot%202017-10-26%2023.28.14-1.jpg)
 
 <img src="/uploads/2017/10/22/IMG_4931-1.jpg" title="" style="">
 

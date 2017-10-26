@@ -1,8 +1,8 @@
 ---
 pages:
+- _posts/trail-running-in-lisbon.md
 - _posts/race-reports/2017-10-20-race-report-swedish-alpine-ultra-2017.md
 - _posts/tds.md
-- _posts/trail-running-in-lisbon.md
 hide_body: false
 fields:
 - type: text
