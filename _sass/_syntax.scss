@@ -50,6 +50,7 @@ pre.highlight {
         @include media($medium) {
             @include span-columns(7);
             @include shift(2.5);
+            margin: 0; 
         }
     }
 }

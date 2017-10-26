@@ -155,6 +155,7 @@
 	}
 	.page-title {
 		// @include fill-parent;
+        text-align: center;
 		@include media($medium) {
 			@include span-columns(9);
 			@include shift(1.5);
