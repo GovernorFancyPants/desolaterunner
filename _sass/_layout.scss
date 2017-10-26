@@ -229,7 +229,8 @@
 		padding: 10px 0 20px;
 		background: lighten($border-color,5);
 		@include media($medium) {
-			@include span-columns(3);
+			// @include span-columns(3);
+            width: 100%;
 			margin-left: 0;
 			margin-right: 0;
 		}

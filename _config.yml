@@ -5,7 +5,7 @@ description: "Worth it in the long run"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: hero-img-teaser.jpg # 400x250 px default teaser image used in image archive grid
 locale: en_US
-url: "http://desolaterunner.com" # comment out when developing locally
+# url: "http://desolaterunner.com" # comment out when developing locally
 # baseurl: /
 
 # Jekyll configuration
@@ -184,8 +184,8 @@ owner:
   instagram: desolaterunner
   facebook: desolaterunner
   google:
-    ad-client:
-    ad-slot:
+    ad-client: ca-pub-7422617776453761
+    ad-slot: 1223360338
   bio: "A runner based in Stockholm, Sweden"
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname: desolaterunner
