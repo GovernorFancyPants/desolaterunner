@@ -2,7 +2,7 @@
 title: Race report Swedish Alpine Ultra 2017
 layout: article
 comments: true
-ads: false
+ads: true
 date: 2017-10-20 00:00:00 +0000
 categories: race-reports
 excerpt: SAU - Swedish Alpine Ultra 107k 2017 My third go at this great race. It's
@@ -23,7 +23,7 @@ tags:
 image:
   feature: "/uploads/2017/10/20/IMG_3682-1.jpg"
   teaser: "/uploads/2017/10/20/IMG_3682-teaser.jpg"
-modified: 2017-10-20 01:00:00 +0200
+modified: 2017-10-19 23:00:00 +0000
 ---
 
 
