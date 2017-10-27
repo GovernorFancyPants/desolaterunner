@@ -43,7 +43,7 @@ You can just walk or run there and if you're a bit lazy take the bus to somewher
 
 ![](/uploads/2017/10/26/Screenshot%202017-10-26%2023.28.14-1.jpg)
 
-<img src="/uploads/2017/10/22/IMG_4931-1.jpg" title="" style="">
+![](/uploads/2017/10/22/IMG_4931-1.jpg)
 
 **What is the trail like?**
 
@@ -65,7 +65,7 @@ From Azenhas do Mar we took bus 440 (Azenhas do Mar - Portela de Sintra Station
 
 The buses are local and not very frequent so I would recommend checking the timetable at [Scotturb](http://www.scotturb.com) before going. They will cost you about 3-4 euros each and the same goes for the train. Also make sure to have plenty of wiggle room if things doesn't go according to plan.
 
-<img src="/uploads/2017/10/20/IMG_5018-1.jpg" title="" style="">
+![](/uploads/2017/10/20/IMG_5018-1.jpg)
 
 **What is the trail like?**
 
@@ -73,9 +73,9 @@ It's mostly single track in the beginning, technical at parts but mostly it's we
 
 In the beginning it can be a little difficult finding your way since there is no marked trail, you have to do some guessing but as long as you stick to the coast it shouldn't be any problem. After a while you will connect to the GR11/E9 route which is marked by white and red stripes. You can follow it the rest of the way to Azenhas do Mar or even longer if you want to.
 
-<img src="/uploads/2017/10/21/IMG_5113-1-1.jpg" title="" style="">
+![](/uploads/2017/10/21/IMG_5113-1-1.jpg)
 
-<img src="/uploads/2017/10/21/IMG_5028-1.jpg" title="" style="">
+![](/uploads/2017/10/21/IMG_5028-1.jpg)
 
 <iframe height="405" width="590" frameborder="0" allowtransparency="true" scrolling="no" src="https://www.strava.com/activities/1219321605/embed/d196d5bbf09884661264c98713886030cbe1d498"></iframe>
 
