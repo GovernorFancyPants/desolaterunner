@@ -105,15 +105,19 @@ We took the train from Lisbon down to Setúbal which takes about an hour and cos
 
 The first part from Setúbal,  the red circle close to Setúbal is where we started, was  a bit difficult since there are no marked tracks. I used someone else's preciously recorded run as a route on my Suunto ambit 3 watch. First of all we had trouble getting out of town since there was a large fenced area but once we found the correct road we followed that for a while before we finally found are way to more of a trail. From there it was good running for a while, wide dust roads and single track in some places.
 
-It was hot the day we went there and unfortunately there aren't many good places to find water. We definitely didn't bring enough water with us for the amount of time we were out there. There was one easy place to get water but it was rather early on, I'll point it out on the map, so when the sun were at it's highest and that refill was long gone we stopped at a house and asked for water. An older  man from Germany was kind enough to give us a 1,5 litre bottle and wished us luck.
+![](/uploads/2017/10/27/Screenshot%202017-10-28%2000.09.43-1.jpg)
 
-You can find the route I used on [Movescount](https://goo.gl/gXFvvK).
+It was hot the day we went there and unfortunately there aren't many good places to find water. We definitely didn't bring enough water with us for the amount of time we were out there. There was one easy place to get water but it was rather early on, the red circle on the map in the middle where the crosses over itself. When the sun was at it's highest and that refill was long gone we stopped at a house and asked for water. An older  man from Germany was kind enough to give us a 1,5 litre bottle and wished us luck.
+
+It was now the really tough part started
 
 Bushes from hell, where even the leafs have thorns, THE LEAFS, come on...
 
 Unfortunately I don't have any pics of our legs, but trust me, they were destroyed. That became  apparent to us when taking a long sought after dip in the ocean. It burned, oh so much.
 
 B&B Adóa in Portinho da Arrábida
+
+You can find the route I used on [Movescount](https://goo.gl/gXFvvK).
 
 ![](/uploads/2017/10/22/IMG_5484-1.jpg)
 
