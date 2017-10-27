@@ -226,11 +226,11 @@
 		text-align: center;
 		margin-top: $gutter;
 		padding: 0 0 20px;
-		background: #f5f5f5;
+		// background: #f5f5f5;
 		@include media($medium) {
 			// @include span-columns(3);
             width: 100%;
-            background: transparent;
+            // background: transparent;
 		}
 		&:after {
 			content: 'Advertisement';
