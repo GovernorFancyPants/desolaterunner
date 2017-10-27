@@ -1,5 +1,5 @@
 ---
-ads: false
+ads: true
 categories: ''
 comments: true
 date: 2017-10-16 00:00:00 +0000
@@ -30,10 +30,11 @@ tags:
 - arrábida
 - sintra
 - portinho da arrábida
+- movescount
+- suunto
+- ambit3
 title: Trail running in Lisbon
 ---
-
-
 ### Monsanto Forest Park
 
 **How to get there?**
@@ -58,19 +59,19 @@ It's a mix between dirt roads, asphalted roads (very little though) and single t
 
 **How to get there?**
 
-We took the train from Lisbon out to Cascais which takes about 30 minutes and from there we jumped on b<span style="font-size: 1rem;">us 403 (Cascais Terminal - Sintra Station) to Cabo da Roca, it takes about 25 minutes. If you time it right you have about ten minutes between the train and the bus, so make sure you know the way to the bus terminal, otherwise you have to wait for 40 or so minutes for the next one. Or if you don't mind a bit of road running you can always start in Cascais and go all the way along the coast to Cabo da Roca.</span>
+We took the train from Lisbon out to Cascais which takes about 30 minutes and from there we jumped on bus 403 (Cascais Terminal - Sintra Station) to Cabo da Roca, it takes about 25 minutes. If you time it right you have about ten minutes between the train and the bus, so make sure you know the way to the bus terminal, otherwise you have to wait for 40 or so minutes for the next one. Or if you don't mind a bit of road running you can always start in Cascais and go all the way along the coast to Cabo da Roca.
 
-<span style="font-size: 1rem;">From&nbsp;</span><span style="font-size: 1rem;">Azenhas do Mar we took b</span><span style="font-size: 1rem;">us 440 (Azenhas do Mar - Portela de Sintra Station) all the way to&nbsp;</span><span style="font-size: 1rem;">Portela de Sintra Station and jumped on the train back to the city.</span>
+From Azenhas do Mar we took bus 440 (Azenhas do Mar - Portela de Sintra Station) all the way to Portela de Sintra Station and jumped on the train back to the city.
 
-<span style="font-size: 1rem;">The buses are local and not very frequent so I would recommend checking the timetable at <a href="http://www.scotturb.com/">Scotturb</a>&nbsp;before going.&nbsp;</span><span style="font-size: 1rem;">They will cost you about 3-4 euros each and the same goes for the train.&nbsp;</span><span style="font-size: 1rem;">Also make sure to have plenty of wiggle room if things doesn't go according to plan.</span>
+The buses are local and not very frequent so I would recommend checking the timetable at [Scotturb](http://www.scotturb.com) before going. They will cost you about 3-4 euros each and the same goes for the train. Also make sure to have plenty of wiggle room if things doesn't go according to plan.
 
 <img src="/uploads/2017/10/20/IMG_5018-1.jpg" title="" style="">
 
-<span style="font-size: 1rem;"><b>What is the trail like?</b></span>
+**What is the trail like?**
 
-<span style="font-size: 1rem;">It's mostly single track in the beginning, technical at parts but mostly it's well established. There are small secluded beaches everywhere with very few people but most of them involves deviating from the trail and a decent down to sea level. It's not much of a detour though and can be well worth it if you have the time. there are no place to buy food or drinks in the beginning except for in Cabo da Roca but after a while it will be more frequent places to get some energy for going on. When you arrive in Azenhas do Mar there are a few restaurants where you can eat, I'd recommend&nbsp;</span><span style="font-size: 1rem;">Restaurante Piscina Azenhas do Mar, great food and awesome ocean view albeit a little pricey.</span>
+It's mostly single track in the beginning, technical at parts but mostly it's well established. There are small secluded beaches everywhere with very few people but most of them involves deviating from the trail and a decent down to sea level. It's not much of a detour though and can be well worth it if you have the time. there are no place to buy food or drinks in the beginning except for in Cabo da Roca but after a while it will be more frequent places to get some energy for going on. When you arrive in Azenhas do Mar there are a few restaurants where you can eat, I'd recommend Restaurante Piscina Azenhas do Mar, great food and awesome ocean view albeit a little pricey.
 
-In the beginning it can be a little difficult finding your way since there is no marked trail, you have to do some guessing but as long as you stick to the coast it shouldn't be any problem. After a while you will connect to the <span style="font-size: 1rem;">GR11/E9 route which is marked by white and red stripes. You can follow it the rest of the way to Azenhas do Mar or even longer if you want to.</span>
+In the beginning it can be a little difficult finding your way since there is no marked trail, you have to do some guessing but as long as you stick to the coast it shouldn't be any problem. After a while you will connect to the GR11/E9 route which is marked by white and red stripes. You can follow it the rest of the way to Azenhas do Mar or even longer if you want to.
 
 <img src="/uploads/2017/10/21/IMG_5113-1-1.jpg" title="" style="">
 
@@ -102,13 +103,17 @@ We took the train from Lisbon down to Setúbal which takes about an hour and cos
 
 **What is the trail like?**
 
+The first part from Setúbal,  the red circle close to Setúbal is where we started, was  a bit difficult since there are no marked tracks. I used someone else's preciously recorded run as a route on my Suunto ambit 3 watch. First of all we had trouble getting out of town since there was a large fenced area but once we found the correct road we followed that for a while before we finally found are way to more of a trail. From there it was good running for a while, wide dust roads and single track in some places.
+
+It was hot the day we went there and unfortunately there aren't many good places to find water. We definitely didn't bring enough water with us for the amount of time we were out there. There was one easy place to get water but it was rather early on, I'll point it out on the map, so when the sun were at it's highest and that refill was long gone we stopped at a house and asked for water. An older  man from Germany was kind enough to give us a 1,5 litre bottle and wished us luck.
+
+You can find the route I used on [Movescount](https://goo.gl/gXFvvK).
+
 Bushes from hell, where even the leafs have thorns, THE LEAFS, come on...
 
-The heat
+Unfortunately I don't have any pics of our legs, but trust me, they were destroyed. That became  apparent to us when taking a long sought after dip in the ocean. It burned, oh so much.
 
 B&B Adóa in Portinho da Arrábida
-
-The beach, salt in the wounds
 
 ![](/uploads/2017/10/22/IMG_5484-1.jpg)
 
@@ -116,7 +121,6 @@ The beach, salt in the wounds
 
 ![](/uploads/2017/10/22/IMG_5506-1.jpg)
 
-<iframe height="405" width="590" frameborder="0" allowtransparency="true" scrolling="no" src="https://www.strava.com/activities/1232336030/embed/ccfbda35cb0c912c274df1e8667d8d9c81ef3105"></iframe> 
+<iframe height="405" width="590" frameborder="0" allowtransparency="true" scrolling="no" src="https://www.strava.com/activities/1232336030/embed/ccfbda35cb0c912c274df1e8667d8d9c81ef3105"></iframe>
 
 <iframe height="405" width="590" frameborder="0" allowtransparency="true" scrolling="no" src="https://www.strava.com/activities/1233052161/embed/c5602c430731092efa0e594952978d4d75379a0d"></iframe>
-
