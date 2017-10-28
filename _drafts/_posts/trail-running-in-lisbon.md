@@ -87,6 +87,8 @@ Take the train from Lisbon all the way to Sintra for about 3-4 euros. It only ta
 
 **What is the trail like?**
 
+I will start with a disclaimer, we've only run the touristy parts of Sintra so I will do another post once I've had time to explore the rest of it.
+
 Don't run close to the castles, you are very limited in where you can run without paying for it or use the asphalted road which has a lot of traffic.
 
 Touristy.
