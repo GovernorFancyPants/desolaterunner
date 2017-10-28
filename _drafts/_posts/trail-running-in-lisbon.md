@@ -46,7 +46,7 @@ You can just walk or run there and if you're lazy take the bus to somewhere clos
 
 **What is the trail like?**
 
-In the Monsanto Forest Park you can find the most accessible trails in the Lisbon area. A 2500 acre forest park right next to Lisbon city center, it's not all forest though, there are small communities inside of it and roads and traffic, basically all the things you would find in a big city. But if you know your way around the park you can go for a rather long run without even noticing you're still in the city. Mountain biking seems to be a huge sport in Portugal, that is apparent when you explore this place. There are MTB tracks all over the place which is great for trail runners as well. If you use the Movescount map to navigate you'll even see all these tracks.
+In the Monsanto Forest Park you can find the most accessible trails in the Lisbon area. A 2500 acre forest park right next to Lisbon city center, it's not all forest though. There are small communities inside of it and roads and traffic, but if you know your way around the park you can go for a rather long run without even noticing you're still in the city. Mountain biking seems to be a huge sport in Portugal, that is apparent when you explore this place. There are MTB tracks all over the place which is great for trail runners as well. If you use the Movescount map to navigate you'll even see all these tracks.
 
 It's a mix between dirt roads, asphalted roads (very little though) and single track trails and if you make an effort you could even get some decent vertical gain here.
 
@@ -68,9 +68,9 @@ The buses are local and not very frequent so I would recommend checking the time
 
 **What is the trail like?**
 
-It's mostly single track in the beginning, technical at parts but mostly it's well established. There are small secluded beaches everywhere with very few people but most of them involves deviating from the trail and a decent down to sea level. It's not much of a detour though and can be well worth it if you have the time. there are no place to buy food or drinks in the beginning except for in Cabo da Roca but after a while it will be more frequent places to get some energy for going on. When you arrive in Azenhas do Mar there are a few restaurants where you can eat, I'd recommend Restaurante Piscina Azenhas do Mar, great food and awesome ocean view albeit a little pricey.
+It's mostly single track in the beginning, technical at parts but mostly it's well established. There are small secluded beaches everywhere  but most of them involves deviating from the trail and a descent down to sea level. It's not much of a detour though and can be well worth it if you have the time. There are no placees to buy food or drinks in the beginning except for in Cabo da Roca but after a while there will be more frequent places to get some energy for going on. When you arrive in Azenhas do Mar there are a few restaurants where you can eat, I recommend Restaurante Piscina Azenhas do Mar, great food and awesome ocean view albeit a little pricey.
 
-In the beginning it can be a little difficult finding your way since there is no marked trail, you have to do some guessing but as long as you stick to the coast it shouldn't be any problem. After a while you will connect to the GR11/E9 route which is marked by white and red stripes. You can follow it the rest of the way to Azenhas do Mar or even longer if you want to.
+In the beginning it can be a little difficult finding your way since there is no marked trail, you have to do some guessing but as long as you stick to the coast it shouldn't be any problem. After a while you will connect to the GR11/E9 route which is marked with white and red stripes. You can follow it the rest of the way to Azenhas do Mar or even longer if you want  (it continues all the way to Estonia).
 
 ![](/uploads/2017/10/21/IMG_5113-1-1.jpg)
 
@@ -82,15 +82,15 @@ In the beginning it can be a little difficult finding your way since there is no
 
 **How to get there?**
 
-Take the train from Lisbon all the way to Sintra for about 3-4 euros. It only takes 40 minutes or so.
+Take the train from Lisbon all the way to Sintra for about 3-4 euros. It only takes 40 minutes.
 
 **What is the trail like?**
 
 I will start with a disclaimer, we've only run the touristy parts of Sintra so I will do another post once I've had time to explore the rest of it.
 
-My tip is, don't run close to the castles unless you are there to see the attractions as well. You are very limited in where you can run without paying for it, there are a lot of tourists you have to bypass and it's not the best place to run in general. There are a lot of "private hunting grounds" close to the castles. I don't really know if you can enter these hunting grounds or not, and if you can I don't know if there are any trails to run here.
+My tip is, don't run close to the castles unless you are there to see the attractions as well. You are very limited in where you can run without paying for it, there are a lot of tourists you have to bypass and it's not the best place to run in general. There are a lot of "private hunting grounds" close to the castles. I don't really know if you can enter these  or not, and if you can I don't know if there are any trails to run.
 
-An update will come later when I've had time to explore more of the Sintra area.
+I believe there are some great trails around here but I haven't tried them yet. An update will come later when I've had time to explore more of the Sintra area.
 
 ![](/uploads/2017/10/28/IMG_4709-1.jpg)
 
@@ -104,19 +104,19 @@ We took the train from Lisbon down to Setúbal which takes about an hour and cos
 
 **What is the trail like?**
 
-The first part from Setúbal,  the red circle close to Setúbal is where we started, was  a bit difficult since there are no marked tracks. I used someone else's preciously recorded run as a route on my Suunto ambit 3 watch. First of all we had trouble getting out of town since there was a large fenced area but once we found the correct road we followed that for a while before we finally found are way to more of a trail. From there it was good running for a while, wide dust roads and single track in some places.
+The first part from Setúbal,  the red circle close to Setúbal is where we started, was  a bit difficult since there are no marked tracks. I used someone else's previously recorded run as a route on my Suunto ambit 3 watch. First of all we had trouble getting out of town since there was a large fenced area. Once we found the right road we followed that for a while before we finally found our way to more of a trail. From there it was good running for a while, wide dust roads and single track in some places.
 
 ![](/uploads/2017/10/27/Screenshot%202017-10-28%2000.09.43-1.jpg)
 
-It was hot the day we went there and unfortunately there aren't many good places to find water. We definitely didn't bring enough water with us for the amount of time we were out there. There was one easy place to get water but it was rather early on, the red circle on the map in the middle where the crosses over itself. When the sun was at it's highest and that refill was long gone we stopped at a house and asked for water. An older  man from Germany was kind enough to give us a 1,5 litre bottle and wished us luck.
+It was hot the day we went there and unfortunately there aren't many good places to find water. We definitely didn't bring enough  with us for the amount of time we were out there. There was one easy place to get water but it was rather early on, the red circle on the map in the middle where the route crosses over on itself. When the sun was at it's highest and that refill was long gone we stopped at a house and asked for water. An older  man from Germany was kind enough to give us a 1,5 litre bottle and wished us luck.
 
-Now the really tough part started, it was around 33 degrees celcius now and we discovered some unfriendly vegetation, the Portuguese oak. We tried to follow the route but the bushes were too thick and the leafs were like razor blades, cutting us all over. And as it turned out this would be a common theme, they were literarily everywhere. We tried to get through them, even used a towel around our legs but ultimately we had to turn back and find another way. It was difficult finding it but once we did it was a lot better, meaning we could walk/run on it without getting cut to pieces.
+Now the really tough part started, it was around 33 degrees celcius  and we discovered some unfriendly vegetation, the Portuguese oak. We tried to follow the route but the bushes were too thick and the leafs were like razor blades, cutting us all over. And as it turned out this would be a common theme, they were literarily everywhere. We tried to get through them, even used a towel around our legs for cover but ultimately we had to turn back and find another way. It was difficult finding it but once we did it was a lot better, meaning we could walk/run on it without getting cut to pieces.
 
-Once we got through that rough patch there was a bit of road running and then we started the second ascent up to the highest peak of about 500 metres above sea level. It was a steep climb on small rocks/gravel that had been coming down the mountain and once we cleared them we made a horrible discovery, the bushes were back and they would stay with us the rest of the way. Unfortunately I don't have any pics of our legs, but trust me, they were destroyed. That became  apparent to us when taking a long sought after dip in the ocean. It burned, oh so much.
+Once we got through that rough patch there was a bit of road running and then we started the second ascent up to the highest peak of about 500 metres above sea level (you can see the  profile on the map above). It was a steep climb on small rocks/gravel that had been coming down the mountain and once we cleared them we made a horrible discovery, the bushes were back and they would stay with us the rest of the way. Unfortunately I don't have any pics of our legs, but trust me, they were destroyed. That became  apparent to us when taking a long sought after dip in the ocean. It burned, oh so much.
 
 ![](/uploads/2017/10/22/IMG_5484-1.jpg)
 
-We finally arrived in Portinho da Arrábida after  six hours or so out on the trail, about three more than I had anticipated. We stayed the night at a nice B&B with a lovely ocean view. The next day we headed back to Setúbal but this time we opted for road running. I was an easy 10k back there with some scenery along the first part of the way back. The second half wasn't that great but it was easy going and we finished of with a lunch by the bay.
+We finally arrived in Portinho da Arrábida after  six hours or so out on the trail, about three more than I had anticipated. We stayed the night at a nice B&B with a lovely ocean view. The next day we headed back to Setúbal but this time we opted for road running. It was an easy 10k back there with some scenery along the first part of the way. The second half wasn't that great but it was easy going and we finished off with a lunch by the bay.
 
 You can find the route I used on [Movescount](https://goo.gl/gXFvvK).
 
