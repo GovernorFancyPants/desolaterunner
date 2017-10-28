@@ -88,11 +88,7 @@ Take the train from Lisbon all the way to Sintra for about 3-4 euros. It only ta
 
 I will start with a disclaimer, we've only run the touristy parts of Sintra so I will do another post once I've had time to explore the rest of it.
 
-Don't run close to the castles, you are very limited in where you can run without paying for it or use the asphalted road which has a lot of traffic.
-
-Touristy.
-
-A lot of people and a lot of cars. Few places to run. A lot of private hunting grounds.
+My tip is, don't run close to the castles unless you are there to see the attractions as well. You are very limited in where you can run without paying for it, there are a lot of tourists you have to bypass and it's not the best place to run in general. There are a lot of "private hunting grounds" close to the castles. I don't really know if you can enter these hunting grounds or not, and if you can I don't know if there are any trails to run here.
 
 An update will come later when I've had time to explore more of the Sintra area.
 
