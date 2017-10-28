@@ -109,17 +109,15 @@ The first part from Setúbal,  the red circle close to Setúbal is where we star
 
 It was hot the day we went there and unfortunately there aren't many good places to find water. We definitely didn't bring enough water with us for the amount of time we were out there. There was one easy place to get water but it was rather early on, the red circle on the map in the middle where the crosses over itself. When the sun was at it's highest and that refill was long gone we stopped at a house and asked for water. An older  man from Germany was kind enough to give us a 1,5 litre bottle and wished us luck.
 
-It was now the really tough part started
+Now the really tough part started, it was around 33 degrees celcius now and we discovered some unfriendly vegetation, the Portuguese oak. We tried to follow the route but the bushes were too thick and the leafs were like razor blades, cutting us all over. And as it turned out this would be a common theme, they were literarily everywhere. We tried to get through them, even used a towel around our legs but ultimately we had to turn back and find another way. It was difficult finding it but once we did it was a lot better, meaning we could walk/run on it without getting cut to pieces.
 
-Bushes from hell, where even the leafs have thorns, THE LEAFS, come on...
-
-Unfortunately I don't have any pics of our legs, but trust me, they were destroyed. That became  apparent to us when taking a long sought after dip in the ocean. It burned, oh so much.
-
-B&B Adóa in Portinho da Arrábida
-
-You can find the route I used on [Movescount](https://goo.gl/gXFvvK).
+Once we got through that rough patch there was a bit of road running and then we started the second ascent up to the highest peak of about 500 metres above sea level. It was a steep climb on small rocks/gravel that had been coming down the mountain and once we cleared them we made a horrible discovery, the bushes were back and they would stay with us the rest of the way. Unfortunately I don't have any pics of our legs, but trust me, they were destroyed. That became  apparent to us when taking a long sought after dip in the ocean. It burned, oh so much.
 
 ![](/uploads/2017/10/22/IMG_5484-1.jpg)
+
+We finally arrived in Portinho da Arrábida after  six hours or so out on the trail, about three more than I had anticipated. We stayed the night at a nice B&B with a lovely ocean view. The next day we headed back to Setúbal but this time we opted for road running. I was an easy 10k back there with some scenery along the first part of the way back. The second half wasn't that great but it was easy going and we finished of with a lunch by the bay.
+
+You can find the route I used on [Movescount](https://goo.gl/gXFvvK).
 
 ![](/uploads/2017/10/22/IMG_5501-1.jpg)
 
