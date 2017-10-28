@@ -92,6 +92,8 @@ My tip is, don't run close to the castles unless you are there to see the attrac
 
 An update will come later when I've had time to explore more of the Sintra area.
 
+![](/uploads/2017/10/28/IMG_4709-1.jpg)
+
 ### Arrábida National Park
 
 **How to get there?**
