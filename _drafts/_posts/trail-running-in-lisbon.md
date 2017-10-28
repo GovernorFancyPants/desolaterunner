@@ -12,8 +12,7 @@ image:
 introduction: I recently moved to Lisbon, Portugal, with my girlfriend since she's
   doing her masters here. I like to explore places by running and since I prefer trails
   over roads I try to find good trails wherever I'm at. I thought I'd do a series
-  of posts with my best tips on trail running in the Lisbon area. If you've got any
-  tips on places to run I'd very much appreciate it!
+  of posts with my best tips on trail running in the Lisbon area.
 layout: article
 modified: ''
 tags:
@@ -120,6 +119,8 @@ Once we got through that rough patch there was a bit of road running and then we
 We finally arrived in Portinho da Arrábida after  six hours or so out on the trail, about three more than I had anticipated. We stayed the night at a nice B&B with a lovely ocean view. The next day we headed back to Setúbal but this time we opted for road running. I was an easy 10k back there with some scenery along the first part of the way back. The second half wasn't that great but it was easy going and we finished of with a lunch by the bay.
 
 You can find the route I used on [Movescount](https://goo.gl/gXFvvK).
+
+If you've got any tips on other places to run in the Lisbon area (or wherever) I'd very much appreciate it!
 
 ![](/uploads/2017/10/22/IMG_5501-1.jpg)
 
