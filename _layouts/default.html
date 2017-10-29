@@ -18,9 +18,12 @@ layout: compress
     <meta name="MobileOptimized" content="320">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- <meta http-equiv="cleartype" content="on"> Used for ie mobile on Nokias, still needed? -->
+    <style>
+        body {
+            color: #202020;
+        }
+    </style>
 
-    <link rel="stylesheet" href="{{ site.url }}/css/main.css">
-    
     <!-- HTML5 Shiv and Media Query Support for IE -->
     <!--[if lt IE 9]>
       <script src="{{ site.url }}/js/vendor/html5shiv.min.js"></script>
@@ -50,6 +53,7 @@ layout: compress
         {{ content }} {% include footer.html %}
     </div>
 
+    <link rel="stylesheet" href="{{ site.url }}/css/main.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/webfont/1.6.28/webfontloader.js"></script>
     <script>
      WebFont.load({
