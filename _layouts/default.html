@@ -10,7 +10,6 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
     <link href="{{ site.url }}/atom.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Atom Feed">
     <link href="{{ site.url }}/sitemap.xml" type="application/xml" rel="sitemap" title="Sitemap">
-    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700|Lobster" rel="stylesheet">
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -45,6 +44,15 @@
     <div id="page-wrapper">
         {{ content }} {% include footer.html %}
     </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/webfont/1.6.28/webfontloader.js"></script>
+    <script>
+     WebFont.load({
+        google: {
+            families: ['Lato:300,400,400i,700', 'Lobster']
+        }
+      });
+    </script>
     <script src="{{ site.url }}/js/vendor/prefixfree.min.js"></script>
     <script src="{{ site.url }}/js/vendor/jquery-1.9.1.min.js"></script>
     <script src="{{ site.url }}/js/main.js"></script>
