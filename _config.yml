@@ -27,6 +27,17 @@ gems:
   - jekyll-feed
   - jekyll-paginate
 
+# Compress settings
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: []
+  blanklines: false
+  profile: false
+  startings: [head]
+
 #Prose.io settings
 prose:
   rooturl: '_posts'
