@@ -25,8 +25,6 @@ image:
   teaser: "/uploads/2017/10/20/IMG_3682-teaser.jpg"
 modified: 2017-10-19 23:00:00 +0000
 ---
-
-
 **Leading up**
 
 There I was, back in Nikkaloukta again. Ready to toe the line with a lot of familiar faces and a few new ones. Even though I had problems with my back/hip, I had never been so well prepared for this race. That probably says more about my consistency than my form though. Also it looked like the stars would align and both me and my brother would be able to do the race at the same time. In the past we've taken turns for a variety of reasons but it seemed like this would be the year.
@@ -37,7 +35,7 @@ Roland did the countdown and suddenly we were off. Me and Jonas went out in a mo
 
 Everything went well to Kebnekaise, we were there in about 1h45m. Filled up our bottles and continued on. The weather was great, around 8 degrees celcius and a cloudy sky. Just about perfect for running in the mountains.
 
-<img src="/uploads/2017/10/20/IMG_3599.jpg" title="" style="">
+![start of the race in nikkaloukta](/uploads/2017/10/20/IMG_3599.jpg "Start of the race in Nikkaloukta")
 
 **Hip pain and dark periods**
 
@@ -47,7 +45,7 @@ After Sälka Jonas had a dark period, he figured it was because of lack of energ
 
 Up until Tjäcktja there had barely been any snow at all and now it only seemed to aid us more than it slowed us down. Instead of sharp rocks it was smooth rather well packed snow under our feet. We kept on going past the Tjäcktja hut and towards Alesjaure. Somewhere around here I had a dark period, my quads and calfs were in pain doing the job of my bad hip and I didn't feel I had any energy left but we kept on going. The good thing was that I knew I had a dark period and I also knew dark periods end, they always do.
 
-![](/uploads/2017/10/20/IMG_3674-1.jpg)
+![beautiful sky over torneträsk](/uploads/2017/10/20/IMG_3674-1.jpg "Beautiful sky over Torneträsk")
 
 **Autopilot**
 
@@ -61,7 +59,7 @@ We had kept steady on record pace all the way, kept track of it to not let it ge
 
 The rest of the way went according to plan, not many words were spoken, I had full focus on going forward. A few hundred meters from exiting Kungsleden you can see the bridge over Abisko jokk and it's a beautiful sight. Crossing the finish line once again, hand in hand with my brother in course record time and also a new FKT on the route was amazing. My girlfriend, my mother and Jonas' wife and kids, Roland and all of the people helping out was all there to cheer us across the finish line after 11:52.35 out in the Swedish mountains. After the finish I stayed there for a long time cheering on all the others crossing the line, one after the other. It's great to be there and see the joy in people's faces when finishing, great performances all around.
 
-![](/uploads/2017/10/20/IMG_3697-1.jpg)
+![me and my brother crossing the finish line](/uploads/2017/10/20/IMG_3697-1.jpg "Me and my brother crossing the finish line")
 
 **A few reflections**
 
