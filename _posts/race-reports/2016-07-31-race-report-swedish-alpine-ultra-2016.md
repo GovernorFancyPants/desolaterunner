@@ -9,6 +9,7 @@ tags:
   - race report
   - running
 comments: true
+ads: true
 excerpt: SAU - Swedish Alpine Ultra 107k 2016
 introduction: SAU - Swedish Alpine Ultra 107k 2016
 image:

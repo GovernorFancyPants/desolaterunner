@@ -9,6 +9,7 @@ tags:
   - race report
   - running
 comments: true
+ads: true
 excerpt: "Race report from Ursvik Ultra 75k."
 introduction: "Ursvik Ultra is a lap track with quite rough terrain during big chunks of the track. The track is 15k and you do 5 laps, totaling 75k."
 image:

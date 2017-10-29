@@ -7,7 +7,7 @@ tags: [ultra, Fjällräven Classic, race report, running]
 comments: true
 introduction: "Den här intervjun gjordes av de företag jag jobbade på vid tilfället. Jag hade precis gjort min första ultra och det här är mina tankar om hur det var."
 excerpt: "Den här intervjun gjordes av de företag jag jobbade på vid tilfället. Jag hade precis gjort min första ultra och det här är mina tankar om hur det var."
-ads: false
+ads: true
 image:
   feature: /images/IMG_20110805_185745-1.jpg
   teaser: /images/IMG_20110805_185745-teaser.jpg

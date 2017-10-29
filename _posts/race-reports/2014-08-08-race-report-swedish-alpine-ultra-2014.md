@@ -7,7 +7,7 @@ tags: [ultra, Swedish Alpine Ultra, race report, running]
 comments: true
 excerpt: "Race report från Swedish Alpine Ultra 2014. Den har färdigställts i efterhand eftersom den aldrig blev klar när den skrevs."
 introduction: "Race report från Swedish Alpine Ultra 2014. Den har färdigställts i efterhand eftersom den aldrig blev klar när den skrevs."
-ads: false
+ads: true
 image:
   feature: /images/2014-07-04 18.45.16-1.jpg
   teaser: /images/2014-07-04 18.45.16-teaser.jpg

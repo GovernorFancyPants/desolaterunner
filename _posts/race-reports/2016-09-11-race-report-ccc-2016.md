@@ -6,7 +6,7 @@ image:
   teaser: /images/IMG_1384-teaser.jpg
 date: '2016-09-11 18:17 +0200'
 modified: '2016-10-14 18:17 +0200'
-ads: false
+ads: true
 comments: true
 published: true
 title: Race report CCC 2016

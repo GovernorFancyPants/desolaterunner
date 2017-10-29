@@ -5,7 +5,7 @@ image:
   feature: /images/IMG_20150905_164920-1.jpg
   teaser: /images/IMG_20150905_164920-teaser.jpg
 date: '2016-10-14 23:16 +0200'
-ads: false
+ads: true
 comments: true
 published: true
 title: Race report SUM 2016

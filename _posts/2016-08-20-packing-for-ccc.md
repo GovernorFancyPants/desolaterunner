@@ -3,7 +3,7 @@ layout: article
 image:
   feature: /images/IMG_1320-1.jpg
   teaser: /images/IMG_1320-teaser.jpg
-ads: false
+ads: true
 comments: true
 published: true
 title: Packing for CCC
