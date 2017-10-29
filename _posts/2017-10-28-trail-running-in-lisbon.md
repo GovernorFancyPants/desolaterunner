@@ -50,7 +50,7 @@ In the Monsanto Forest Park you can find the most accessible trails in the Lisbo
 
 It's a mix between dirt roads, asphalted roads (very little though) and single track trails and if you make an effort you could even get some decent vertical gain here.
 
-![view over lisbon from monsanto](/uploads/2017/10/22/IMG_4884-1.jpg)
+![view over lisbon from monsanto](/uploads/2017/10/22/IMG_4884-1.jpg "View over Lisbon from Monsanto")
 
 <iframe height="405" width="590" frameborder="0" allowtransparency="true" scrolling="no" src="https://www.strava.com/activities/1195054971/embed/83b3acf8f58d50f88664c694d394cc7c97415315"></iframe>
 
@@ -64,7 +64,7 @@ From Azenhas do Mar we took bus 440 (Azenhas do Mar - Portela de Sintra Station
 
 The buses are local and not very frequent so I would recommend checking the timetable at [Scotturb](http://www.scotturb.com) before going. They will cost you about 3-4 euros each and the same goes for the train. Also make sure to have plenty of wiggle room if things doesn't go according to plan.
 
-![beach near cabo da roca](/uploads/2017/10/20/IMG_5018-1.jpg)
+![beach near cabo da roca](/uploads/2017/10/20/IMG_5018-1.jpg "Beach near Cabo da Roca")
 
 **What is the trail like?**
 
@@ -72,9 +72,9 @@ It's mostly single track in the beginning, technical at parts but mostly it's we
 
 In the beginning it can be a little difficult finding your way since there is no marked trail, you have to do some guessing but as long as you stick to the coast it shouldn't be any problem. After a while you will connect to the GR11/E9 route which is marked with white and red stripes. You can follow it the rest of the way to Azenhas do Mar or even longer if you want  (it continues all the way to Estonia).
 
-![me close to cabo da roca](/uploads/2017/10/21/IMG_5113-1-1.jpg)
+![me close to cabo da roca](/uploads/2017/10/21/IMG_5113-1-1.jpg "Me close to Cabo da Roca")
 
-![girl looking at view](/uploads/2017/10/21/IMG_5028-1.jpg)
+![girl looking at view](/uploads/2017/10/21/IMG_5028-1.jpg "Julia looking at the view")
 
 <iframe height="405" width="590" frameborder="0" allowtransparency="true" scrolling="no" src="https://www.strava.com/activities/1219321605/embed/d196d5bbf09884661264c98713886030cbe1d498"></iframe>
 
@@ -92,7 +92,7 @@ My tip is, don't run close to the castles unless you are there to see the attrac
 
 I believe there are some great trails around here but I haven't tried them yet. An update will come later when I've had time to explore more of the Sintra area.
 
-![pena castle as seen from high cross](/uploads/2017/10/28/IMG_4709-1.jpg)
+![pena castle as seen from high cross](/uploads/2017/10/28/IMG_4709-1.jpg "Pena castle as seen from High Cross")
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1243391383/embed/d87b10671372f24cf9310bc5c46ab8e57bf1669e'></iframe>
 
@@ -106,7 +106,7 @@ We took the train from Lisbon down to Setúbal which takes about an hour and cos
 
 The first part from Setúbal,  the red circle close to Setúbal is where we started, was  a bit difficult since there are no marked tracks. I used someone else's previously recorded run as a route on my Suunto ambit 3 watch. First of all we had trouble getting out of town since there was a large fenced area. Once we found the right road we followed that for a while before we finally found our way to more of a trail. From there it was good running for a while, wide dust roads and single track in some places.
 
-![map of arrabida with running route](/uploads/2017/10/27/Screenshot%202017-10-28%2000.09.43-1.jpg)
+![map of arrabida with running route](/uploads/2017/10/27/Screenshot%202017-10-28%2000.09.43-1.jpg "Map of Arrábida with running route")
 
 It was hot the day we went there and unfortunately there aren't many good places to find water. We definitely didn't bring enough  with us for the amount of time we were out there. There was one easy place to get water but it was rather early on, the red circle on the map in the middle where the route crosses over on itself. When the sun was at it's highest and that refill was long gone we stopped at a house and asked for water. An older  man from Germany was kind enough to give us a 1,5 litre bottle and wished us luck.
 
@@ -114,15 +114,15 @@ Now the really tough part started, it was around 33 degrees celcius  and we disc
 
 Once we got through that rough patch there was a bit of road running and then we started the second ascent up to the highest peak of about 500 metres above sea level (you can see the  profile on the map above). It was a steep climb on small rocks/gravel that had been coming down the mountain and once we cleared them we made a horrible discovery, the bushes were back and they would stay with us the rest of the way. Unfortunately I don't have any pics of our legs, but trust me, they were destroyed. That became  apparent to us when taking a long sought after dip in the ocean. It burned, oh so much.
 
-![Portinho da arrabida](/uploads/2017/10/22/IMG_5484-1.jpg)
+![portinho da arrabida](/uploads/2017/10/22/IMG_5484-1.jpg "Portinho da Arrábida")
 
 We finally arrived in Portinho da Arrábida after  six hours or so out on the trail, about three more than I had anticipated. We stayed the night at a nice B&B with a lovely ocean view. The next day we headed back to Setúbal but this time we opted for road running. It was an easy 10k back there with some scenery along the first part of the way. The second half wasn't that great but it was easy going and we finished off with a lunch by the bay.
 
 You can find the route I used on [Movescount](https://goo.gl/gXFvvK).
 
-![birds on a powerline with ocean view](/uploads/2017/10/22/IMG_5501-1.jpg)
+![birds on a powerline with ocean view](/uploads/2017/10/22/IMG_5501-1.jpg "Birds on a powerline with ocean view")
 
-![boats at the bay](/uploads/2017/10/22/IMG_5506-1.jpg)
+![boats at the bay](/uploads/2017/10/22/IMG_5506-1.jpg "Boats at the bay")
 
 <iframe height="405" width="590" frameborder="0" allowtransparency="true" scrolling="no" src="https://www.strava.com/activities/1232336030/embed/ccfbda35cb0c912c274df1e8667d8d9c81ef3105"></iframe>
 
