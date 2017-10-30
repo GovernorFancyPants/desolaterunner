@@ -1,5 +1,5 @@
 ---
-title: race report TDS 2017
+title: Race report TDS 2017
 layout: article
 comments: true
 ads: true
