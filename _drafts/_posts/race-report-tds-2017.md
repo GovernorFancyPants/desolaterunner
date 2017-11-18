@@ -13,6 +13,10 @@ image:
   teaser: ''
 modified: ''
 ---
+I swore to never run anyone of these races ever again after I did the CCC last year. Yet, there I was, getting ready for the TDS like my memory was that of a goldfish. I don't really know what makes a person go back after such a horrible race experience but if I would guess it's because of the love of running. If you're interested in why it was so bad you can read my report [over here](http://desolaterunner.com/race-reports/race-report-ccc-2016/). 
+
+I came in to this race with more confidence than the last time, at least more confidence that I would make it through a lot easier. But what worried me was my bad hip/back that had been troubling med since the beginning of the year although I didn't have any real problems during the [Swedish Alpine Ultra](http://desolaterunner.com/race-reports/race-report-swedish-alpine-ultra-2017/), this was a totally different race. I had also fallen and hit my knee a few weeks prior to the race and it was still hurting somewhat. I had to stop in the middle of a run a couple of days before the race because it was hurting too much. But I was in a lot better shape overall than last year, I had been able to train consistently all year which has almost never happened before.
+
 TDS 19KM / 7200M+
 
 1818 STARTERS / 1251 FINISHERS / 567 DNF
