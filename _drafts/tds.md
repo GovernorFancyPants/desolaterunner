@@ -1,6 +1,11 @@
 ---
 ads: true
-categories: ''
+categories:
+- utmb
+- tds
+- ultra
+- running
+- chamonix
 comments: true
 date: 2017-09-09 00:00:00 +0000
 excerpt: ''
@@ -10,11 +15,17 @@ image:
 introduction: ''
 layout: article
 tags: []
-title: TDS
+title: Race report TDS 2017
 modified: Invalid date
 
 ---
 So I'm going back to Chamonix again, this time to give the big loop a go. That's right, after doing both the CCC and the TDS I'm finally doing the UTMB which will also be my first 100-miler. With that in mind I thought it would be good to finally finish my TDS race report before I need to get started with the next one. It's only taken me a year to get it done, that's not too long is it? Nah, I didn't think so either.
+
+I'm really gonna have to work my memory for this one but I have some notes from after the race to get me going. A few weeks before the race I took a pretty bad fall and had some pain in my right knee. It was so bad I even had to abort a shorter run I did in the week before the race. That didn't bode well. As if that wasn't enough I also had a bad back which gave me ischias pains and a lot of pain in my left hip. I was worried but it wasn't going to stop me from at least stand on the start line.
+
+The bus for the start in Courmayeur left at 4am. As usual I hadn't gotten much sleep that night, nerves and excitement makes sure of that. When I got there I just took it easy, sat down for a while, had some breakfast and just looked at my fellow runners. There's always this weird kind of excitement in the air, nervousness and the lack of sleep puts people in a strange state.
+
+The race started and
 
 TDS 19KM / 7200M+
 
@@ -23,16 +34,6 @@ TDS 19KM / 7200M+
 158th / 1818 STARTERS
 
 TIME 21:49:17
-
-Congrats to everyone finishing anyone of these races!
-
-Pre race:
-
-Pain in left hip and pain in right knee after taking a fall a few weeks earlier, one aborted run during last week before race.
-
-Had a sports massage the day before the race.
-
-Bus left at 4am, got to Courmayeur and sat down for a while, had some breakfast.
 
 First hill:
 
@@ -51,6 +52,8 @@ It was starting to get dark a little while before col du joly, when I got there 
 trail4runners app started to glitch before col du joly and was sending me the same updates over and over again
 
 The climb up to Col du tricot was truly horrible, so steep and headlights all the way up. I saw a floodlight at the top so at least I knew from the start where I was heading and how far it was but man, it was so steep, one step at a time. I kept telling myself I just needed to move, it didn't have to be fast as long as I moved. I kept checking my pulse, and had been for a while and I knew exactly how hard I could push before it was too much.
+
+At some point I ran out of water and I got kind of desperate. I finally stumbled upon some running water, it wasn't much though. I had to get down on my knees and press my face against the ground and slurp that water mixed with a lot of dirt but oh how sweet it was.
 
 130 pulse towards the end to not push myself too hard
 
