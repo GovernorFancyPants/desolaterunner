@@ -13,7 +13,7 @@ date: 2017-09-09 00:00:00 +0000
 excerpt: ''
 image:
   feature: ''
-  teaser: ''
+  teaser: "/uploads/2018/08/26/IMG_4312-teaser.jpg"
 introduction: ''
 layout: article
 tags: []
