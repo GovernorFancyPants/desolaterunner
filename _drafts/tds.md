@@ -46,6 +46,8 @@ At some point I ran out of water and I got kind of desperate. I finally stumbled
 
 The guy ahead of me on the decent down to Les Houches was screaming and swearing, I couldn't figure out to what or whom. As it turns out he was really mad at his quads which were completely trashed and he was stumbling the whole way down. My quads were killing me as well but I knew that everyone was hurting there so that was no reason to slow down, on the contrary, I started speeding up. I'm good on the down hills, quad pain wasn't gonna stop me if my hip hadn't yet.
 
+![](/uploads/2018/08/26/IMG_4422-1.jpg)
+
 I came into this race with a goal of sub20 but with the knowledge my injuries I knew that might make it impossible and with that in mind, my goal would quickly change to just finishing. I ended up doing something in between and considering the circumstances I'm satisfied with the end result. Out of 1818 runners at the start 1251 finished the race and 567 did not finish. I ended up in 158th place at the end and top hundred in my category with a time of 21:49:17. 
 
 The absolute best part of the race though, of any race really, is crossing that finish line and having my family and my girlfriend there. It's such an amazing feeling. Nothing compares to it and I wouldn't trade it for the world.
