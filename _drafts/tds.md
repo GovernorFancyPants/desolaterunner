@@ -6,6 +6,8 @@ categories:
 - ultra
 - running
 - chamonix
+- race report
+- courmayeur
 comments: true
 date: 2017-09-09 00:00:00 +0000
 excerpt: ''
@@ -29,28 +31,14 @@ The race started and once we hit the first uphill the sun also started to rise. 
 
 After the Bourg Saint-Maurice aid station the biggest climb of the race starts and I knew it was going to be a doozy. It was unbelievably hot and I didn't want to finish my water all at once so I had small sips and was saving the whole way up and at times, above the tree line, the sun was shining and hit me like a torch. At one point a supporter with a huge danish flag past me and was cheering me on. He was such a character that I couldn't be entirely sure I wasn't imagining him but then I noticed other people reacting to him as well. No hallucinations, yet at least. I did however run out of water before I got to the top but thankfully some kind spectators was aware of the this and came down with just enough to wet the tongue and that was plenty at the moment.
 
-It was starting to get dark a little while before col du joly, when I got there it was pitch black
+It was starting to get dark a little while before Col du Joly and when I got there it was pitch black. I could hear the music playing a long ways before I got there and upon arrival I was confused. It seemed like there was some kind of party there but barely any people. My tired mind had trouble comprehending this. I just thought there would be a lot more people there for some reason.
 
-trail4runners app started to glitch before col du joly and was sending me the same updates over and over again
+The climb up to Col du Tricot was truly horrible, so steep and headlights all the way up. I saw a floodlight at the top so at least I knew from the start where I was heading and how far it was but man, it was so steep, one step at a time. I kept telling myself I just needed to move, it didn't have to be fast as long as I moved. I kept checking my pulse, and had been for a while and I knew exactly how hard I could push before it was too much.
 
-The climb up to Col du tricot was truly horrible, so steep and headlights all the way up. I saw a floodlight at the top so at least I knew from the start where I was heading and how far it was but man, it was so steep, one step at a time. I kept telling myself I just needed to move, it didn't have to be fast as long as I moved. I kept checking my pulse, and had been for a while and I knew exactly how hard I could push before it was too much.
+At some point I ran out of water and I got kind of desperate. I finally stumbled upon some running water, it wasn't much though. I had to get down on my knees and press my face against the ground and slurp that water mixed with a lot of dirt but, oh, how sweet it was. At the end I couldn't push my pulse beyond 130, if I did I noticed right away something was wrong. But as long as I kept it around there I was fine.
 
-At some point I ran out of water and I got kind of desperate. I finally stumbled upon some running water, it wasn't much though. I had to get down on my knees and press my face against the ground and slurp that water mixed with a lot of dirt but oh how sweet it was.
+The guy ahead of me on the decent down to Les Houches was screaming and swearing, I couldn't figure out to what or whom. As it turns out he was really mad at his quads which were completely trashed and he was stumbling the whole way down. My quads were killing me as well but I knew that everyone was hurting there so that was no reason to slow down, on the contrary, I started speeding up. I'm good on the down hills, quad pain wasn't gonna stop me if my hip hadn't yet.
 
-130 pulse towards the end to not push myself too hard
+I came into this race with a goal of sub20 but with the knowledge my injuries I knew that might make it impossible and with that in mind, my goal would quickly change to just finishing. I ended up doing something in between and considering the circumstances I'm satisfied with the end result. Out of 1818 runners at the start 1251 finished the race and 567 did not finish. I ended up in 158th place at the end and top hundred in my category with a time of 21:49:17. 
 
-Came in with the goal of a sub20 race but also with the knowledge my injuries might make that impossible and knowing that, my goal would quickly change to just finishing. I ended up doing something in between and considering the circumstances I'm satisfied with the end result.
-
-The guy ahead of me on the decent from Col du tricot was screaming and swearing, I couldn't figure out to what or whom. As it turns out he was really mad at his quads which were completely trashed and he was stumbling the whole way down.
-
-My quads were killing me on the last decent but I knew that everyone was hurting there so that was no reason to slow down, on the contrary, I started speeding up. I'm good on the down hills, quad pain wasn't gonna stop me if my hip hadn't yet.
-
-TDS 19KM / 7200M+
-
-1818 STARTERS / 1251 FINISHERS / 567 DNF
-
-158th / 1818 STARTERS
-
-Top hundred in my category
-
-TIME 21:49:17
+The absolute best part of the race though, of any race really, is crossing that finish line and having my family and my girlfriend there. It's such an amazing feeling. Nothing compares to it and I wouldn't trade it for the world.
