@@ -1,10 +1,7 @@
 ---
-pages:
-- _posts/race-report-tds-2017.md
-- _posts/fastpack.md
-- _posts/2017-10-28-trail-running-in-lisbon.md
-- _posts/race-reports/2017-10-20-race-report-swedish-alpine-ultra-2017.md
+label: Post template
 hide_body: false
+is_partial: false
 fields:
 - type: text
   name: title
@@ -72,3 +69,8 @@ fields:
   name: modified
   label: Date modified
   description: When modified
+pages:
+- _posts/fastpack.md
+- _posts/2017-10-28-trail-running-in-lisbon.md
+- _posts/race-reports/2017-10-20-race-report-swedish-alpine-ultra-2017.md
+- _posts/race-report-tds-2017.md
