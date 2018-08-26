@@ -25,27 +25,9 @@ I'm really gonna have to work my memory for this one but I have some notes from 
 
 The bus for the start in Courmayeur left at 4am. As usual I hadn't gotten much sleep that night, nerves and excitement makes sure of that. When I got there I just took it easy, sat down for a while, had some breakfast and just looked at my fellow runners. There's always this weird kind of excitement in the air, nervousness and the lack of sleep puts people in a strange state.
 
-The race started and
+The race started and once we hit the first uphill the sun also started to rise. Almost right away I got pains in my left hip and my right knee, as expected, but it wasn't too bad. I kept on grinding up that mountain and once I hit the the top the pain was almost gone and I felt pretty great actually. I kept on moving well and gaining positions all the time, even in the uphills which is usually where I do the worst. After the Col Chavannes there's a 7-8 kilometer long traverse which a flew down, those were by far my fastest splits and that's probably where I felt the best during the entire race.
 
-TDS 19KM / 7200M+
-
-1818 <span style="font-size: 1rem;">STARTERS / </span><span style="font-size: 1rem;">1251 </span><span style="font-size: 1rem;">FINISHERS / </span><span style="font-size: 1rem;">567 </span><span style="font-size: 1rem;">DNF</span>
-
-158th / 1818 STARTERS
-
-TIME 21:49:17
-
-First hill:
-
-Pain in left hip and right knee
-
-Disappeared somewhere at the top
-
-Flying on the traverse, fastest km splits
-
-The big climb was hot, I didn't want to finish my water all at ones so I had small sips and was saving the whole way up and at times, above the tree line, the sun was shining and hit me like a torch.
-
-A supporter with a huge danish flag past us and was cheering on and filming.
+After the Bourg Saint-Maurice aid station the biggest climb of the race starts and I knew it was going to be a doozy. It was unbelievably hot and I didn't want to finish my water all at once so I had small sips and was saving the whole way up and at times, above the tree line, the sun was shining and hit me like a torch. At one point a supporter with a huge danish flag past me and was cheering me on. He was such a character that I couldn't be entirely sure I wasn't imagining him but then I noticed other people reacting to him as well. No hallucinations, yet at least. I did however run out of water before I got to the top but thankfully some kind spectators was aware of the this and came down with just enough to wet the tongue and that was plenty at the moment.
 
 It was starting to get dark a little while before col du joly, when I got there it was pitch black
 
@@ -62,3 +44,13 @@ Came in with the goal of a sub20 race but also with the knowledge my injuries mi
 The guy ahead of me on the decent from Col du tricot was screaming and swearing, I couldn't figure out to what or whom. As it turns out he was really mad at his quads which were completely trashed and he was stumbling the whole way down.
 
 My quads were killing me on the last decent but I knew that everyone was hurting there so that was no reason to slow down, on the contrary, I started speeding up. I'm good on the down hills, quad pain wasn't gonna stop me if my hip hadn't yet.
+
+TDS 19KM / 7200M+
+
+1818 STARTERS / 1251 FINISHERS / 567 DNF
+
+158th / 1818 STARTERS
+
+Top hundred in my category
+
+TIME 21:49:17
