@@ -21,7 +21,7 @@ title: Race report TDS 2017
 modified: Invalid date
 
 ---
-So I'm going back to Chamonix again, this time to give the big loop a go. That's right, after doing both the CCC and the TDS I'm finally doing the UTMB which will also be my first 100-miler. With that in mind I thought it would be good to finally finish my TDS race report before I need to get started with the next one. It's only taken me a year to get it done, that's not too long is it? Nah, I didn't think so either.
+So I'm going back to Chamonix again, this time to give the big loop a go. That's right, after doing both the CCC and the TDS I'm finally doing the UTMB which will also be my first 100-miler. With that in mind I thought it would be a good idea to finally finish my TDS race report, before I need to get started with the next one. It's only taken me a year to get it done, that's not too long is it? Nah, I didn't think so either.
 
 I'm really gonna have to work my memory for this one but I have some notes from after the race to get me going. A few weeks before the race I took a pretty bad fall and had some pain in my right knee. It was so bad I even had to abort a shorter run I did in the week before the race. That didn't bode well. As if that wasn't enough I also had a bad back which gave me ischias pains and a lot of pain in my left hip. I was worried but it wasn't going to stop me from at least stand on the start line.
 
