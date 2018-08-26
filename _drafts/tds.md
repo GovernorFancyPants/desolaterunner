@@ -48,6 +48,8 @@ The guy ahead of me on the decent down to Les Houches was screaming and swearing
 
 ![](/uploads/2018/08/26/IMG_4422-1.jpg)
 
-I came into this race with a goal of sub20 but with the knowledge my injuries I knew that might make it impossible and with that in mind, my goal would quickly change to just finishing. I ended up doing something in between and considering the circumstances I'm satisfied with the end result. Out of 1818 runners at the start 1251 finished the race and 567 did not finish. I ended up in 158th place at the end and top hundred in my category with a time of 21:49:17. 
+I came into this race with a goal of sub20 but with the knowledge my injuries I knew that might make it impossible and with that in mind, my goal would quickly change to just finishing. I ended up doing something in between and considering the circumstances I'm satisfied with the end result. Out of 1818 runners at the start 1251 finished the race and 567 did not finish. I ended up in 158th place at the end and top hundred in my category with a time of 21:49:17.
 
 The absolute best part of the race though, of any race really, is crossing that finish line and having my family and my girlfriend there. It's such an amazing feeling. Nothing compares to it and I wouldn't trade it for the world.
+
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='[https://www.strava.com/activities/1161170404/embed/6cc589ba0ae51aadf5e830fffa9c496a16651c06](https://www.strava.com/activities/1161170404/embed/6cc589ba0ae51aadf5e830fffa9c496a16651c06 "https://www.strava.com/activities/1161170404/embed/6cc589ba0ae51aadf5e830fffa9c496a16651c06")'></iframe>
