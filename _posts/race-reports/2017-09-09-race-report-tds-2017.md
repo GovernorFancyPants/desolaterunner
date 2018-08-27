@@ -1,7 +1,6 @@
 ---
 ads: true
-categories:
-- race-reports
+categories: race-reports
 comments: true
 date: 2017-09-09 00:00:00 +0000
 excerpt: The race started and once we hit the first uphill the sun also started to
