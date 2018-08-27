@@ -10,7 +10,10 @@ categories:
 - courmayeur
 comments: true
 date: 2017-09-09 00:00:00 +0000
-excerpt: ''
+excerpt: The race started and once we hit the first uphill the sun also started to
+  rise. Almost right away I got pains in my left hip and my right knee, as expected,
+  but it wasn't too bad. I kept on grinding up that mountain and once I hit the the
+  top the pain was almost gone and I felt pretty great actually.
 image:
   feature: "/uploads/2018/08/26/IMG_4312-1.jpg"
   teaser: "/uploads/2018/08/26/IMG_4312-teaser.jpg"
