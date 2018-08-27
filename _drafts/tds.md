@@ -55,4 +55,4 @@ I came into this race with a goal of sub20 but with the knowledge my injuries I 
 
 The absolute best part of the race though, of any race really, is crossing that finish line and having my family and my girlfriend there. It's such an amazing feeling. Nothing compares to it and I wouldn't trade it for the world.
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src=''[https://www.strava.com/activities/1161170404/embed/6cc589ba0ae51aadf5e830fffa9c496a16651c06](https://www.strava.com/activities/1161170404/embed/6cc589ba0ae51aadf5e830fffa9c496a16651c06 "https://www.strava.com/activities/1161170404/embed/6cc589ba0ae51aadf5e830fffa9c496a16651c06")''></iframe>
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1161170404/embed/6cc589ba0ae51aadf5e830fffa9c496a16651c06'></iframe>
