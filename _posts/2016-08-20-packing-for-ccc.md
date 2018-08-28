@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - /packing-for-ccc
+  - /packing-for-ccc/
 layout: article
 image:
   feature: "/images/IMG_1320-1.jpg"

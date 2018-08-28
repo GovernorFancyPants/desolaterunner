@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - /trail-running-in-lisbon
+  - /trail-running-in-lisbon/
 ads: true
 categories: ''
 comments: true
