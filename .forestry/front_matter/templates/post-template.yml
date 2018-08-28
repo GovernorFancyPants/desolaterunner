@@ -65,10 +65,6 @@ fields:
     - 'true'
     - 'false'
   default: 'false'
-- type: datetime
-  name: modified
-  label: Date modified
-  description: When modified
 pages:
 - _posts/2017-10-28-trail-running-in-lisbon.md
 - _posts/race-report-swedish-alpine-ultra-2018.md
