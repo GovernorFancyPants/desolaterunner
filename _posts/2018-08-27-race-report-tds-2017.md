@@ -1,6 +1,7 @@
 ---
 redirect_from:
   - /race-reports/race-report-tds-2017
+  - /race-reports/race-report-tds-2017/
 ads: true
 comments: true
 date: 2018-08-27 00:00:00 +0000
