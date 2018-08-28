@@ -58,7 +58,7 @@ I finally see some kind of station that looks like it could actually be the top 
 
 The first small refreshment point was lovely, plenty of water, snacks, cheese, sports drinks and so on but sadly I couldn't stay for long, I had lost too much time. I continue on the trail and I'm going to be honest now, from this point forward I don't remember much and what I do remember is just fragments that could've happened almost anywhere during the race so from now on the chronology is going to be a bit screwed up.
 
-![Valley](%7B%7Bsite.baseurl%7D%7D/images/IMG_1375-1.jpg)
+![Valley](/images/IMG_1375-1.jpg)
 
 **Arnouvaz**
 
