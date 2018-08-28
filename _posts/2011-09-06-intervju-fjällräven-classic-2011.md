@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /race-reports/intervju-fjällräven-classic-2011
 layout: article
 title: "Fjällräven Classic - intervju första ultran"
 categories: race-reports

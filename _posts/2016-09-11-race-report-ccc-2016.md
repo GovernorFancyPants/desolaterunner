@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /race-reports/race-report-ccc-2016
 layout: article
 categories: race-reports
 image:
