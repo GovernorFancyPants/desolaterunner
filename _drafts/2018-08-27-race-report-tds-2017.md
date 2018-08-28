@@ -29,7 +29,7 @@ tags:
 - race report
 - courmayeur
 title: Race report TDS 2017
-modified: Invalid date
+modified: 2018-08-27 00:00:00 +0200
 
 ---
 I'm really gonna have to work my memory for this one but I have some notes from after the race to get me going. A few weeks before the race I took a pretty bad fall and had some pain in my right knee. It was so bad I even had to abort a shorter run I did in the week before the race. That didn't bode well. As if that wasn't enough I also had a bad back which gave me ischias pains and a lot of pain in my left hip. I was worried but it wasn't going to stop me from at least standing on the start line.
