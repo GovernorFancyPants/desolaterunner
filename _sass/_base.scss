@@ -143,6 +143,7 @@ li code {
     position: relative;
     overflow: hidden;
     text-align: center;
+    margin: 2em 0; 
     @include media($medium) {
         padding-bottom: 374px;
         padding-top: 30px;
