@@ -1,6 +1,7 @@
 ---
 redirect_from:
   - /race-reports/race-report-ursvik-ultra-2016
+  - /race-reports/race-report-ursvik-ultra-2016/
 published: true
 layout: article
 categories: race-reports

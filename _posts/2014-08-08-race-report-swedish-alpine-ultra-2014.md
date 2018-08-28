@@ -1,6 +1,7 @@
 ---
 redirect_from:
   - /race-reports/race-report-swedish-alpine-ultra-2014
+  - /race-reports/race-report-swedish-alpine-ultra-2014/
 layout: article
 title: "Race report Swedish Alpine Ultra 2014"
 categories: race-reports

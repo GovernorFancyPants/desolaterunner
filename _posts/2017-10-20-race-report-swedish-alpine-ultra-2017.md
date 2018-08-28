@@ -1,6 +1,7 @@
 ---
 redirect_from:
   - /race-reports/race-report-swedish-alpine-ultra-2017
+  - /race-reports/race-report-swedish-alpine-ultra-2017/
 title: Race report Swedish Alpine Ultra 2017
 layout: article
 comments: true
