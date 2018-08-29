@@ -143,7 +143,7 @@ li code {
     position: relative;
     overflow: hidden;
     text-align: center;
-    margin: 2em 0; 
+    margin: 2em 0;
     @include media($medium) {
         padding-bottom: 374px;
         padding-top: 30px;
@@ -184,6 +184,8 @@ li code {
         float: right;
     }
     .goog-te-gadget {
+        // @include fa-icon;
+          @extend .fab;
         line-height: 0;
         width: 140px;
         content: "";
@@ -191,8 +193,9 @@ li code {
         overflow: hidden;
         position: relative;
         &:after {
-            content: $fa-var-google;
-            font: normal normal normal #{$fa-font-size-base}/#{$fa-line-height-base} FontAwesome;
+            content: fa-content($fa-var-google);
+            font-size: #{$fa-font-size-base};
+            line-height: normal;
             position: absolute;
             left: 5px;
             top: 4px;
