@@ -11,7 +11,10 @@ tags:
 - race report
 - ultra
 - sau
-excerpt: ''
+excerpt: Six, that's how many times I've run this course, the most famous part of
+  the Kungsleden trail, that starts in Nikkaluokta and ends in Abisko. I've run it
+  the opposite way once and I think it's fair to say that I know it like the back
+  of my hand. Still there's something new to discover every year.
 introduction: ''
 image:
   feature: "/uploads/2018/11/23/37344144_486259621801140_8154366268997107712_o-2 (1).jpg"
