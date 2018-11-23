@@ -37,9 +37,13 @@ When we got to the Tjäktja pass we realized we were a lot ahead of the splits s
 
 Before Alesjaure we were hitting fast kilometer splits and I think this is were my stomach started to shut down. Even though the pace didn't feel that strenuous I think it might have been just a tad too fast for me at that point. Up until that point I had been pretty spot on my energy schedule even though I had been feeling a little queasy from the start, most likely because of the road trip, but from then on it would be tough. I struggled to get anything in and in the end that's what stopped me from finishing the way I wanted to.
 
+![](/uploads/2018/11/23/IMG_7933.jpg)
+
 We noticed we had a chance to break eleven hours and so we did one last push to see if we could do it. But even though we ran as fast as we possibly could the technical terrain and fatigue at this point wouldn't allow for fast enough kilometer splits. My lack of energy intake during the last couple of hours started to catch up to me. With only eight or so kilometers to go I got extremely dizzy and was afraid I would trip. I decided force down a gel and walk for a bit, either I would get my head back or I would have to stop and throw up for a good while. I told Jonas to go on without me and I would try to catch him before the finish. In the end I did manage to get rid of the dizziness but I had fallen too far behind to catch him.
 
 I finished in 11:11:15 which is over 40 minutes faster than last year and with no real dark spots during the entire race I have to consider that pretty good. I still need to work on my energy plan but one of these days I'm going to figure it out and I'll be able to finish strong.
+
+![](/uploads/2018/11/23/IMG_7924.jpg)
 
 A big thanks to Roland for such a special race and to all the volunteers who makes it possible. Congratulations to Jonas on another victory and course record and to everyone who finished and I hope to see you again soon.
 
