@@ -52,4 +52,4 @@ I finished in 11:11:15 which is over 40 minutes faster than last year and with n
 
 A big thanks to Roland for such a special race and to all the volunteers who makes it possible. Congratulations to Jonas on another victory and course record and to everyone who finished and I hope to see you again soon.
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='[https://www.strava.com/activities/1703340312/embed/1a9123917693dec36f93d4774d689a6ffde9a314](https://www.strava.com/activities/1703340312/embed/1a9123917693dec36f93d4774d689a6ffde9a314 "https://www.strava.com/activities/1703340312/embed/1a9123917693dec36f93d4774d689a6ffde9a314")></iframe>
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1703340312/embed/1a9123917693dec36f93d4774d689a6ffde9a314></iframe>
