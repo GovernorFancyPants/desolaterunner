@@ -25,6 +25,8 @@ Me and my friend Mikael had decided to drive up to the start this year, make a r
 
 We arrived in Nikkaluokta just in time for the regular pre-race meeting in the church. All the usual suspects were there, Sten, Adrian and Rober, Bruno, Perttu and Jonathan to name a few. That's what makes this event so special, it's like a homecoming every year. You get to meet your trail family and run around in the mountains for an entire day, that's pretty cool if you ask me.
 
+![](/uploads/2018/11/23/37554787_486260478467721_2921793580622151680_o (1).jpg)
+
 Spirits were high and everyone seemed really excited. Usual talks about the weather, the course and previous years were going on left to right. There were more participants than ever before, around 50, and one of the big worries is always someone getting hurt or lost out there. I'm happy to conclude no major incidents occurred this year and everyone who finished did so in less than 24 hours. That's pretty cool considering it's completely self sufficient.
 
 The start went off and me and my brother Jonas quickly set the pace. Even though none of us were sure we would even race this year, until just a couple of days before the start, we went out in a good pace. It's fun to start relatively fast and it is the most runable part of the course. We were both rather decided on taking it somewhat easy considering the big goal this year is the UTMB and we didn't want to risk getting injured just a month before. We knew the splits from last year and tried to hit them more for fun than anything else.
