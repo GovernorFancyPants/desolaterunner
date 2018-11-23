@@ -3,7 +3,7 @@ title: Race report Swedish Alpine Ultra 2018
 layout: article
 comments: true
 ads: true
-date: 2018-08-27 00:00:00 +0000
+date: 2018-11-23 02:00:00 +0100
 categories: race-reports
 tags: []
 excerpt: ''
