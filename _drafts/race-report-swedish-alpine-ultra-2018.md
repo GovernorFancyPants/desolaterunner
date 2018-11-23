@@ -4,13 +4,13 @@ layout: article
 comments: true
 ads: true
 date: 2018-08-27 00:00:00 +0000
-categories: ''
+categories: race-reports
 tags: []
 excerpt: ''
 introduction: ''
 image:
-  feature: ''
-  teaser: ''
+  feature: "/uploads/2018/11/23/37344144_486259621801140_8154366268997107712_o-2 (1).jpg"
+  teaser: "/uploads/2018/11/23/37344144_486259621801140_8154366268997107712_o-2 (2)-teaser.jpg"
 modified: ''
 
 ---
