@@ -4,8 +4,14 @@ layout: article
 comments: true
 ads: true
 date: 2018-12-07T03:02:33+01:00
-categories: ''
-tags: []
+categories: race-reports
+tags:
+- utmb
+- ultra trail du mont blanc
+- ultra
+- running
+- chamonix
+- france
 excerpt: ''
 introduction: ''
 image:
