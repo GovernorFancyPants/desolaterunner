@@ -31,9 +31,7 @@ Downhill is where I get to shine. After reaching the top and starting the descen
 
 By the start of the next climb darkness had descended as we started to ascend and it was time to bring out the headlamp. This was my first night start and I didn't feel great about starting with the night part, I kind of like it when it gets dark as I'm well into the race and I can cut back on the pace for more than one reason. But I was feeling good, still climbing strong even though I'm a terrible climber. I kept eating well and moving well, some people passed me but not a lot.
 
-Les Contamine Can't remember much
-
-La Balme crucial mistake of finishing the leftover Maurten I had left in my flask, that in combination with pushing hard completely shut down my stomach and from there on it only got worse.
+I ran through the Les Contamine aid station rather quickly. The course flattened out a bit here and I was able to step on the gas again before we would start climbing again. At the steepest part I started to feel a little loss of energy but nothing major, I had another gel and kept on pushing up in a steady grind. When I hit the next station, La Balme, where I in hindsight realized I made a crucial mistake which likely was the reason for my downfall. I finished the leftover Maurten I had left in my flask, which I usually do, but this time it was an unusual amount left, way too much for my stomach to handle during a climb. That in combination with pushing hard completely shut down my stomach and from there on it only got worse.
 
 Jonas caught up with me somewhere before the Col du Bonhomme and I told him my stomach had started to act up. We parted ways and I told him I'd try to catch him on the descent. But my stomach didn't recover and as soon as I started to go down the cramps hit me. Downhill is where I knew I had to be good cause climbing isn't my forte but know I could barely run, every step was like a punch and a twist to my guts and I had to alternate between running slowly and walking. Runners started passing me, which rarely happens on descents and that's when I knew I was in real trouble.
 
