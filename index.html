@@ -7,6 +7,7 @@ title: "Home"
   <div class="site-name">
     <a href="{{ site.url }}/" class="site-title">{{ site.title }}</a>
     <p>{{ site.description }}</p>
+    <div><a href="mailto:{{ site.footer-links.email }}" class="btn-success">Contact for coaching</a></div>
   </div>
   <a data-scroll href="#intro" class="next-section">
       <span class="arrow"></span>
@@ -24,6 +25,9 @@ title: "Home"
         <p>The city can be wild too but the mountains is a different breed altogether, you have to fight the elements and heed to nature’s calling. If you're stubborn and refuse to listen you will be punished. Training, preparation and humility are the keys to a happy mind, body and legs.</p>
 
         <h5>What I do? I run.</h5>
+
+        <p>Want to join?</p>
+        <a href="mailto:{{ site.footer-links.email }}" class="btn-success">CONTACT FOR COACHING</a>
     </div>
 </div>
 
@@ -41,7 +45,7 @@ title: "Home"
                 	{% include post-grid.html %}
                 {% endfor %}
                 </div><!-- /.tiles -->
-                
+
             </div>
 
             <!-- <iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/9959817/latest-rides/59489f76cc075cedf0ba561f8e6a46c3029b39a4'></iframe>
