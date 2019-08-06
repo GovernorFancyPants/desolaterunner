@@ -3,7 +3,7 @@ title: Race Report UTMB 2018
 layout: article
 comments: true
 ads: true
-date: 2018-12-07T03:02:33+01:00
+date: 2018-12-07T02:02:33.000+00:00
 categories: race-reports
 tags:
 - utmb
@@ -12,16 +12,19 @@ tags:
 - running
 - chamonix
 - france
-excerpt: ''
-introduction: ''
+excerpt: Suddenly we were off, after all the expectations and build up and craziness
+  surrounding the race it felt almost anti-climatic.
+introduction: As I was walking up the hill, still pitch dark outside, I looked back
+  and saw a trail of headlamps, knowing that by the time I get to the peak most of
+  them will have already passed me. I felt sick to my stomach, feeling like I’d have
+  to throw up every step I took. I had been going for somewhere around eight hours
+  and I knew I’d had to quit the race, I just didn’t wan’t to admit that to myself.
 image:
   feature: ''
   teaser: ''
 
 ---
 UTMB race report
-
-As I was walking up the hill, still pitch dark outside, I looked back and saw a trail of headlamps, knowing that by the time I get to the peak most of them will have already passed me. I felt sick to my stomach, feeling like I’d have to throw up every step I took. I had been going for somewhere around eight hours and I knew I’d had to quit the race, I just didn’t wan’t to admit that to myself.
 
 But let’s back up a bit first, I signed up for UTMB thinking it would take me a couple of tries before I got in. A lot of people want to run this race and chances of getting in on the first try are slim. I knew I wasn’t ready for it, but I thought I could be in a couple of years, and then I wanted to have a better chance at getting a starting bib and so I entered the lottery. I don’t know if there’s a saying, it definitely should be if there isn’t already, great things come to those who doesn’t want it. Of course I got in and knowing the odds of that it’s tough to not accept the gift you’ve been given.
 
