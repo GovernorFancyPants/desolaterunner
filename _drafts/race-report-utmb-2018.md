@@ -20,8 +20,8 @@ introduction: As I was walking up the hill, still pitch dark outside, I looked b
   to throw up every step I took. I had been going for somewhere around eight hours
   and I knew I’d had to quit the race, I just didn’t wan’t to admit that to myself.
 image:
-  feature: ''
-  teaser: ''
+  feature: "/uploads/2019/08/06/IMG_8154-1.jpg"
+  teaser: "/uploads/2019/08/06/IMG_8154_teaser-1.jpg"
 
 ---
 UTMB race report
