@@ -24,11 +24,11 @@ image:
   teaser: "/uploads/2019/08/06/IMG_8154_teaser-1.jpg"
 
 ---
-UTMB race report
-
 But let’s back up a bit first, I signed up for UTMB thinking it would take me a couple of tries before I got in. A lot of people want to run this race and chances of getting in on the first try are slim. I knew I wasn’t ready for it, but I thought I could be in a couple of years, and then I wanted to have a better chance at getting a starting bib and so I entered the lottery. I don’t know if there’s a saying, it definitely should be if there isn’t already, great things come to those who doesn’t want it. Of course I got in and knowing the odds of that it’s tough to not accept the gift you’ve been given.
 
 Fast forward almost a year and the UTMB week is already here. I’ve probably had the best year of training thus far in my life with a huge focus on this race. Even though I didn’t expect to be running this year I had to refocus all my training with the goal of successfully completing the UTMB and with that my first 100-miler. And even though training had been going excellent I still didn’t feel ready. This race and the 100 mile distance requires so much more than training, it takes all out of you. A 100k is possible to just toughen out and get done even if you don’t have your best day. This is something different, a new beast all together.
+
+![](/uploads/2019/08/06/IMG_8173.JPG)
 
 Me and Jonas, my brother, lined up at the start after waiting as long as possible, a slight dusting of rain was in the air and we didn’t want to get too cooled down before the start. The course was slightly changed due to weather and an accident the previous day but nothing major. Weather during the race seemed to be almost optimal, at least for us Scandinavians used to colder temperatures and muddy trails. More and more runners started to join us in the starting area, and excitement started to build. Nervous chatter was all around and people taking pictures instantly posted to instagram and facebook and what have you. Music was playing loudly and energetically and I do get this but I’m not that kind of person who wants to get pumped, I want to be relaxed and focused at the start, I know this isn’t a sprint by any means, this is a slow, calculated and meticulous race. This is a mountainous 100-miler. This is no joke. This is the frickin’ Ultra Trail du Mont Blanc. Notorious for eating up and spitting out runners going too hard.
 
@@ -37,6 +37,8 @@ Suddenly we were off, after all the expectations and build up and craziness surr
 As planned I started out a little harder than was sustainable for a hundred miles to avoid the bottle neck which can be expected by the first climb if you’re not fast enough in the start. I felt pretty good to begin with, no real problems at all. But after starting the climb I noticed my heart rate was a little high even though effort felt fine, I had slowed down after the initial surge. I ask Jonas for his heart rate since we’re usually in the same ballpark. His was consistently about ten beats lower than mine. This was something I wanted to control and so I backed off on the pace and told Jonas I’d see him on the descent. I kept on going steadily up the mountain side and switching between a fast paced walk and slow paced run, and almost at the top I caught up to him again. I noticed I was running side by side names like Stephanie Howe and Kacie Lickteig which made me feel comfortable in that I maintained a good position in the race.
 
 Downhill is where I get to shine. After reaching the top and starting the descent I picked up the pace, a lot. I flew by people all the way down to Saint-Gervais and I felt like I passed hundreds of runners, in the end it was maybe 70-80 but that’s still quite a lot. This definitely gave me a boost and I flew through the first aid station without even stopping. The crowds were going crazy and was cheering us on which gave me even more of a boost. At this point energy intake was on point and in that aspect I felt great.
+
+![](/uploads/2019/08/06/IMG_8204.jpg)
 
 By the start of the next climb darkness had descended as we started to ascend and it was time to bring out the headlamp. This was my first night start and I didn't feel great about starting with the night part, I kind of like it when it gets dark as I'm well into the race and I can cut back on the pace for more than one reason. But I was feeling good, still climbing strong even though I'm a terrible climber. I kept eating well and moving well, some people passed me but not a lot.
 
