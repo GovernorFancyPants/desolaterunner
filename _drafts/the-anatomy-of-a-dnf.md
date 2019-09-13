@@ -15,7 +15,8 @@ tags:
 excerpt: After the first one it gets surprisingly easy, as a matter of fact it's easier
   to find a reason to quit than to go on and if you're not careful it turns into a
   dark pattern real fast.
-introduction: ''
+introduction: 'The anatomy of a DNF (Did Not Finish) is mor intricate than one thinks.
+  It can affect whole careers if one is not careful and it does so almost unseeingly. '
 image:
   feature: ''
   teaser: ''
