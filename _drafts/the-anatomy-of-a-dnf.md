@@ -23,6 +23,8 @@ image:
 date: 
 
 ---
+Eventually it happens to everyone in one way or another. It can be from stomach problems, overuse injury or an acute injury, from mental exhaustion to just pure physical exhaustion but whatever the reason, it sucks. It really, really sucks. The worst part isn't when you make the actual decision, in fact, that might just be one of the best feelings but wait for it. Be it moments after you've handed in your bib, hours maybe, could be days or even months but it will come back around and haunt you. The guilt of haven given up on yourself, the self doubt and the loathing. Could I have continued? Did I have more energy? Why wasn't I just mentally strong to go on? If I only rested for a minute and ate another gel, would that have made a difference? Did I not try hard enough? And on and on it goes until you go crazy.
+
 **UTMB**
 
 Severe stomach cramps, unable to run neither up nor down, unable to get any food in, unable to sleep it off.
@@ -35,7 +37,7 @@ When you think you're in the clear and the pattern hasn't even become a pattern 
 
 **Costa Blanca Trails**
 
-Hip pain from recent climbing fall, forced to a slow walk and whimper, got way cooled down when the rain came 
+Hip pain from recent climbing fall, forced to a slow walk and whimper, got way cooled down when the rain came
 
 After the first one it gets surprisingly easy, as a matter of fact it's easier to find a reason to quit than to go on and if you're not careful it turns in to a dark pattern real fast. I've seen athletes who go down this spiral of withdrawal never to return to former glory days. You've got to break the cycle, no matter what and no matter how hard it is you've got to remind yourself of how good it feels to cross the finish line.
 
