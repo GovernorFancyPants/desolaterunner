@@ -20,7 +20,7 @@ introduction: 'The anatomy of a DNF (Did Not Finish) is more intricate than one 
 image:
   feature: "/uploads/2019/11/13/IMG_0874 (1).JPG"
   teaser: "/uploads/2019/11/13/IMG_0874-thumbnail.JPG"
-date: 
+date: 2019-11-13 00:00:00 +0100
 
 ---
 Eventually it happens to everyone in one way or another. It can be from stomach problems, overuse injury or an acute injury, from mental exhaustion to just pure physical exhaustion. But whatever the reason, it sucks. It really, really sucks. The worst part isn't when you make the actual decision, in fact, that might just be one of the best feelings. But give it some time, be it moments after you've handed in your bib, hours maybe, could be days or even months but it will come back around and haunt you. The guilt of having given up on yourself, the self doubt and the loathing. Could I have continued? Did I have more in me? Why wasn't I mentally stronger? If only I had rested for a minute and ate another gel, would that have made a difference? Did I not try hard enough? And on and on it goes until you go absolutely insane.
