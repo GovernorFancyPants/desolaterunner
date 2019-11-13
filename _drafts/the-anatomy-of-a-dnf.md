@@ -61,11 +61,21 @@ Sprained ankle on the first descent, continued for another 40k before pulling th
 
 Some seem like they should be more clear than others but that's not always the case. As soon as I heard the loud crack when rolling it the forth or fifth time I knew it was bad but chose to ignore it, I thought maybe it would be ok as long as I kept moving. After another 30k it was clear I wasn't going to finish the race no matter what.
 
+![](/uploads/2019/11/13/IMG_0265.JPG)
+
+![](/uploads/2019/11/13/IMG_0115.JPG)
+
+![](/uploads/2019/11/13/IMG_0074.JPG)
+
 **Swedish Alpine Ultra**
 
 Not recovered from ankle sprain.
 
 Sometimes you just want it so much you can't help yourself even though you know the outcome even before the race starts, and sometimes that's ok, cause the goal doesn't always have to be to finish the race. Sometimes the goal is just to get out there and see how long your body can hold up for and turn around when it says enough is enough.
+
+![](/uploads/2019/11/13/IMG_0443.JPG)
+
+![](/uploads/2019/11/13/IMG_0464.JPG)
 
 **MCC**
 
