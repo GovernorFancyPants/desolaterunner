@@ -15,7 +15,7 @@ tags:
 excerpt: After the first one it gets surprisingly easy, as a matter of fact it's easier
   to find a reason to quit than to go on and if you're not careful it turns into a
   dark pattern real fast.
-introduction: 'The anatomy of a DNF (Did Not Finish) is mor intricate than one thinks.
+introduction: 'The anatomy of a DNF (Did Not Finish) is more intricate than one thinks.
   It can affect whole careers if one is not careful and it does so almost unseeingly. '
 image:
   feature: ''
@@ -24,6 +24,10 @@ date:
 
 ---
 Eventually it happens to everyone in one way or another. It can be from stomach problems, overuse injury or an acute injury, from mental exhaustion to just pure physical exhaustion, but whatever the reason, it sucks. It really, really sucks. The worst part isn't when you make the actual decision, in fact, that might just be one of the best feelings. But give it some time, be it moments after you've handed in your bib, hours maybe, could be days or even months but it will come back around and haunt you. The guilt of having given up on yourself, the self doubt and the loathing. Could I have continued? Did I have more in me? Why wasn't I just mentally strong enough to go on? If I only rested for a minute and ate another gel, would that have made a difference? Did I not try hard enough? And on and on it goes until you go absolutely insane.
+
+A friend of mine called me just after having dropped out of the TDS this year and told me that he wasn't going to continue. "I'm completely exhausted, there was no way I could have stayed in the race." His voice sounded weak and he really seemed exhausted. Not even an hour later he called me again and this time around it was a completely different story. "I don't know why I quit, I feel fine now." He told me and he sounded disappointed in himself.
+
+I hear this type of thing all the time, 
 
 **UTMB**
 
