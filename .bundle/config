@@ -1,2 +1,2 @@
 ---
-BUNDLE_WITHOUT: system_tests:development
+BUNDLE_WITHOUT: "system_tests:development"
