@@ -63,7 +63,7 @@ Some seem like they should be more clear than others but that's not always the c
 
 **Swedish Alpine Ultra**
 
-Not recovered from ankle sprain
+Not recovered from ankle sprain.
 
 Sometimes you just want it so much you can't help yourself even though you know the outcome even before the race starts, and sometimes that's ok, cause the goal doesn't always have to be to finish the race. Sometimes the goal is just to get out there and see how long your body can hold up for and turn around when it says enough is enough.
 
