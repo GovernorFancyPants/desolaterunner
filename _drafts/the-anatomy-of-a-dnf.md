@@ -53,9 +53,9 @@ This is where I thought I was in the clear and the pattern had yet to become a p
 
 **Costa Blanca Trails**
 
-Hip pain from recent climbing fall, forced to a slow walk and whimper, got way cooled down when the rain came
+Hip pain from recent climbing fall, forced to a slow walk and whimper, got way cooled down when it started raining.
 
-After the first one it gets surprisingly easy, as a matter of fact it's easier to find a reason to quit than to go on and if you're not careful it turns in to a dark pattern real fast. I've seen athletes who go down this spiral of withdrawal never to return to former glory days. You've got to break the cycle, no matter what and no matter how hard it is you've got to remind yourself of how good it feels to cross the finish line.
+After the first one it gets surprisingly easy, as a matter of fact it's easier to find a reason to quit than to go on and if you're not careful it turns in to a dark pattern real fast. I've seen athletes who go down this spiral of withdrawal never to return to former glory days. Even though this was from a somewhat acute injury it was troubling to have another DNF within a few months from my very first one.
 
 ![](/uploads/2019/11/13/IMG_8588.JPG)
 
@@ -63,7 +63,7 @@ After the first one it gets surprisingly easy, as a matter of fact it's easier t
 
 Sprained ankle on the first descent, continued for another 40k before pulling the plugg.
 
-Some seem like they should be more clear than others but that's not always the case. As soon as I heard the loud crack when rolling it the forth or fifth time I knew it was bad but chose to ignore it, I thought maybe it would be ok as long as I kept moving. After another 30k it was clear I wasn't going to finish the race no matter what.
+Some DNF's seem like they should be more obvious than others but that's not always the case. As soon as I heard the loud crack when rolling my ankle the forth or fifth time I knew it was bad, but I chose to ignore it. I thought maybe it would be ok as long as I kept moving. After another 30k it was clear I wasn't going to finish the race no matter what. Again, this was an acute injury but even more troubling that I now had three for four and this wasn't the end of it.
 
 ![](/uploads/2019/11/13/IMG_0265.JPG)
 
@@ -77,7 +77,7 @@ Some seem like they should be more clear than others but that's not always the c
 
 Not recovered from ankle sprain.
 
-Sometimes you just want it so much you can't help yourself even though you know the outcome even before the race starts, and sometimes that's ok, cause the goal doesn't always have to be to finish the race. Sometimes the goal is just to get out there and see how long your body can hold up for and turn around when it says enough is enough.
+Sometimes you just want it so much you can't help yourself even though you know the outcome even before the race starts, and sometimes that's ok. The goal doesn't always have to be to finish the race. Sometimes the goal is just to get out there and see how long your body can hold up, and turn around when it says enough is enough. This was now my fourth DNF but this was also the least surprising one. And maybe it was here something shifted in me, where I realized it's not always a bad thing to quit.
 
 ![](/uploads/2019/11/13/IMG_0443.JPG)
 
@@ -85,7 +85,7 @@ Sometimes you just want it so much you can't help yourself even though you know 
 
 **MCC**
 
-Breaking the pattern for real. After I went out to hard in the 30 degree heat and hit my first split spot on my legs were shattered and from there on it was hanging on for dear life. I wanted to quit so many times and in my mind I found all the excuses but non were good enough, I knew I had to push through all the way to the finish if not only for the sake of finishing.
+Breaking the pattern for real. After I went out to hard in the 30 degree heat, and hit my first split spot on, my legs were shattered and from there on it was hanging on for dear life. I wanted to quit so many times and in my mind I found all the excuses, but non were good enough. I knew I had to push through all the way to the finish if not only for the sake of finishing. And that's what I did, I finished way off my A, B and even C goal but at least I finished. I knew that if I didn't finish this one it would be for the sole reason of giving up, I had no valid excuse and so I kept going. And if the previous race taught me that it's ok to not finish sometimes, this one taught me that it's not ok to quit sometimes.
 
 ![](/uploads/2019/11/13/IMG_0870 (1).JPG)
 
