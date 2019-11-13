@@ -25,6 +25,8 @@ date:
 ---
 Eventually it happens to everyone in one way or another. It can be from stomach problems, overuse injury or an acute injury, from mental exhaustion to just pure physical exhaustion. But whatever the reason, it sucks. It really, really sucks. The worst part isn't when you make the actual decision, in fact, that might just be one of the best feelings. But give it some time, be it moments after you've handed in your bib, hours maybe, could be days or even months but it will come back around and haunt you. The guilt of having given up on yourself, the self doubt and the loathing. Could I have continued? Did I have more in me? Why wasn't I mentally stronger? If only I had rested for a minute and ate another gel, would that have made a difference? Did I not try hard enough? And on and on it goes until you go absolutely insane.
 
+![](/uploads/2019/11/13/IMG_0074.JPG)
+
 A friend of mine called me just after having dropped out of the TDS this year and told me that he wasn't going to continue. "I'm completely exhausted, there was no way I could have stayed in the race." His voice sounded weak and he really seemed exhausted to me and I insured him he had made the right decision. Not even an hour later he called me again and this time around it was a completely different story. "I don't know why I quit, I feel fine now." He told me and he sounded disappointed in himself. I'm can't know he made the right decision, I can only help him figure out what drove him there and what to do next time that time comes.
 
 I think this is universal and I've had the exact same experience on every single one of my DNF's. Even the once where I was completely sure I didn't have any other choice, there was still this tiny little seed of doubt in me that kept on growing. It's human to forget painful things fast, it's ingrained in us, if not we would never try to do something hard and painful ever again and our minds are remarkably good at distinguishing between good bad and bad bad.
@@ -68,8 +70,6 @@ Some DNF's seem like they should be more obvious than others but that's not alwa
 ![](/uploads/2019/11/13/IMG_0265.JPG)
 
 ![](/uploads/2019/11/13/IMG_0115.JPG)
-
-![](/uploads/2019/11/13/IMG_0074.JPG)
 
 ![](/uploads/2019/11/13/IMG_0281 (1).JPG)
 
