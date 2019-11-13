@@ -23,23 +23,27 @@ image:
 date: 
 
 ---
-Eventually it happens to everyone in one way or another. It can be from stomach problems, overuse injury or an acute injury, from mental exhaustion to just pure physical exhaustion, but whatever the reason, it sucks. It really, really sucks. The worst part isn't when you make the actual decision, in fact, that might just be one of the best feelings. But give it some time, be it moments after you've handed in your bib, hours maybe, could be days or even months but it will come back around and haunt you. The guilt of having given up on yourself, the self doubt and the loathing. Could I have continued? Did I have more in me? Why wasn't I just mentally strong enough to go on? If I only rested for a minute and ate another gel, would that have made a difference? Did I not try hard enough? And on and on it goes until you go absolutely insane.
+Eventually it happens to everyone in one way or another. It can be from stomach problems, overuse injury or an acute injury, from mental exhaustion to just pure physical exhaustion. But whatever the reason, it sucks. It really, really sucks. The worst part isn't when you make the actual decision, in fact, that might just be one of the best feelings. But give it some time, be it moments after you've handed in your bib, hours maybe, could be days or even months but it will come back around and haunt you. The guilt of having given up on yourself, the self doubt and the loathing. Could I have continued? Did I have more in me? Why wasn't I mentally stronger? If only I had rested for a minute and ate another gel, would that have made a difference? Did I not try hard enough? And on and on it goes until you go absolutely insane.
 
-A friend of mine called me just after having dropped out of the TDS this year and told me that he wasn't going to continue. "I'm completely exhausted, there was no way I could have stayed in the race." His voice sounded weak and he really seemed exhausted. Not even an hour later he called me again and this time around it was a completely different story. "I don't know why I quit, I feel fine now." He told me and he sounded disappointed in himself.
+A friend of mine called me just after having dropped out of the TDS this year and told me that he wasn't going to continue. "I'm completely exhausted, there was no way I could have stayed in the race." His voice sounded weak and he really seemed exhausted to me and I insured him he had made the right decision. Not even an hour later he called me again and this time around it was a completely different story. "I don't know why I quit, I feel fine now." He told me and he sounded disappointed in himself. I'm can't know he made the right decision, I can only help him figure out what drove him there and what to do next time that time comes.
 
-I hear this type of thing all the time,
+I think this is universal and I've had the exact same experience on every single one of my DNF's. Even the once where I was completely sure I didn't have any other choice, there was still this tiny little seed of doubt in me that kept on growing. It's human to forget painful things fast, it's ingrained in us, if not we would never try to do something hard and painful ever again and our minds are remarkably good at distinguishing between good bad and bad bad.
+
+In the end I think you do need to trust your gut but at the same time I think it's healthy to challenge that initially urge to quit. The only way to get better at this is to look back and learn from your own experiences. And if don't have your own, maybe you can learn some from mine. So here's the anatomy of my DNF.
 
 **UTMB**
 
-Severe stomach cramps, unable to run neither up nor down, unable to get any food in, unable to sleep it off.
+Severe stomach cramps, unable to run neither up nor down, unable to get any food in and unable to sleep it off.
 
-The first one is always extremely hard, you can always find a reason to why you could've continued so unless you've withdrawn for a really good reason you will regret it.
+The first one is always extremely hard, you can always find a reason to why you could've continued so unless you've withdrawn for a really good reason you will regret it, even if it was the right decision. I still regret this one even though I tried to sleep it off for a couple of hours. I wrote about this experience [here](http://desolaterunner.com/journal/race-report-utmb-2018/ "Race report utmb 2018") if you want to learn more.
 
 ![](/uploads/2019/11/13/IMG_8154.JPG)
 
 **Beskidy Ultra Trail 90**
 
-When you think you're in the clear and the pattern hasn't even become a pattern yet, the calm before the storm if you'd like. My first international podium and my best international race by far, and it felt great almost from start to finish.
+This is my most well executed race to date and it came right after my first and most devastating DNF. I was in the front or in the lead for most of the race and felt absolutely fantastic the entire way. A few navigation errors (and stolen course markers) probably lost me the win with a few minutes but there's no point in speculating. I'm super proud of this race no matter what and it earned me my first international podium and a great big fire log trophy to show for it.
+
+This is where I thought I was in the clear and the pattern had yet to become a pattern.
 
 ![](/uploads/2019/11/13/43031871_2215647272014492_5760988927188008960_o.JPG)
 
