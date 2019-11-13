@@ -31,7 +31,7 @@ A friend of mine called me just after having dropped out of the TDS this year an
 
 I think this is universal and I've had the exact same experience on every single one of my DNF's. Even the once where I was completely sure I didn't have any other choice, there was still this tiny little seed of doubt in me that kept on growing. It's human to forget painful things fast, it's ingrained in us, if not we would never try to do something hard and painful ever again and our minds are remarkably good at distinguishing between good bad and bad bad.
 
-In the end I think you do need to trust your gut but at the same time I think it's healthy to challenge that initially urge to quit. The only way to get better at this is to look back and learn from your own experiences. And if don't have your own, maybe you can learn some from mine. So here's the anatomy of my DNF.
+In the end I think you do need to trust your gut but at the same time I think it's healthy to challenge that initial urge to quit. The only way to get better at this is to look back and learn from your own experiences. And if don't have your own, maybe you can learn some from mine. So here's the anatomy of my DNF.
 
 **UTMB**
 
@@ -63,9 +63,9 @@ After the first one it gets surprisingly easy, as a matter of fact it's easier t
 
 **Lavaredo**
 
-Sprained ankle on the first descent, continued for another 40k before pulling the plugg.
+Sprained ankle on the first descent, continued for another 40k before pulling the plug.
 
-Some DNF's seem like they should be more obvious than others but that's not always the case. As soon as I heard the loud crack when rolling my ankle the forth or fifth time I knew it was bad, but I chose to ignore it. I thought maybe it would be ok as long as I kept moving. After another 30k it was clear I wasn't going to finish the race no matter what. Again, this was an acute injury but even more troubling that I now had three for four and this wasn't the end of it.
+Some DNF's seem like they should be more obvious than others but that's not always the case. As soon as I heard the loud crack when rolling my ankle the fourth or fifth time I knew it was bad, but I chose to ignore it. I thought maybe it would be ok as long as I kept moving. After another 30k it was clear I wasn't going to finish the race no matter what. Again, this was an acute injury but even more troubling that I now had three for four and this wasn't the end of it.
 
 ![](/uploads/2019/11/13/IMG_0265.JPG)
 
