@@ -18,8 +18,8 @@ excerpt: After the first one it gets surprisingly easy, as a matter of fact it's
 introduction: 'The anatomy of a DNF (Did Not Finish) is more intricate than one thinks.
   It can affect whole careers if one is not careful and it does so almost unseeingly. '
 image:
-  feature: ''
-  teaser: ''
+  feature: "/uploads/2019/11/13/IMG_0874 (1).JPG"
+  teaser: "/uploads/2019/11/13/IMG_0874-thumbnail.JPG"
 date: 
 
 ---
@@ -27,7 +27,7 @@ Eventually it happens to everyone in one way or another. It can be from stomach 
 
 A friend of mine called me just after having dropped out of the TDS this year and told me that he wasn't going to continue. "I'm completely exhausted, there was no way I could have stayed in the race." His voice sounded weak and he really seemed exhausted. Not even an hour later he called me again and this time around it was a completely different story. "I don't know why I quit, I feel fine now." He told me and he sounded disappointed in himself.
 
-I hear this type of thing all the time, 
+I hear this type of thing all the time,
 
 **UTMB**
 
