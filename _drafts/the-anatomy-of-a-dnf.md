@@ -67,6 +67,8 @@ Some seem like they should be more clear than others but that's not always the c
 
 ![](/uploads/2019/11/13/IMG_0074.JPG)
 
+![](/uploads/2019/11/13/IMG_0281 (1).JPG)
+
 **Swedish Alpine Ultra**
 
 Not recovered from ankle sprain.
