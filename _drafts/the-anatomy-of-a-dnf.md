@@ -35,15 +35,25 @@ Severe stomach cramps, unable to run neither up nor down, unable to get any food
 
 The first one is always extremely hard, you can always find a reason to why you could've continued so unless you've withdrawn for a really good reason you will regret it.
 
+![](/uploads/2019/11/13/IMG_8154.JPG)
+
 **Beskidy Ultra Trail 90**
 
 When you think you're in the clear and the pattern hasn't even become a pattern yet, the calm before the storm if you'd like. My first international podium and my best international race by far, and it felt great almost from start to finish.
+
+![](/uploads/2019/11/13/43031871_2215647272014492_5760988927188008960_o.JPG)
+
+![](/uploads/2019/11/13/42918026_1896725840419631_6432022668916031488_o.JPG)
+
+![](/uploads/2019/11/13/43062476_2215643495348203_8523210436810637312_o.JPG)
 
 **Costa Blanca Trails**
 
 Hip pain from recent climbing fall, forced to a slow walk and whimper, got way cooled down when the rain came
 
 After the first one it gets surprisingly easy, as a matter of fact it's easier to find a reason to quit than to go on and if you're not careful it turns in to a dark pattern real fast. I've seen athletes who go down this spiral of withdrawal never to return to former glory days. You've got to break the cycle, no matter what and no matter how hard it is you've got to remind yourself of how good it feels to cross the finish line.
+
+![](/uploads/2019/11/13/IMG_8588.JPG)
 
 **Lavaredo**
 
