@@ -56,3 +56,7 @@ Sometimes you just want it so much you can't help yourself even though you know 
 **MCC**
 
 Breaking the pattern for real. After I went out to hard in the 30 degree heat and hit my first split spot on my legs were shattered and from there on it was hanging on for dear life. I wanted to quit so many times and in my mind I found all the excuses but non were good enough, I knew I had to push through all the way to the finish if not only for the sake of finishing.
+
+So, is this the end of it? Have I made it over the DNF hump? I'm not so sure about that. I think once you've realized how easy it is to quit it's always going to be tempting when things don't go the way you want. But the only way to grow and learn is to push your mental and physical limits, sometimes you go over them and sometimes you won't reach them. Eventually you will find that balance and know yourself well enough to make the right decision in the moment.
+
+And hey, if you were to make the wrong decision once in a while that's not the end of the world either.
