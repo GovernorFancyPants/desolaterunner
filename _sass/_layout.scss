@@ -156,6 +156,7 @@
 	.page-title {
 		// @include fill-parent;
         text-align: center;
+    padding: 0 $gutter;
 		@include media($medium) {
 			@include span-columns(9);
 			@include shift(1.5);
@@ -177,6 +178,7 @@
 			@include fill-parent;
 			// larger font for intro paragraph
 			> p {
+        padding: 0 $gutter;
 				&:first-child {
 					@include font-size(20,yes,30);
 				}
@@ -396,6 +398,11 @@ article.wrap .page-content p img {
 		text-transform: uppercase;
 	}
 }
+
+aside {
+  padding: 0 $gutter;
+}
+
 
 /*
    Page footer
