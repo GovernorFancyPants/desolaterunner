@@ -376,6 +376,13 @@ article.wrap .page-content p img {
 	}
 }
 
+article.google-auto-placed {
+  text-align: center!important;
+  width: 100%!important;
+  height: auto!important;
+  clear: both!important;
+}
+
 .posts-wrapper {
 	@include media ($medium) {
 		@include span-columns(8);
