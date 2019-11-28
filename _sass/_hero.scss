@@ -55,9 +55,15 @@
         letter-spacing: .1em;
         margin: 0;
         @include font-size(24);
+        .page-feature & {
+          @include font-size(48);
+        }
         @include media($small) {
             @include font-size(48);
             margin-bottom: .5rem;
+            .page-feature & {
+              @include font-size(82);
+            }
         }
         margin-bottom: 0;
         float: none;
