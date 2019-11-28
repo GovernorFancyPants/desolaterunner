@@ -57,8 +57,11 @@
     }
 }
 .tiles.alternative .tile {
-    &:nth-child(4), &:nth-child(5) {
-      @include media(new-breakpoint(min-width em(480) 12)) {
+  @include omega(2n);
+      @include media(new-breakpoint(min-width em(780) 12)) {
+        @include omega-reset(2n);
+        @include omega(3n);
+        &:nth-child(4), &:nth-child(5) {
         @include span-columns(6);
       }
     }
