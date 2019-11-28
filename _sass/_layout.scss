@@ -162,11 +162,13 @@
 			@include omega;
 		}
 		h1 {
-			font-family: "lobster", cursive;
+			font-family: "lato", sans-serif;
+      font-weight: 200;
 			text-align: center;
-			@include font-size(32);
+      text-transform: uppercase;
+			@include font-size(48);
 			@include media($medium) {
-				@include font-size(48);
+				@include font-size(64);
 			}
 		}
 	}
@@ -290,6 +292,7 @@
 	@include fill-parent;
 	overflow: hidden;
 	// expand image to cover full width of header
+  position: relative;
 	img {
 		width: 100%;
 		vertical-align: middle;
@@ -297,6 +300,24 @@
 	    top: 50%;
 	    transform: translateY(-50%);
 	}
+  .page-title {
+      color: #fff;
+      font-weight: 100;
+      font-family: "lato", sans-serif;
+      letter-spacing: .1em;
+      margin: 0;
+      @include font-size(24);
+      @include media($medium) {
+          @include font-size(48);
+          margin-bottom: .5rem;
+      }
+      margin-bottom: 0;
+      float: none;
+      display: inline-block;
+      width: auto;
+      height: auto;
+      padding: 0;
+  }
 }
 // make image flush with edges on small screens
 .page-image {
@@ -307,11 +328,21 @@
 	max-height: 300px;
 	overflow: hidden;
 	padding-top: 11em;
+  &.not-article::after {
+    content:"";
+    display: block;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: linear-gradient(to top, rgba(0, 0, 0, .1), rgba(0, 0, 0, .4)) no-repeat center center fixed;
+  }
 	@include media($medium) {
-		padding-top: 32em;
+		padding-top: 24em;
 	}
 	@include media($large) {
-		padding-top: 40em;
+		padding-top: 32em;
 	}
 	// feature image caption
 	.image-credit {

@@ -9,7 +9,19 @@
         @include fill-parent;
     }
     @include media(new-breakpoint(min-width em(480) 12)) {
+        @include span-columns(6);
+        @include omega(2n);
+    }
+    @include media(new-breakpoint(min-width em(780) 12)) {
         @include span-columns(4);
+        // &:nth-child(2n) {
+        //   clear: none;
+        //   margin-right: 2.3576515979%;
+        // }
+        // &:nth-child(2n+1) {
+        //   clear: none;
+        // }
+        @include omega-reset(2n);
         @include omega(3n);
     }
     .entry-date {
