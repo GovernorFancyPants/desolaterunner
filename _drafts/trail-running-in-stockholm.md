@@ -19,6 +19,8 @@ date:
 ---
 **Ursvik**
 
+Home of the classic Ursvik xtreme and Ursvik Ultra races.
+
 **Gömmaren**
 
 This might be Stockholms best kept trail secret. If you go hear you'll experience one of the best trails around and you usually won't bump into a lot of people, especially if you're doing either the 10k or 15k trail.
@@ -35,20 +37,22 @@ Same goes for this one, it's an extreme stretch of the trail category but it's a
 
 **Hammarbybacken**
 
-The crown jewel of climbing. With the most vert you can get in one go this monster of a hill will get you a total of 85 vertical meters. If you manage to find the absolute bottom before heading up that is. Here you'll find a lot of people trying to get their weekly vm's and soon you'll get to know a lot of the faces.
+The crown jewel of climbing in Stockholm. With the most vert you can get in one go this monster of a hill will get you a total of 85 vertical meters. If you manage to find the absolute bottom before heading up that is. Here you'll find a lot of people trying to get their weekly vm's and soon you'll get to know a lot of the faces.
+
+There are a lot of fun competitions going on here, like Stockholms brantaste which is a 3km course going up the hill three times and ending at the top.
 
 **Hagaparken**
 
-**Upplandsleden**
-
-**Sörmlandsleden**
+Here you'll find a lot of different paths and trails that can be connected in lots of ways. There's also a small hill here, Haga kulle. Going around the lake Brunnsviken.
 
 **Alvik strand**
 
-This is a surprising little gem of an out and back trail close to centre, with a few small loops that can be added along the way. And if Kungsholmen runt doesn't cut it for you distance wise you can add this on as an extra and get twice the distance.
+This is a surprising little gem of an out and back trail close to the centre, with a few small loops that can be added along the way. And if Kungsholmen runt doesn't cut it for you distance wise you can tack this on as an extra and get twice the distance.
 
-**Järvafältet**
+**Järvafältet and Upplandsleden**
 
-**Högdalstopparna - högdalstoppen, fagersjötoppen, hökarängstoppen**
+**Högdalstopparna - högdalstoppen, fagersjötoppen and hökarängstoppen**
 
-**Hellas - Tyresta - Sörmlandsleden**
+I've spent a lot of time going up and down these hills and even though they're literally old garbage piles, from the right angle, on the right day and with perfect weather it can be almost beautiful here. You can connect this with the lit track in fagersjöskogen which is close by and make a good loop.
+
+**Hellas, Tyresta and Sörmlandsleden**
