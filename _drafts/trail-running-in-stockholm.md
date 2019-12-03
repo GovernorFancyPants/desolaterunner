@@ -19,13 +19,15 @@ date:
 ---
 **Ursvik**
 
-Home of the classic Ursvik xtreme and Ursvik Ultra races.
+Home of the classic Ursvik Xtreme and Ursvik Ultra races. 
+
+Marked trails all the way from a lit and groomed 2k to a fantastic 15k single track.
 
 **Gömmaren**
 
-This might be Stockholms best kept trail secret. If you go hear you'll experience one of the best trails around and you usually won't bump into a lot of people, especially if you're doing either the 10k or 15k trail.
+This might be Stockholms best kept trail secret. If you go here you'll experience one of the best trails around and you usually won't bump into a lot of people, especially if you're doing either the 10k or 15k trail.
 
-Marked trails all the way from a lit and groomed 2k to a fantastic 15k single track.
+Has the same kind of prepped trails as Ursvik from 2k up to 15k, but more of a single track and off-the-beaten-track feel especially on the 10k and 15k loops.
 
 **Kungsholmen runt**
 
