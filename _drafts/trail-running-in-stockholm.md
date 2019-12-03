@@ -17,18 +17,6 @@ image:
 date: 
 
 ---
-**Ursvik**
-
-Home of the classic Ursvik Xtreme and Ursvik Ultra races. 
-
-Marked trails all the way from a lit and groomed 2k to a fantastic 15k single track.
-
-**Gömmaren**
-
-This might be Stockholms best kept trail secret. If you go here you'll experience one of the best trails around and you usually won't bump into a lot of people, especially if you're doing either the 10k or 15k trail.
-
-Has the same kind of prepped trails as Ursvik from 2k up to 15k, but more of a single track and off-the-beaten-track feel especially on the 10k and 15k loops.
-
 **Kungsholmen runt**
 
 This doesn't really fall under the trail category except for a slightly technical part of maybe half a kilometer, but it's a classic run in Stockholm and you won't ever be alone.
@@ -51,10 +39,22 @@ Here you'll find a lot of different paths and trails that can be connected in lo
 
 This is a surprising little gem of an out and back trail close to the centre, with a few small loops that can be added along the way. And if Kungsholmen runt doesn't cut it for you distance wise you can tack this on as an extra and get twice the distance.
 
+**Ursvik**
+
+Home of the classic Ursvik Xtreme and Ursvik Ultra races. There's a lot of good trails and paths here and you can put the loops together making up a desired distance. You probably won't be alone here but it's also big enough to not be crowded.
+
+Marked trails all the way from a lit and groomed 2k to a 15k semi technical path.
+
 **Järvafältet and Upplandsleden**
 
-**Högdalstopparna - högdalstoppen, fagersjötoppen and hökarängstoppen**
+**Gömmaren**
 
-I've spent a lot of time going up and down these hills and even though they're literally old garbage piles, from the right angle, on the right day and with perfect weather it can be almost beautiful here. You can connect this with the lit track in fagersjöskogen which is close by and make a good loop.
+This might be Stockholms best kept trail secret. If you go here you'll experience one of the best trails around and you usually won't bump into a lot of people, especially if you're doing either the 10k or 15k trail.
+
+Has the same kind of prepped trails as Ursvik from 2k up to 15k, but more of a single track and off-the-beaten-track feel especially on the 10k and 15k loops.
+
+**Högdalstopparna - Högdalstoppen, Fagersjötoppen and Hökarängstoppen**
+
+I've spent a lot of time going up and down these hills and even though they're literally old garbage piles, from the right angle, on the right day and with perfect weather it can be almost beautiful here. You can connect this with the lit trail in Fagersjöskogen which is close by and make a good loop.
 
 **Hellas, Tyresta and Sörmlandsleden**
