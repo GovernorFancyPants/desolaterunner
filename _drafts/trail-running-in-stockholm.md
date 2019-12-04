@@ -17,19 +17,23 @@ image:
 date: 
 
 ---
+### Central Stockholm
+
+**Hammarbybacken**
+
+We're starting out with the crown jewel of climbing in Stockholm. With the most vert you can get in one go this monster of a hill will get you a total of 85 vertical meters. If you manage to find the absolute bottom before heading up that is. Here you'll find a lot of people trying to get their weekly vm's in and soon you'll get to know a lot of the faces.
+
+You'll find a lot of different paths going up and down the hill so you'll be able to get some variation.
+
+There are a lot of fun competitions going on here, like [Stockholms Brantaste](https://stockholmsbrantaste.se/ "Stockholms brantaste") which is a 3km course going up the hill three times and ending at the top.
+
 **Kungsholmen runt**
 
-This doesn't really fall under the trail category except for a slightly technical part of maybe half a kilometer, but it's a classic run in Stockholm and you won't ever be alone.
+This doesn't really fall under the trail category except for a slightly technical part of maybe half a kilometer, but it's a classic run in Stockholm and you won't ever be alone going around this island.
 
 **Södermalm runt**
 
 Same goes for this one, it's an extreme stretch of the trail category but it's also a super classic run. You won't ever be lonely on this one either, especially if you do it around lunch time, since a lot of Stockholms inhabitants like to spend their lunch hour (more like two) circumventing this island. If you do it in the height of summer watch out for the wall of people getting their daily dose of sun and water exposure at Tantolunden.
-
-**Hammarbybacken**
-
-The crown jewel of climbing in Stockholm. With the most vert you can get in one go this monster of a hill will get you a total of 85 vertical meters. If you manage to find the absolute bottom before heading up that is. Here you'll find a lot of people trying to get their weekly vm's and soon you'll get to know a lot of the faces.
-
-There are a lot of fun competitions going on here, like Stockholms brantaste which is a 3km course going up the hill three times and ending at the top.
 
 **Hagaparken**
 
@@ -39,13 +43,17 @@ Here you'll find a lot of different paths and trails that can be connected in lo
 
 This is a surprising little gem of an out and back trail close to the centre, with a few small loops that can be added along the way. And if Kungsholmen runt doesn't cut it for you distance wise you can tack this on as an extra and get twice the distance.
 
+### North of Stockholm
+
 **Ursvik**
 
-Home of the classic Ursvik Xtreme and Ursvik Ultra races. There's a lot of good trails and paths here and you can put the loops together making up a desired distance. You probably won't be alone here but it's also big enough to not be crowded.
+Home of the classic [Ursvik Xtreme](https://idrottonline.se/SundbybergsIK/Idrottsmallar/Arbetsrum/UrsvikXtreme "Ursvik Xtreme") and [Ursvik Ultra](http://desolaterunner.com/journal/race-report-ursvik-ultra-2016/ "Ursvik Ultra") races. There's a lot of good trails and paths here and you can put the loops together making up a desired distance. You probably won't be alone here but it's also big enough to not be crowded.
 
 Marked trails all the way from a lit and groomed 2k to a 15k semi technical path.
 
 **Järvafältet and Upplandsleden**
+
+### South of Stockholm
 
 **Gömmaren**
 
