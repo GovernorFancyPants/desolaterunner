@@ -31,13 +31,19 @@ There are a lot of fun competitions going on here, like [Stockholms Brantaste](h
 
 This doesn't really fall under the trail category except for a slightly technical part of maybe half a kilometer, but it's a classic run in Stockholm and you won't ever be alone going around this island.
 
+![](/uploads/2019/12/04/IMG_0442.JPG)
+
 **Södermalm runt**
 
 Same goes for this one, it's an extreme stretch of the trail category but it's also a super classic run. You won't ever be lonely on this one either, especially if you do it around lunch time, since a lot of Stockholms inhabitants like to spend their lunch hour (more like two) circumventing this island. If you do it in the height of summer watch out for the wall of people getting their daily dose of sun and water exposure at Tantolunden.
 
+![](/uploads/2019/12/04/IMG_0402.JPG)
+
 **Hagaparken**
 
 Here you'll find a lot of different paths and trails that can be connected in lots of ways. There's also a small hill here, Haga kulle. Going around the lake Brunnsviken.
+
+![](/uploads/2019/12/04/IMG_0022.JPG)
 
 **Alvik strand**
 
@@ -53,6 +59,8 @@ Marked trails all the way from a lit and groomed 2k to a 15k semi technical path
 
 **Järvafältet and Upplandsleden**
 
+![](/uploads/2019/12/04/IMG_5961.JPG)
+
 ### South of Stockholm
 
 **Gömmaren**
@@ -60,6 +68,8 @@ Marked trails all the way from a lit and groomed 2k to a 15k semi technical path
 This might be Stockholms best kept trail secret. If you go here you'll experience one of the best trails around and you usually won't bump into a lot of people, especially if you're doing either the 10k or 15k trail.
 
 Has the same kind of prepped trails as Ursvik from 2k up to 15k, but more of a single track and off-the-beaten-track feel especially on the 10k and 15k loops.
+
+![Electricity lines in gömmaren](/uploads/2019/12/04/b6jg9nhyL4u3xrbRu2EkJAApBJIYZ9sPoZ_GGIECGBs-1638x2048.jpg "Gömmaren")
 
 **Högdalstopparna - Högdalstoppen, Fagersjötoppen and Hökarängstoppen**
 
