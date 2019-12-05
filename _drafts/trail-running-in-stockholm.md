@@ -17,8 +17,8 @@ introduction: |-
 
   A discovered space special to you, treasured and returned to for solace and relaxation; a personal idyll free from stress.
 image:
-  feature: ''
-  teaser: ''
+  feature: "/uploads/2019/12/05/IMG_7656-1.JPG"
+  teaser: "/uploads/2019/12/05/IMG_7656 (2).JPG"
 date: 
 
 ---
