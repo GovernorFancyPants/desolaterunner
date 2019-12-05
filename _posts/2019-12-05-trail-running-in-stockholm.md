@@ -36,7 +36,7 @@ You'll find a lot of different paths going up and down the hill so you'll be abl
 
 ![](/uploads/2019/12/05/IMG_7656.JPG)
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='[https://www.strava.com/activities/2395587827/embed/b20df95a0ae11cf01956cbf5a6094ade41f7958a](https://www.strava.com/activities/2395587827/embed/b20df95a0ae11cf01956cbf5a6094ade41f7958a "https://www.strava.com/activities/2395587827/embed/b20df95a0ae11cf01956cbf5a6094ade41f7958a")'></iframe>
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2395587827/embed/b20df95a0ae11cf01956cbf5a6094ade41f7958a'></iframe>
 
 **Kungsholmen runt**
 
@@ -44,7 +44,7 @@ This doesn't really fall under the trail category except for a slightly technica
 
 ![](/uploads/2019/12/04/IMG_0442.JPG)
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='[https://www.strava.com/activities/2212691315/embed/b6f7462f899edfde7e18c1a887ac4f084b5df777](https://www.strava.com/activities/2212691315/embed/b6f7462f899edfde7e18c1a887ac4f084b5df777 "https://www.strava.com/activities/2212691315/embed/b6f7462f899edfde7e18c1a887ac4f084b5df777")'></iframe>
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2212691315/embed/b6f7462f899edfde7e18c1a887ac4f084b5df777'></iframe>
 
 **Södermalm runt**
 
@@ -54,7 +54,7 @@ If you feel adventures you can cross the bridge Årstabron, which happens to be 
 
 ![](/uploads/2019/12/04/IMG_0402.JPG)
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='[https://www.strava.com/activities/2422552398/embed/1467a73322ce86d1b04d7774883102825b8fc0a0](https://www.strava.com/activities/2422552398/embed/1467a73322ce86d1b04d7774883102825b8fc0a0 "https://www.strava.com/activities/2422552398/embed/1467a73322ce86d1b04d7774883102825b8fc0a0")'></iframe>
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2422552398/embed/1467a73322ce86d1b04d7774883102825b8fc0a0'></iframe>
 
 **Hagaparken**
 
@@ -62,7 +62,7 @@ Here you'll find a lot of different paths and trails that can be connected in lo
 
 ![](/uploads/2019/12/04/IMG_0022.JPG)
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='[https://www.strava.com/activities/2436584056/embed/cdebb38690c8a4e0cde9915b7c911b7adce404b7](https://www.strava.com/activities/2436584056/embed/cdebb38690c8a4e0cde9915b7c911b7adce404b7 "https://www.strava.com/activities/2436584056/embed/cdebb38690c8a4e0cde9915b7c911b7adce404b7")'></iframe>
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2436584056/embed/cdebb38690c8a4e0cde9915b7c911b7adce404b7'></iframe>
 
 **Alvik strand**
 
@@ -80,7 +80,7 @@ Marked trails all the way from a lit and groomed 2k to a 15k semi technical trai
 
 ![](/uploads/2019/12/05/IMG_0019.JPG)
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='[https://www.strava.com/activities/1034756495/embed/2919b97e3e758f378a22f3a61acf5bfa9eac6af0](https://www.strava.com/activities/1034756495/embed/2919b97e3e758f378a22f3a61acf5bfa9eac6af0 "https://www.strava.com/activities/1034756495/embed/2919b97e3e758f378a22f3a61acf5bfa9eac6af0")'></iframe>
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1034756495/embed/2919b97e3e758f378a22f3a61acf5bfa9eac6af0'></iframe>
 
 **Järvafältet and Upplandsleden**
 
@@ -98,7 +98,7 @@ Has the same kind of prepped trails as Ursvik from 2k up to 15k, but more of a s
 
 ![Electricity lines in gömmaren](/uploads/2019/12/04/b6jg9nhyL4u3xrbRu2EkJAApBJIYZ9sPoZ_GGIECGBs-1638x2048.jpg "Gömmaren")
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='[https://www.strava.com/activities/2188909458/embed/7db1a0f5bc32a0d9e91f6c47cf40f6ca3d073481](https://www.strava.com/activities/2188909458/embed/7db1a0f5bc32a0d9e91f6c47cf40f6ca3d073481 "https://www.strava.com/activities/2188909458/embed/7db1a0f5bc32a0d9e91f6c47cf40f6ca3d073481")'></iframe>
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2188909458/embed/7db1a0f5bc32a0d9e91f6c47cf40f6ca3d073481'></iframe>
 
 **Högdalstopparna - Högdalstoppen, Fagersjötoppen and Hökarängstoppen**
 
@@ -106,7 +106,7 @@ I've spent a lot of time going up and down these hills and even though they're l
 
 ![](/uploads/2019/12/05/IMG_4204.jpg)
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='[https://www.strava.com/activities/2141023401/embed/ae7ab47bc9410bab31cc705670ae8a73eb216ec2](https://www.strava.com/activities/2141023401/embed/ae7ab47bc9410bab31cc705670ae8a73eb216ec2 "https://www.strava.com/activities/2141023401/embed/ae7ab47bc9410bab31cc705670ae8a73eb216ec2")'></iframe>
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2141023401/embed/ae7ab47bc9410bab31cc705670ae8a73eb216ec2'></iframe>
 
 **Hellas, Tyresta and Sörmlandsleden**
 
@@ -116,10 +116,10 @@ Sörmlandsleden is a trail system covering a lot of ground around the Stockholm 
 
 ![](/uploads/2019/12/05/14524502_10154293150284130_3980353448345726115_o.jpg)
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='[https://www.strava.com/activities/738193609/embed/3c2a5ad6496170be2d1fcba1ff3322c3f0caca61](https://www.strava.com/activities/738193609/embed/3c2a5ad6496170be2d1fcba1ff3322c3f0caca61 "https://www.strava.com/activities/738193609/embed/3c2a5ad6496170be2d1fcba1ff3322c3f0caca61")'></iframe>
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/738193609/embed/3c2a5ad6496170be2d1fcba1ff3322c3f0caca61'></iframe>
 
 **Vinterviken**
 
 I'll leave this here as a bonus, I've run a lot of miles here and it's a great area to run even though there aren't actually any trails here. But with a little imagination I managed to put together a loop with almost 500 vertical and that's not bad in Stockholm.
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='[https://www.strava.com/activities/1047660762/embed/085e0c7e27a7f050d733f946b3ecd34c74b3d63b](https://www.strava.com/activities/1047660762/embed/085e0c7e27a7f050d733f946b3ecd34c74b3d63b "https://www.strava.com/activities/1047660762/embed/085e0c7e27a7f050d733f946b3ecd34c74b3d63b")'></iframe>
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1047660762/embed/085e0c7e27a7f050d733f946b3ecd34c74b3d63b'></iframe>
