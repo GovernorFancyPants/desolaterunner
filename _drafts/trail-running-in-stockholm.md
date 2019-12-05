@@ -10,7 +10,8 @@ tags:
 - sweden
 - trail
 - smultronställe
-excerpt: ''
+excerpt: This might be Stockholms best kept trail secret. If you go here you'll experience
+  one of the best trails around and you usually won't bump into a lot of people.
 introduction: |-
   [Swedish] Smultronställe - Lit. 'place of wild strawberries'
 
