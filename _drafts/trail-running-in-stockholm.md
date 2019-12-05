@@ -78,6 +78,8 @@ Marked trails all the way from a lit and groomed 2k to a 15k semi technical path
 
 ![](/uploads/2019/12/05/IMG_0019.JPG)
 
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='[https://www.strava.com/activities/1034756495/embed/2919b97e3e758f378a22f3a61acf5bfa9eac6af0](https://www.strava.com/activities/1034756495/embed/2919b97e3e758f378a22f3a61acf5bfa9eac6af0 "https://www.strava.com/activities/1034756495/embed/2919b97e3e758f378a22f3a61acf5bfa9eac6af0")'></iframe>
+
 **Järvafältet and Upplandsleden**
 
 ![](/uploads/2019/12/04/IMG_5961.JPG)
