@@ -29,6 +29,8 @@ You'll find a lot of different paths going up and down the hill so you'll be abl
 
 ![](/uploads/2019/12/05/IMG_7656.JPG)
 
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='[https://www.strava.com/activities/2395587827/embed/b20df95a0ae11cf01956cbf5a6094ade41f7958a](https://www.strava.com/activities/2395587827/embed/b20df95a0ae11cf01956cbf5a6094ade41f7958a "https://www.strava.com/activities/2395587827/embed/b20df95a0ae11cf01956cbf5a6094ade41f7958a")'></iframe>
+
 **Kungsholmen runt**
 
 This doesn't really fall under the trail category except for a slightly technical part of maybe half a kilometer, but it's a classic run in Stockholm and you won't ever be alone going around this island.
@@ -65,7 +67,7 @@ This is a surprising little gem of an out and back trail close to the centre, wi
 
 **Ursvik**
 
-Home of the classic [Ursvik Xtreme](https://idrottonline.se/SundbybergsIK/Idrottsmallar/Arbetsrum/UrsvikXtreme "Ursvik Xtreme") and [Ursvik Ultra](http://desolaterunner.com/journal/race-report-ursvik-ultra-2016/ "Ursvik Ultra") races. There's a lot of good trails and paths here and you can put the loops together making up a desired distance. You probably won't be alone here but it's also big enough to not be crowded.
+Home of the classic [Ursvik Xtreme](https://idrottonline.se/SundbybergsIK/Idrottsmallar/Arbetsrum/UrsvikXtreme "Ursvik Xtreme") and [Ursvik Ultra](http://desolaterunner.com/journal/race-report-ursvik-ultra-2016/ "Ursvik Ultra") races, which are some of the best races around. There's a lot of good trails and paths here and you can put the loops together making up a desired distance. You probably won't be alone here but it's also big enough to not be crowded.
 
 Marked trails all the way from a lit and groomed 2k to a 15k semi technical path.
 
@@ -85,11 +87,15 @@ Has the same kind of prepped trails as Ursvik from 2k up to 15k, but more of a s
 
 ![Electricity lines in gömmaren](/uploads/2019/12/04/b6jg9nhyL4u3xrbRu2EkJAApBJIYZ9sPoZ_GGIECGBs-1638x2048.jpg "Gömmaren")
 
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='[https://www.strava.com/activities/2188909458/embed/7db1a0f5bc32a0d9e91f6c47cf40f6ca3d073481](https://www.strava.com/activities/2188909458/embed/7db1a0f5bc32a0d9e91f6c47cf40f6ca3d073481 "https://www.strava.com/activities/2188909458/embed/7db1a0f5bc32a0d9e91f6c47cf40f6ca3d073481")'></iframe>
+
 **Högdalstopparna - Högdalstoppen, Fagersjötoppen and Hökarängstoppen**
 
 I've spent a lot of time going up and down these hills and even though they're literally old garbage piles, from the right angle, on the right day and with perfect weather it can be almost beautiful here. You can connect this with the lit trail in Fagersjöskogen which is close by and make a good loop.
 
 ![](/uploads/2019/12/05/IMG_4204.jpg)
+
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='[https://www.strava.com/activities/2141023401/embed/ae7ab47bc9410bab31cc705670ae8a73eb216ec2](https://www.strava.com/activities/2141023401/embed/ae7ab47bc9410bab31cc705670ae8a73eb216ec2 "https://www.strava.com/activities/2141023401/embed/ae7ab47bc9410bab31cc705670ae8a73eb216ec2")'></iframe>
 
 **Hellas, Tyresta and Sörmlandsleden**
 
