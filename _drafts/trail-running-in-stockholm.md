@@ -24,7 +24,7 @@ date:
 ---
 I've been living in Stockholm for many a year now, way to many to tell the truth, that's why I recently moved to Chamonix. But through the years I've discovered most of the trails and worth while paths this city has to offer. In this post I'll share my favorites with you and all of these are easily accessible with public transport. 
 
-These are my smultronställen of trail running in Stockholm, do enjoy in my absence. 
+These are my smultronställen of trail running in Stockholm, do enjoy them in my absence. 
 
 ### Central Stockholm
 
