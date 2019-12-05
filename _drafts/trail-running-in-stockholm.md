@@ -27,6 +27,8 @@ You'll find a lot of different paths going up and down the hill so you'll be abl
 
 There are a lot of fun competitions going on here, like [Stockholms Brantaste](https://stockholmsbrantaste.se/ "Stockholms brantaste") which is a 3km course going up the hill three times and ending at the top.
 
+![](/uploads/2019/12/05/IMG_7656.JPG)
+
 **Kungsholmen runt**
 
 This doesn't really fall under the trail category except for a slightly technical part of maybe half a kilometer, but it's a classic run in Stockholm and you won't ever be alone going around this island.
@@ -36,6 +38,8 @@ This doesn't really fall under the trail category except for a slightly technica
 **Södermalm runt**
 
 Same goes for this one, it's an extreme stretch of the trail category but it's also a super classic run. You won't ever be lonely on this one either, especially if you do it around lunch time, since a lot of Stockholms inhabitants like to spend their lunch hour (more like two) circumventing this island. If you do it in the height of summer watch out for the wall of people getting their daily dose of sun and water exposure at Tantolunden.
+
+If you feel adventures you can cross the bridge Årstabron, which happens to be my favorite bridge in Stockholm, and end up at Årsta strand which also has a nice waterside trail or more of a gravel path.
 
 ![](/uploads/2019/12/04/IMG_0402.JPG)
 
@@ -56,6 +60,8 @@ This is a surprising little gem of an out and back trail close to the centre, wi
 Home of the classic [Ursvik Xtreme](https://idrottonline.se/SundbybergsIK/Idrottsmallar/Arbetsrum/UrsvikXtreme "Ursvik Xtreme") and [Ursvik Ultra](http://desolaterunner.com/journal/race-report-ursvik-ultra-2016/ "Ursvik Ultra") races. There's a lot of good trails and paths here and you can put the loops together making up a desired distance. You probably won't be alone here but it's also big enough to not be crowded.
 
 Marked trails all the way from a lit and groomed 2k to a 15k semi technical path.
+
+![](/uploads/2019/12/05/IMG_0019.JPG)
 
 **Järvafältet and Upplandsleden**
 
