@@ -17,7 +17,7 @@ image:
 date: 
 
 ---
-I've been living in Stockholm for many a year now, 
+I've been living in Stockholm for many a year now,
 
 ### Central Stockholm
 
@@ -41,15 +41,19 @@ This doesn't really fall under the trail category except for a slightly technica
 
 Same goes for this one, it's an extreme stretch of the trail category but it's also a super classic run. You won't ever be lonely on this one either, especially if you do it around lunch time, since a lot of Stockholms inhabitants like to spend their lunch hour (more like two) circumventing this island. If you do it in the height of summer watch out for the wall of people getting their daily dose of sun and water exposure at Tantolunden.
 
-If you feel adventures you can cross the bridge Årstabron, which happens to be my favorite bridge in Stockholm, and end up at Årsta strand which also has a nice waterside trail or more of a gravel path.
+If you feel adventures you can cross the bridge Årstabron, which happens to be my favorite bridge in Stockholm, and end up at Årsta Strand which also has a nice waterside trail, oh well, it's like a gravel path.
 
 ![](/uploads/2019/12/04/IMG_0402.JPG)
+
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='[https://www.strava.com/activities/2422552398/embed/1467a73322ce86d1b04d7774883102825b8fc0a0](https://www.strava.com/activities/2422552398/embed/1467a73322ce86d1b04d7774883102825b8fc0a0 "https://www.strava.com/activities/2422552398/embed/1467a73322ce86d1b04d7774883102825b8fc0a0")'></iframe>
 
 **Hagaparken**
 
 Here you'll find a lot of different paths and trails that can be connected in lots of ways. There's also a small hill here, Haga kulle. Going around the lake Brunnsviken.
 
 ![](/uploads/2019/12/04/IMG_0022.JPG)
+
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='[https://www.strava.com/activities/2436584056/embed/cdebb38690c8a4e0cde9915b7c911b7adce404b7](https://www.strava.com/activities/2436584056/embed/cdebb38690c8a4e0cde9915b7c911b7adce404b7 "https://www.strava.com/activities/2436584056/embed/cdebb38690c8a4e0cde9915b7c911b7adce404b7")'></iframe>
 
 **Alvik strand**
 
