@@ -17,15 +17,15 @@ image:
 date: 
 
 ---
+I've been living in Stockholm for many a year now, 
+
 ### Central Stockholm
 
 **Hammarbybacken**
 
 We're starting out with the crown jewel of climbing in Stockholm. With the most vert you can get in one go this monster of a hill will get you a total of 85 vertical meters. If you manage to find the absolute bottom before heading up that is. Here you'll find a lot of people trying to get their weekly vm's in and soon you'll get to know a lot of the faces.
 
-You'll find a lot of different paths going up and down the hill so you'll be able to get some variation.
-
-There are a lot of fun competitions going on here, like [Stockholms Brantaste](https://stockholmsbrantaste.se/ "Stockholms brantaste") which is a 3km course going up the hill three times and ending at the top.
+You'll find a lot of different paths going up and down the hill so you'll be able to get some variation. There's also a lot of fun competitions going on here, like [Stockholms Brantaste](https://stockholmsbrantaste.se/ "Stockholms brantaste") which is a 3km course going up the hill three times and ending at the top.
 
 ![](/uploads/2019/12/05/IMG_7656.JPG)
 
@@ -34,6 +34,8 @@ There are a lot of fun competitions going on here, like [Stockholms Brantaste](h
 This doesn't really fall under the trail category except for a slightly technical part of maybe half a kilometer, but it's a classic run in Stockholm and you won't ever be alone going around this island.
 
 ![](/uploads/2019/12/04/IMG_0442.JPG)
+
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='[https://www.strava.com/activities/2212691315/embed/b6f7462f899edfde7e18c1a887ac4f084b5df777](https://www.strava.com/activities/2212691315/embed/b6f7462f899edfde7e18c1a887ac4f084b5df777 "https://www.strava.com/activities/2212691315/embed/b6f7462f899edfde7e18c1a887ac4f084b5df777")'></iframe>
 
 **Södermalm runt**
 
