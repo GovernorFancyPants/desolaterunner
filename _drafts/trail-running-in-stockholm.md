@@ -53,6 +53,8 @@ Here you'll find a lot of different paths and trails that can be connected in lo
 
 This is a surprising little gem of an out and back trail close to the centre, with a few small loops that can be added along the way. And if Kungsholmen runt doesn't cut it for you distance wise you can tack this on as an extra and get twice the distance.
 
+![](/uploads/2019/12/05/IMG_7650.JPG)
+
 ### North of Stockholm
 
 **Ursvik**
