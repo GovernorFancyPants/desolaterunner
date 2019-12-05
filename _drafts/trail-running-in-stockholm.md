@@ -9,6 +9,7 @@ tags:
 - stockholm
 - sweden
 - trail
+- smultronställe
 excerpt: ''
 introduction: ''
 image:
