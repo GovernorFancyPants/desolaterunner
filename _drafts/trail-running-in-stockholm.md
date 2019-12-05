@@ -75,6 +75,8 @@ Has the same kind of prepped trails as Ursvik from 2k up to 15k, but more of a s
 
 I've spent a lot of time going up and down these hills and even though they're literally old garbage piles, from the right angle, on the right day and with perfect weather it can be almost beautiful here. You can connect this with the lit trail in Fagersjöskogen which is close by and make a good loop.
 
+![](/uploads/2019/12/05/IMG_4204.jpg)
+
 **Hellas, Tyresta and Sörmlandsleden**
 
 Sörmlands Ultra Marathon has it's way with all of these places, Sörmlandsleden is a trail system covering a lot of ground around the Stockholm area.
