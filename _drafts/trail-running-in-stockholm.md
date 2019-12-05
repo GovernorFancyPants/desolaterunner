@@ -11,7 +11,10 @@ tags:
 - trail
 - smultronställe
 excerpt: ''
-introduction: ''
+introduction: |-
+  [Swedish] Smultronställe - Lit. 'place of wild strawberries'
+
+  A discovered space special to you, treasured and returned to for solace and relaxation; a personal idyll free from stress.
 image:
   feature: ''
   teaser: ''
