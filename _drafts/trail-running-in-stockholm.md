@@ -84,6 +84,8 @@ Marked trails all the way from a lit and groomed 2k to a 15k semi technical trai
 
 **Järvafältet and Upplandsleden**
 
+Järvafältet is just a big "field"with tons of gravel paths and small trails. Bring some cash when going here during summer and pop into one or several of the local farms for coffee and cake. Upplandsleden is actually a little known trail in Stockholm but well worth checking out.
+
 ![](/uploads/2019/12/04/IMG_5961.JPG)
 
 ### South of Stockholm
