@@ -117,3 +117,9 @@ Sörmlandsleden is a trail system covering a lot of ground around the Stockholm 
 ![](/uploads/2019/12/05/14524502_10154293150284130_3980353448345726115_o.jpg)
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='[https://www.strava.com/activities/738193609/embed/3c2a5ad6496170be2d1fcba1ff3322c3f0caca61](https://www.strava.com/activities/738193609/embed/3c2a5ad6496170be2d1fcba1ff3322c3f0caca61 "https://www.strava.com/activities/738193609/embed/3c2a5ad6496170be2d1fcba1ff3322c3f0caca61")'></iframe>
+
+**Vinterviken**
+
+I'll leave this here as a bonus, I've run a lot of miles here and it's a great area to run even though there aren't actually any trails here. But with a little imagination I managed to put together a loop with almost 500 vertical and that's not bad in Stockholm.
+
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='[https://www.strava.com/activities/1047660762/embed/085e0c7e27a7f050d733f946b3ecd34c74b3d63b](https://www.strava.com/activities/1047660762/embed/085e0c7e27a7f050d733f946b3ecd34c74b3d63b "https://www.strava.com/activities/1047660762/embed/085e0c7e27a7f050d733f946b3ecd34c74b3d63b")'></iframe>
