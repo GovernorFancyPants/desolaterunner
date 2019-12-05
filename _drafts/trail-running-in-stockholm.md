@@ -19,7 +19,7 @@ introduction: |-
 image:
   feature: "/uploads/2019/12/05/IMG_7656-1.JPG"
   teaser: "/uploads/2019/12/05/IMG_7656 (2).JPG"
-date: 
+date: 2019-12-05 00:00:00 +0100
 
 ---
 I've been living in Stockholm for many a year now, way to many to tell the truth, that's why I recently moved to Chamonix. But through the years I've discovered most of the trails and worth while paths this city has to offer. In this post I'll share my favorites with you and all of these are easily accessible with public transport. 
