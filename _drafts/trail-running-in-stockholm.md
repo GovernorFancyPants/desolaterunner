@@ -50,7 +50,7 @@ This doesn't really fall under the trail category except for a slightly technica
 
 Same goes for this one, it's an extreme stretch of the trail category but it's also a super classic run. You won't ever be lonely on this one either, especially if you do it around lunch time, since a lot of Stockholms inhabitants like to spend their lunch hour (more like two) circumventing this island. If you do it in the height of summer watch out for the wall of people getting their daily dose of sun and water exposure at Tantolunden.
 
-If you feel adventures you can cross the bridge Årstabron, which happens to be my favorite bridge in Stockholm, and end up at Årsta Strand which also has a nice waterside trail, oh well, it's like a gravel path.
+If you feel adventures you can cross the bridge Årstabron, which happens to be my favorite bridge in Stockholm, and end up at Årsta Strand which also has a nice waterside trail, oh well, it's more like a gravel path.
 
 ![](/uploads/2019/12/04/IMG_0402.JPG)
 
@@ -58,7 +58,7 @@ If you feel adventures you can cross the bridge Årstabron, which happens to be 
 
 **Hagaparken**
 
-Here you'll find a lot of different paths and trails that can be connected in lots of ways. There's also a small hill here, Haga kulle. Going around the lake Brunnsviken.
+Here you'll find a lot of different paths and trails that can be connected in lots of ways. There's also a small hill here, Haga kulle. Going around the lake Brunnsviken, located in the middle of the park, is a nice loop.
 
 ![](/uploads/2019/12/04/IMG_0022.JPG)
 
@@ -74,9 +74,9 @@ This is a surprising little gem of an out and back trail close to central town. 
 
 **Ursvik**
 
-Home of the classic [Ursvik Xtreme](https://idrottonline.se/SundbybergsIK/Idrottsmallar/Arbetsrum/UrsvikXtreme "Ursvik Xtreme") and [Ursvik Ultra](http://desolaterunner.com/journal/race-report-ursvik-ultra-2016/ "Ursvik Ultra") races, which are some of the best races around. There's a lot of good trails and paths here and you can put the loops together making up a desired distance. You probably won't be alone here but it's also big enough to not be crowded.
+Home of the classic Ursvik Xtreme and [Ursvik Ultra](http://desolaterunner.com/journal/race-report-ursvik-ultra-2016/ "Ursvik Ultra") races, which are some of the best races around. There's a lot of good trails and paths here and you can put the loops together making up a desired distance. You probably won't be alone here but it's also big enough to not be crowded.
 
-Marked trails all the way from a lit and groomed 2k to a 15k semi technical path.
+Marked trails all the way from a lit and groomed 2k to a 15k semi technical trail.
 
 ![](/uploads/2019/12/05/IMG_0019.JPG)
 
@@ -108,6 +108,10 @@ I've spent a lot of time going up and down these hills and even though they're l
 
 **Hellas, Tyresta and Sörmlandsleden**
 
-Sörmlands Ultra Marathon has it's way with all of these places, Sörmlandsleden is a trail system covering a lot of ground around the Stockholm area.
+Sörmlandsleden is a trail system covering a lot of ground around the Stockholm area and it goes through both Hellas and Tyresta. Hellas offers a lot more than just running, including ice skating and ice baths in winter but also a lot of great trails. Tyresta is a big national park that's a bit of actual nature just south of Stockholm and there's a lot to discover here, I won't spoil it for you, just go there and explore. Bring a map.
+
+[Sörmlands Ultra Marathon or SUM](http://desolaterunner.com/journal/race-report-sum-2016/ "SUM") has its way with all of these places.
 
 ![](/uploads/2019/12/05/14524502_10154293150284130_3980353448345726115_o.jpg)
+
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='[https://www.strava.com/activities/738193609/embed/3c2a5ad6496170be2d1fcba1ff3322c3f0caca61](https://www.strava.com/activities/738193609/embed/3c2a5ad6496170be2d1fcba1ff3322c3f0caca61 "https://www.strava.com/activities/738193609/embed/3c2a5ad6496170be2d1fcba1ff3322c3f0caca61")'></iframe>
