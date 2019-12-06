@@ -22,9 +22,9 @@ image:
 date: 2019-12-05 00:00:00 +0100
 
 ---
-I've been living in Stockholm for many a year now, way to many to tell the truth, that's why I recently moved to Chamonix. But through the years I've discovered most of the trails and worth while paths this city has to offer. In this post I'll share my favorites with you and all of these are easily accessible with public transport. 
+I've been living in Stockholm for many a year now, way to many to tell the truth, that's why I recently moved to Chamonix. But through the years I've discovered most of the trails and worth while paths this city has to offer. In this post I'll share my favorites with you and all of these are easily accessible with public transport.
 
-These are my smultronställen of trail running in Stockholm, do enjoy them in my absence. 
+These are my smultronställen of trail running in Stockholm, do enjoy them in my absence.
 
 ### Central Stockholm
 
@@ -123,3 +123,5 @@ Sörmlandsleden is a trail system covering a lot of ground around the Stockholm 
 I'll leave this here as a bonus, I've run a lot of miles here and it's a great area to run even though there aren't actually any trails here. But with a little imagination I managed to put together a loop with almost 500 vertical and that's not bad in Stockholm.
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1047660762/embed/085e0c7e27a7f050d733f946b3ecd34c74b3d63b'></iframe>
+
+Did I miss any place good? Let me know!
