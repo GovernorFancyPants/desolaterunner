@@ -65,10 +65,10 @@ fields:
     - 'false'
   default: 'false'
 pages:
-- _posts/2019-11-13-the-anatomy-of-a-dnf.md
 - _posts/2018-12-07-race-report-utmb-2018.md
-- _posts/2017-10-28-trail-running-in-lisbon.md
 - _posts/running-the-fisherman-s-trail.md
 - _posts/trail-running-in-chamonix.md
 - _posts/2019-12-05-trail-running-in-stockholm.md
+- _posts/2017-10-28-trail-running-in-lisbon.md
 - _posts/2018-11-23-race-report-swedish-alpine-ultra-2018.md
+- _posts/2019-11-13-the-anatomy-of-a-dnf.md
