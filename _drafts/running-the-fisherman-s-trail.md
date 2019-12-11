@@ -5,7 +5,14 @@ comments: true
 ads: true
 date: 2018-12-06T16:01:56.000+00:00
 categories: ''
-tags: []
+tags:
+- rota vicentina
+- fishermans trail
+- portugal
+- alentejo
+- trail
+- running
+- coast
 excerpt: ''
 introduction: ''
 image:
