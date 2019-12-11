@@ -22,7 +22,11 @@ image:
 ---
 A year and a half ago me and my friend Pedro set out on a mission to explore the south west coast of Portugal, more specifically the Fisherman's Trail.
 
-We had talked about doing this trail for quite a while. So when I got back from a solitude couple of months in the cold and harsh Swedish mountains, I booked a trip down to the sunny pre summer of Lisbon. That's where my friend Pedro lives and from there we rented a van and drove down the coast to the Alentejo region.
+I made a short documentary about our adventure that didn't go quite as planned but nonetheless was a great experience and a lot of fun.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PgKfAXEWAIs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+We had talked about doing this trail for quite a while. So when I got back from a solitude couple of months in the cold and harsh Swedish mountains, I booked a flight down to a sunny Lisbon. That's where my friend Pedro lives and from there we rented a van and drove down the coast to the Alentejo region.
 
 Why?
 
