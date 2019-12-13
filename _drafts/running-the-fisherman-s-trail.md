@@ -34,6 +34,8 @@ We decided to do it with support since this was more of a fun adventure to see w
 
 I highly recommend this piece of trail to anyone wanting to get to know Portugal a little better and I would also recommend to do some of the other trails of the network to also see some of the inland. Which I managed to do accidentally but getting lost is just another way of exploring as long as you find your way back again in the end.
 
+I challenge anyone to not stop every couple of hundred meters to take a photo!
+
 **Quick facts**
 
 * Start – Porto Covo
