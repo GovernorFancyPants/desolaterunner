@@ -28,22 +28,26 @@ I made a short documentary about our adventure that didn't go quite as planned b
 
 We had talked about doing this trail for quite a while. So when I got back from a solitude couple of months in the cold and harsh Swedish mountains, I booked a flight down to a sunny Lisbon. That's where my friend Pedro lives and from there we rented a van and drove down the coast to the Alentejo region.
 
-The fisherman's trail is probably the most gorgeous trail you can find in Portugal, it follows the coastline and have stunning views the entire way. This is actually a part of a bigger trail network in south west Portugal called [Rota Vicentina](https://rotavicentina.com/ "Rota Vicentina") which also covers a lot of the inland. 
+The fisherman's trail is probably the most gorgeous trail you can find in Portugal, it follows the coastline and have stunning views the entire way. This is actually a part of a bigger trail network in south west Portugal called [Rota Vicentina](https://rotavicentina.com/ "Rota Vicentina") which also covers a lot of the inland.
 
-Why?
+We decided to do it with support since this was more of a fun adventure to see what this piece of trail was like on foot. Pedro's wife Teresa was kind enough to drive the van and meet us at predetermined meeting points. It was great to have someone always bringing snacks and cheering you on when things felt tough, but especially the bringing snacks part was great.
 
-How?
+I highly recommend this piece of trail to anyone wanting to get to know Portugal a little better and I would also recommend to do some of the other trails of the network to also see some of the inland. Which I managed to do accidentally but getting lost is just another way of exploring as long as you find your way back again in the end.
 
-What happened?
+**Quick facts**
 
-**Facts**
+* Start – Porto Covo
+* Finish – Odeceixe
+* Distance – 76km
+* Ascent – 1178 m
+* Terrain – a mix of sand (dunes and beaches) and footpath with some stretches on gravel road
 
-Start – Porto Covo
+**Quick tips**
 
-Finish – Odeceixe
+* Terrain can change depending on season
+* It's almost always hot so have a plan for water, bring sunscreen and cover yourself
+* Study the map beforehand and decide on your own itinerary
+* Sand is hard to run on (that's figuratively, definitely not literally) 
+* Have a plan B if things do go wrong, apparently there isn't cell reception everywhere...
 
-Distance – 76km
-
-Ascent – 1178 m
-
-Terrain – a mix of sand (dunes and beaches) and footpath with some stretches on gravel road
+If you're planning about doin this trail and have any questions, don't hesitate to contact me. And if you've already done it, please share your experience, I'm curious to know what you thought of it!
