@@ -16,8 +16,8 @@ tags:
 excerpt: ''
 introduction: ''
 image:
-  feature: ''
-  teaser: ''
+  feature: "/uploads/2019/12/13/IMG_7365 (1).JPG"
+  teaser: "/uploads/2019/12/13/IMG_7365 (2).JPG"
 
 ---
 A year and a half ago me and my friend Pedro set out on a mission to explore the south west coast of Portugal, more specifically the Fisherman's Trail.
