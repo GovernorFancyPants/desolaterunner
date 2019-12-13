@@ -28,6 +28,8 @@ I made a short documentary about our adventure that didn't go quite as planned b
 
 We had talked about doing this trail for quite a while. So when I got back from a solitude couple of months in the cold and harsh Swedish mountains, I booked a flight down to a sunny Lisbon. That's where my friend Pedro lives and from there we rented a van and drove down the coast to the Alentejo region.
 
+The fisherman's trail is probably the most gorgeous trail you can find in Portugal, it follows the coastline and have stunning views the entire way. This is actually a part of a bigger trail network in south west Portugal called [Rota Vicentina](https://rotavicentina.com/ "Rota Vicentina") which also covers a lot of the inland. 
+
 Why?
 
 How?
