@@ -34,7 +34,9 @@ We decided to do it with support since this was more of a fun adventure to see w
 
 I highly recommend this piece of trail to anyone wanting to get to know Portugal a little better and I would also recommend to do some of the other trails of the network to also see some of the inland. Which I managed to do accidentally but getting lost is just another way of exploring as long as you find your way back again in the end.
 
-I challenge anyone to not stop every couple of hundred meters to take a photo!
+I challenge anyone to not stop every couple of hundred meters to take a photo, cause that's what I did!
+
+![](/uploads/2019/12/13/IMG_7381.JPG)![](/uploads/2019/12/13/IMG_7381.JPG)
 
 **Quick facts**
 
@@ -49,7 +51,7 @@ I challenge anyone to not stop every couple of hundred meters to take a photo!
 * Terrain can change depending on season
 * It's almost always hot so have a plan for water, bring sunscreen and cover yourself
 * Study the map beforehand and decide on your own itinerary
-* Sand is hard to run on (that's figuratively, definitely not literally) 
+* Sand is hard to run on (that's figuratively, definitely not literally)
 * Have a plan B if things do go wrong, apparently there isn't cell reception everywhere...
 
 If you're planning about doin this trail and have any questions, don't hesitate to contact me. And if you've already done it, please share your experience, I'm curious to know what you thought of it!
