@@ -35,8 +35,6 @@ I highly recommend this piece of trail to anyone wanting to get to know Portugal
 
 I challenge anyone to not stop every couple of hundred meters to take a photo, cause that's what I did!
 
-![](/uploads/2019/12/13/IMG_7381.JPG)
-
 **Quick facts**
 
 * Start – Porto Covo
