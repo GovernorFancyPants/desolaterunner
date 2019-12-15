@@ -22,7 +22,7 @@ image:
   teaser: "/uploads/2019/12/13/IMG_7365 (2).JPG"
 
 ---
-I made a short documentary about our adventure that didn't go quite as planned but nonetheless was a great experience and a lot of fun.
+I made this short documentary about our adventure that didn't go quite as planned but nonetheless was a great experience and a lot of fun.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PgKfAXEWAIs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
