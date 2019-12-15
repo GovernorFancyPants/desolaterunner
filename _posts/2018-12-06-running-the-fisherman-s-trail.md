@@ -3,7 +3,7 @@ title: Running The Fisherman's Trail
 layout: article
 comments: true
 ads: true
-date: 2018-12-06T16:01:56.000+00:00
+date: 2018-12-15 17:01:56 +0100
 categories: ''
 tags:
 - rota vicentina
@@ -13,7 +13,8 @@ tags:
 - trail
 - running
 - coast
-excerpt: ''
+excerpt: A year and a half ago me and my friend Pedro set out on a mission to explore
+  the south west coast of Portugal, more specifically the Fisherman's Trail.
 introduction: A year and a half ago me and my friend Pedro set out on a mission to
   explore the south west coast of Portugal, more specifically the Fisherman's Trail.
 image:
