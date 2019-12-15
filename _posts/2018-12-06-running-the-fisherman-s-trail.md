@@ -36,9 +36,9 @@ The fisherman's trail is probably the most gorgeous trail you can find in Portug
 
 ![](/uploads/2019/12/13/IMG_7316.JPG)
 
-We decided to do it with support since this was more of a fun adventure to see what this piece of trail was like on foot. Pedro's wife Teresa was kind enough to drive the van and meet us at predetermined meeting points. It was great to have someone always bringing snacks and cheering you on when things felt tough, but especially the bringing snacks part was great.
-
 ![](/uploads/2019/12/13/IMG_7196.JPG)
+
+We decided to do it with support since this was more of a fun adventure to see what this piece of trail was like on foot. Pedro's wife Teresa was kind enough to drive the van and meet us at predetermined meeting points. It was great to have someone always bringing snacks and cheering you on when things felt tough, but especially the bringing snacks part was great.
 
 I highly recommend this piece of trail to anyone wanting to get to know Portugal a little better and I would also recommend to do some of the other trails of the network to also see some of the inland. Which I managed to do accidentally but getting lost is just another way of exploring as long as you find your way back again in the end.
 
@@ -51,6 +51,8 @@ I challenge anyone to not stop every couple of hundred meters to take a photo, c
 ![](/uploads/2019/12/13/IMG_7355.JPG)
 
 ![](/uploads/2019/12/13/IMG_7375.JPG)
+
+![](/uploads/2019/12/13/IMG_7294.JPG)
 
 **Quick facts**
 
@@ -67,8 +69,6 @@ I challenge anyone to not stop every couple of hundred meters to take a photo, c
 * Study the map beforehand and decide on your own itinerary
 * Sand is hard to run on (that's figuratively, definitely not literally)
 * Have a plan B if things do go wrong, apparently there isn't cell reception everywhere...
-
-![](/uploads/2019/12/13/IMG_7294.JPG)
 
 If you're planning about doin this trail and have any questions, don't hesitate to contact me. And if you've already done it, please share your experience, I'm curious to know what you thought of it!
 
