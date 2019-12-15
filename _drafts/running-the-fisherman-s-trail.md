@@ -14,14 +14,13 @@ tags:
 - running
 - coast
 excerpt: ''
-introduction: ''
+introduction: A year and a half ago me and my friend Pedro set out on a mission to
+  explore the south west coast of Portugal, more specifically the Fisherman's Trail.
 image:
   feature: "/uploads/2019/12/13/IMG_7365 (1).JPG"
   teaser: "/uploads/2019/12/13/IMG_7365 (2).JPG"
 
 ---
-A year and a half ago me and my friend Pedro set out on a mission to explore the south west coast of Portugal, more specifically the Fisherman's Trail.
-
 I made a short documentary about our adventure that didn't go quite as planned but nonetheless was a great experience and a lot of fun.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PgKfAXEWAIs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -55,3 +54,5 @@ I challenge anyone to not stop every couple of hundred meters to take a photo, c
 * Have a plan B if things do go wrong, apparently there isn't cell reception everywhere...
 
 If you're planning about doin this trail and have any questions, don't hesitate to contact me. And if you've already done it, please share your experience, I'm curious to know what you thought of it!
+
+If you're interested in more trails around the Lisbon area I've written about that here.
