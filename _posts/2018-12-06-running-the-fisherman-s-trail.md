@@ -3,7 +3,7 @@ title: Running The Fisherman's Trail
 layout: article
 comments: true
 ads: true
-date: 2018-12-15 17:01:56 +0100
+date: 2019-12-15 17:01:56 +0100
 categories: ''
 tags:
 - rota vicentina
