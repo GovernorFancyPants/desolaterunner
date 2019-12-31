@@ -20,9 +20,9 @@ tags:
 excerpt: ''
 introduction: ''
 image:
-  feature: ''
-  teaser: ''
-date: 
+  feature: "/uploads/2019/12/31/IMG_0677 (1).JPG"
+  teaser: "/uploads/2019/12/31/IMG_0677 (2).JPG"
+date: 2019-12-31 00:00:00 +0100
 
 ---
 After a bit of a break from running during the holidays the year started with challenging conditions in Stockholm. [My Strava logs](https://www.strava.com/athletes/9959817 "https://www.strava.com/athletes/9959817") paint a picture of icy trails around the city and my runs being hit and miss every time. The body would feel perfectly fine one day and incredibly tired the other. But come February things started to look better. Long runs were actual long runs and the training was consistent by then.
