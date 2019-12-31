@@ -42,4 +42,4 @@ Lead up to MCC - Took a fall hurting my back again
 
 MCC 60th in 5h10m - Far off prediction, a hot day
 
-Exploring the Chamonix valley - follow up post with all my favorite routes in Cham
+The rest of the year I've been exploring the Chamonix valley and the possibilities and beauty is endless here. There are so many trails and so many mountains that can be connected in so many ways. I will do a follow up post with all my favorite routes in Chamonix in the future.
