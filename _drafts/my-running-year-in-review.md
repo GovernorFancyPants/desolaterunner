@@ -17,8 +17,10 @@ tags:
 - stockholms brantaste
 - parkrun
 - Sweden Irontrail
-excerpt: ''
-introduction: ''
+excerpt: It's that time of year again, where one reflects on what has been and decides
+  what to bring along into the next year and what to leave behind.
+introduction: It's that time of year again, where one reflects on what has been and
+  decides what to bring along into the next year and what to leave behind.
 image:
   feature: "/uploads/2019/12/31/IMG_0677 (1).JPG"
   teaser: "/uploads/2019/12/31/IMG_0677 (2).JPG"
