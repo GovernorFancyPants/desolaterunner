@@ -35,6 +35,10 @@ To escape the monotony of running in Stockholm me and a friend decided to visit 
 
 After that I went straight to Nice to visit a friend there and try to get some vert. This turned out to be my biggest training week to date with around 140km and 5000m vert. Nice is beautiful and even though not optimal for running itself, one just have to go inland a tiny bit to get to some beautiful mountains connected to the alps.
 
+![](/uploads/2019/12/31/IMG_0257 (1).JPG)
+
+![](/uploads/2019/12/31/IMG_0082 (1).JPG)
+
 The week after I got back I foolishly decided to do my first [parkrun](https://www.parkrun.com/ "https://www.parkrun.com/") ever. It's a free timed event every week all over the world. Local volunteers help make this possible and it's just a prime example of the fantastic community this sport has. My body was a wreck after the big weeks and I was a lot slower than I thought I'd be in 19m40s for the 5k. It is a hilly course but that's no excuse, I should've been in the low 18's. But that didn't discourage me from doing my first ever marathon distance the week after that. [Sweden Irontrail Marathon](http://irontrail.se/ "http://irontrail.se/"), and I ended up finishing 7th in 3h18m. It's a fun local marathon on trails and gravel roads with some vert, definitely check this out if you're in the area.
 
 During the last build up for my race season I decided to do another small race in Stockholm just for fun, [Stockholms brantaste](https://stockholmsbrantaste.se/ "https://stockholmsbrantaste.se/"). This is so far from my comfort zone it's ridiculous. Climbing an 80m hill three times on a 3km course, brutal. I ended up 49th in 19m11s completely wiped out. My excuse is that I ran there and back home, but not really.
