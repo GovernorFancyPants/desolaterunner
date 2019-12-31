@@ -20,21 +20,19 @@ image:
 date: 
 
 ---
-The year started with challenging conditions for training in Stockholm after a bit of a break from running during the holidays. My Strava logs displays a picture of icy trails around the city and my runs being hit and miss every time. The body could feel perfectly fine one day and incredibly tired another, could've been the head cold suffered after new years that lingered or something else but come February things started to look better. Long runs were actual long runs and the training was consistent.
+After a bit of a break from running during the holidays the year started with challenging conditions in Stockholm. My Strava logs painted a picture of icy trails around the city and my runs being hit and miss every time. The body could feel perfectly fine one day and incredibly tired another. It could've been the head cold suffered after new years but come February things started to look better. Long runs were actual long runs and the training was consistent.
 
-In March I did my very first speed block which took some time getting used too and I still am trying to figure it out. I did a lot of 200m intervals but it turned out pretty fast that I probably have the leg speed necessary but my thresholds are way too low, so that's what I've started working on lately and am continuing to work on.
+In March I did my very first speed block which took some time getting used too and I still am trying to figure it out. I did a lot of 200m intervals but soon it turned out I probably have the necessary leg speed but my thresholds were way too low. But instead of changing up that speed block I continued what I was doing and tried to improve as much as I could from that kind of training.
 
-Training week in Portugal
+To escape the monotony from running in Stockholm me and a friend decided to visit another friend in Lisbon for a training week in April. The idea was to get away, get some good training in and hopefully even some climbing. And even though we didn't get to do much climbing it was good to get away and we got a solid week of training.
 
-Visiting friend in Nice, biggest training week to date with around 140km and 5000m vert
+After that I went straight to Nice to visit a friend there and try to get some vert. This turned out to be my biggest training week to date with around 140km and 5000m vert. Nice is beautiful and even tho not optimal for running itself, one just have to go inland a tiny bit to get to some mountains connected to the alps.
 
-First park run week after, a lot slower than I thought I'd be in 19m40s.
+The week after I got back I foolishly decided to do my first [parkrun](https://www.parkrun.com/ "https://www.parkrun.com/") ever. My body was a wreck after the big weeks and I was a lot slower than I thought I'd be in 19m40s for the 5k. It is a hilly course but that's no excuse, I should've been in the low 18's. But that didn't discourage me from doing my first ever marathon distance the week after that, [Sweden Irontrail Marathon](http://irontrail.se/ "http://irontrail.se/"), and I ended up finishing 7th in 3h18m.
 
-Week after that my first ever marathon distance, Sweden Irontrail Marathon, finished 7th in 3h18m.
+During the build up for my race season I decided to do another small race in Stockholm just for fun, [Stockholms brantaste](https://stockholmsbrantaste.se/ "https://stockholmsbrantaste.se/"). This is so far from my comfort zone it's ridiculous. Climbing an 80m hill three times on a 3km course, brutal. I ended up 49th in 19m11s completely wiped out. My excuse is that I ran there and back home but not really...
 
-Stockholms brantaste 49th in 19m11s
-
-Lavaredo DNF - Ankle rehab
+Then it was time for my big race of the year, Lavaredo, and I was psyched for this one. I was in good shape and I knew I could do well but unfortunately things didn't go according to plan. I haven't written anything about this race yet since I'm making a short documentary about our experience. It has taken longer than expected but I'm hoping to get it done as soon as possible, keep an eye out for that one!
 
 Swedish Alpine Ultra DNF - expected, ankle didn't hold up
 
