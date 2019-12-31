@@ -55,6 +55,13 @@ The rest of the year I spent exploring the Chamonix valley. The possibilities an
 
 What was your running year like?
 
+**The numbers**
+
+Distance 4,154.3 km  
+Time 414h 20m  
+Elev Gain 120,677 m  
+Runs 290
+
 ![](/uploads/2019/12/31/IMG_1223 (2).JPG)
 
 ![](/uploads/2019/12/31/IMG_1217 (1).JPG)
