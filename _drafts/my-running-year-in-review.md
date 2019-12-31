@@ -54,3 +54,9 @@ My last race of the year was going to be the MCC which is the shortest race unde
 The rest of the year I spent exploring the Chamonix valley. The possibilities and beauty is endless here. There are so many trails and so many mountains that can be connected in so many ways. I will do a follow up post with all my favorite routes in Chamonix in the future.
 
 What was your running year like?
+
+![](/uploads/2019/12/31/IMG_1223 (2).JPG)
+
+![](/uploads/2019/12/31/IMG_1217 (1).JPG)
+
+![](/uploads/2019/12/31/IMG_1710 (1).JPG)
