@@ -53,12 +53,12 @@ My last race of the year was going to be the MCC which is the shortest race unde
 
 The rest of the year I spent exploring the Chamonix valley. The possibilities and beauty is endless here. There are so many trails and so many mountains that can be connected in so many ways. I will do a follow up post with all my favorite routes in Chamonix in the future.
 
-**The numbers**
+**By the numbers**
 
-Distance 4,154.3 km  
-Time 414h 20m  
-Elev Gain 120,677 m  
-Runs 290
+Distance 4,162.3 km  
+Time 414h 57m  
+Elev Gain 120,778 m  
+Runs 291
 
 What was your running year like?
 
