@@ -2,7 +2,7 @@
 layout: article
 comments: true
 ads: true
-title: What's confinement like in an outdoor mecca
+title: What's confinement like in an outdoor paradise
 categories: ''
 tags:
 - running
