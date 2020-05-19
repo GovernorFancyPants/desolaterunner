@@ -2,22 +2,26 @@
 layout: article
 comments: true
 ads: true
-title: What's confinement like in an outdoor paradise
+title: What running was like during confinement
 categories: ''
 tags:
 - running
 - chamonix
 - drills
 - confinement
-excerpt: ''
-introduction: ''
+- covid-19
+excerpt: A rundown (pun definitely intended) of what confinement was like, from a
+  runners perspective, living in an outdoor paradise.
+introduction: A rundown (pun definitely intended) of what confinement was like, from
+  a runners perspective, living in an outdoor paradise.
 image:
   feature: ''
   teaser: ''
 date: 
 
 ---
-It's been a week now where we haven't been able to leave our houses except for absolutely necessary things like grocery shopping, going to the doctor but also for light exercise close to the home. This is tough when you have this enormous mountainous playground so close but still so far away. I've decided to approach this thing, at least for now, as an opportunity to rest and reflect, to give my body, which is usually constantly at work, some well deserved slack. Don't get me wrong, I'm still active everyday and I try to be creative but not nearly at the same load as it would normally be. I thought I'd give some examples of what I'm doing in this situation and how I think in the end I will be a better runner for it.
+
+It's been a week now where we haven't been able to leave our houses except for absolutely necessary things like grocery shopping, going to the doctor but also for light exercise close to home. This is tough when you have this enormous mountainous playground so close but still so far away. I've decided to approach this thing, at least for now, as an opportunity to rest and reflect, to give my body, which is usually constantly at work, some well deserved slack. Don't get me wrong, I'm still active everyday and I try to be creative but not nearly at the same load as it would normally be. I thought I'd give some examples of what I'm doing in this situation and how I think in the end I will be a better runner for it.
 
 **Sleep**
 
