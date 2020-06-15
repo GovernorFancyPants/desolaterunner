@@ -55,10 +55,6 @@ When it comes to drills I like to keep it fairly simple, I think a few exercises
 
 Finally, I also got into the habit of doing light body weight exercises. Usually before bed I'd do 10-15 minutes of push ups, sit ups, hip raises and a bunch of different variations on the classic sit up. The purpose wasn't really to work up a sweat, it was more to maintain upper body and core strength and keep those muscles active too. I still do these exercises but not everyday, more like 2-3 times a week.
 
-**Hang board (climbers)**
+**General life**
 
-**Rest and relaxation (no stress)**
-
-**Catching up on projects that would normally feel stressed**
-
-**Getting creative (plans to build hang board, writing etc)**
+As far as everyday life went, most things were a bit wonky to say the least but I tried to stay sane by still doing creative things and kept the mind working. I did a lot of reading and writing as well. I tried to keep a journal but I never seem to be able to stick with it so that faded quickly. A lot of time was spent just doing regular things but only took the time to not rush it, cooking, baking, gardening and all those kind of basic things. Then of course some of the time was spent planning for future projects, especially now since most races are canceled and the calendar is quite open again. Hopefully I'll have something fun to write about soon enough.
