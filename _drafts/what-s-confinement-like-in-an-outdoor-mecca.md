@@ -32,7 +32,7 @@ I wanted to stick to the rules as much as possible and I mostly did, except for 
 So, what kind of running did I do and how much did I manage to squeeze in the limits? Well, turns out, quite a lot. I started out doing a lot of drills and not much advanced running, mostly maintenance runs around the block. But then I had to move a couple of days into confinement and that changed everything, all of a sudden I hade new places to explore and better access to varied running. There was dirt roads and semi trails just behind my house now and all of it new to me. This made me change my tactics to work on one of my biggest weaknesses instead, uphill running. To be fair I'm pretty bad at uphill hiking as well but seeing as I only had an hour to play with a day, running seemed to give me more bang for the buck.  
 The drills were good though, I'm all too lazy when it comes to that kind of training but I think it's really good to do as a regular part of your routine, doesn't need to be much, just enough to keep you healthy.
 
-If we look at the actual stats, this is what I ended up with during the entirety of the confinement period. 
+If we look at the actual stats, this is what I ended up with during the entirety of the confinement period.
 
 * 53 runs in 55 days with a total of 52 active days (two of those runs were in the same day, whoops)
 * 542 kilometers
@@ -49,11 +49,11 @@ I slept a lot, and I mean A LOT. At least in the beginning I got 9-10 hours of s
 
 **Drills I did**
 
-* Favorite drills (strides, skips, high knees, high heels)
-* Barefoot running
-* Focus on easy effort runs
+When it comes to drills I like to keep it fairly simple, I think a few exercises covers most of what you need to build of your small running muscles. Some of my favorites are skipping, high knees and high heels. All of these directly translates to running and is part of your running stride but in an exaggerated form. To that I would add strides and barefoot running, again, to add that exaggerated form to your natural running stride.
 
 **Body weight strength**
+
+Finally, I also got into the habit of doing light body weight exercises. Usually before bed I'd do 10-15 minutes of push ups, sit ups, hip raises and a bunch of different variations on the classic sit up. The purpose wasn't really to work up a sweat, it was more to maintain upper body and core strength and keep those muscles active too. I still do these exercises but not everyday, more like 2-3 times a week.
 
 **Hang board (climbers)**
 
