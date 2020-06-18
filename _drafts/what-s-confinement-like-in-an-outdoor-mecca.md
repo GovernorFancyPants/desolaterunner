@@ -16,8 +16,8 @@ excerpt: A rundown of what confinement was like, from a runners perspective, liv
 introduction: A rundown of what confinement was like, from a runners perspective,
   living in an outdoor paradise.
 image:
-  feature: ''
-  teaser: ''
+  feature: "/uploads/2020/06/18/img_20200618_154342.jpg"
+  teaser: "/uploads/2020/06/18/img_20200618_154342_thumb.jpg"
 date: 
 
 ---
