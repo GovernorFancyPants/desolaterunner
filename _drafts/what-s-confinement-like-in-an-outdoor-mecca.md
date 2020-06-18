@@ -27,9 +27,14 @@ Confinement here in France meant we weren't able to leave our houses except for 
 
 I wanted to stick to the rules as much as possible without going completely insane and I mostly did, except for on a few occasions, and most of them were during the last week and days before the restrictions were lifted.
 
+![](/uploads/2020/06/18/img_2464-2.JPG)
+
 **The stats**
 
-So, what kind of running did I do and how much did I manage to squeeze in the limits? Well, turns out, quite a lot. I started out doing a lot of drills and not much advanced running, mostly maintenance runs around the block. But then I had to move a couple of days into confinement and that changed everything, all of a sudden I hade new places to explore and better access to varied running. There was dirt roads and semi trails just behind my house now and all of it new to me. This made me change my tactics to work on one of my biggest weaknesses instead, uphill running. To be fair I'm pretty bad at uphill hiking as well but seeing as I only had an hour to play with a day, running seemed to give me more bang for the buck.  
+So, what kind of running did I do and how much did I manage to squeeze in the limits? Well, turns out, quite a lot. I started out doing a lot of drills and not much advanced running, mostly maintenance runs around the block. But then I had to move a couple of days into confinement and that changed everything, all of a sudden I hade new places to explore and better access to varied running. There was dirt roads and semi trails just behind my house now and all of it new to me. This made me change my tactics to work on one of my biggest weaknesses instead, uphill running. To be fair I'm pretty bad at uphill hiking as well but seeing as I only had an hour to play with a day, running seemed to give me more bang for the buck.
+
+![](/uploads/2020/06/18/img_2488-2.JPG)
+
 The drills were good though, I'm all too lazy when it comes to that kind of training but I think it's really good to do as a regular part of your routine, doesn't need to be much, just enough to keep you healthy.
 
 If we look at the actual stats, this is what I ended up with during the entirety of the confinement period.
@@ -47,6 +52,8 @@ I've decided early on to approach this thing as an opportunity to rest and refle
 
 I slept a lot, and I mean A LOT. At least in the beginning I got 9-10 hours of sleep every night which is way more than my normal 6-8. I'm generally a rather poor sleeper but this all changed during confinement for some reason. Unfortunately it hasn't stayed quite like that afterwards.
 
+![](/uploads/2020/06/18/img_2481-2.JPG)
+
 **Drills I did**
 
 When it comes to drills I like to keep it fairly simple, I think a few exercises covers most of what you need to build of your small running muscles. Some of my favorites are skipping, high knees and high heels. All of these directly translates to running and is part of your running stride but in an exaggerated form. To that I would add strides and barefoot running, again, to add that exaggerated form to your natural running stride.
@@ -55,6 +62,18 @@ When it comes to drills I like to keep it fairly simple, I think a few exercises
 
 Finally, I also got into the habit of doing light body weight exercises. Usually before bed I'd do 10-15 minutes of push ups, sit ups, hip raises and a bunch of different variations on the classic sit up. The purpose wasn't really to work up a sweat, it was more to maintain upper body and core strength and keep those muscles active too. I still do these exercises but not everyday, more like 2-3 times a week.
 
+![](/uploads/2020/06/18/img_2504-2.JPG)
+
 **General life**
 
 As far as everyday life went, most things were a bit wonky to say the least but I tried to stay sane by still doing creative things and kept the mind working. I did a lot of reading and writing as well. I tried to keep a journal but I never seem to be able to stick with it so that faded quickly. A lot of time was spent just doing regular things but only took the time to not rush it, cooking, baking, gardening and all those kind of basic things. Then of course some of the time was spent planning for future projects, especially now since most races are canceled and the calendar is quite open again. Hopefully I'll have something fun to write about soon enough.
+
+I'll leave you with a few photos of some of the things I cooked and baked during this period, there was loads more but these ended up captured. The thing I probably made most of was probably banana bread with a chocolate twist, that was my go to for after runs, and snacking on and as breakfast sometimes even. I might post some recipes later on if that's desirable.
+
+![](/uploads/2020/06/18/img_2626-2-1.JPG)
+
+![](/uploads/2020/06/18/img_2569-2.JPG)
+
+![](/uploads/2020/06/18/img_2598-2.JPG)
+
+![](/uploads/2020/06/18/img_2691-2.JPG)
