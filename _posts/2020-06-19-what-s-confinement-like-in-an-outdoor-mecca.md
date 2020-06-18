@@ -18,7 +18,7 @@ introduction: A rundown of what confinement was like, from a runners perspective
 image:
   feature: "/uploads/2020/06/18/img_20200618_154342.jpg"
   teaser: "/uploads/2020/06/18/img_20200618_154342_thumb.jpg"
-date: 
+date: 2020-06-19 00:00:00 +0200
 
 ---
 I live in Chamonix, France, considered by many as the absolute outdoor capital of Europe. When things first started moving around Covid-19 it seemed like this would be the perfect place to be. Having all these amazing surroundings all for ourselves, not many seasonal tourists around and the french weren't likely to come here for vacation during an epidemic. It turned out to be more of a tease than anything when one has this enormous mountainous playground so close but still so far away.
