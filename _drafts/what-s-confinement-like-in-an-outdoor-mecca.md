@@ -25,7 +25,7 @@ I live in Chamonix, France, considered by many as the absolute outdoor capital o
 
 Confinement here in France meant we weren't able to leave our houses except for absolutely necessary things like grocery shopping and going to the doctors but also for light exercise close to home. We were allowed to go out for a maximum of 1 hour a day and not further than 1 distance kilometer and 100 vertical meters from our place of residence. At all times we were outside we needed to have a dated and time stamped attestation of the reason for being outside.
 
-I wanted to stick to the rules as much as possible and I mostly did, except for on a few occasions, and most of them were during the last week and days before the restrictions were lifted.
+I wanted to stick to the rules as much as possible without going completely insane and I mostly did, except for on a few occasions, and most of them were during the last week and days before the restrictions were lifted.
 
 **The stats**
 
