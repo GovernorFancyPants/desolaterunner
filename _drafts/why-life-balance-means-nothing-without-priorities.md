@@ -21,7 +21,7 @@ I've always strived for some kind of balance in my life and I don't think I'm al
 
 I've chosen a life where I'm as close to perfect balance as possible.
 
-No 9 to 5.
+No 9 to 5 please.
 
 Money is not biggest priority.
 
