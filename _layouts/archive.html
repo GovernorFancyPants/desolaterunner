@@ -5,10 +5,13 @@ layout: default
 <div id="main" role="main">
 	{% if page.image.feature %}
 	<div class="page-feature">
-		<div class="page-image">
+		<div class="page-image not-article">
 			<img src="{{ site.url }}{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
 			{% if page.image.credit %}{% include image-credit.html %}{% endif %}
 		</div><!-- /.page-image -->
+    <div class="site-name">
+      <a href="#" class="site-title">{{ page.title }}</a>
+    </div>
 		<!-- <div class="site-name">
 		  <a href="{{ site.url }}/" class="site-title">{{ site.title }}</a>
 		</div> -->
@@ -16,7 +19,7 @@ layout: default
 	{% endif %}
 	<div class="page-title-wrapper">
 		<div class="page-title">
-			<h1>{{ page.title }}</h1>
+			<!-- <h1>{{ page.title }}</h1> -->
 			{% if page.excerpt %}<h2>{{ page.excerpt }}</h2>{% endif %}
 		</div>
 	</div>

@@ -1,0 +1,81 @@
+---
+label: Post template
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+  description: Post title
+- name: categories
+  type: text
+  label: Categories
+  description: Enables separate archive
+- name: tags
+  type: tag_list
+  label: Tags
+- type: textarea
+  label: Excerpt
+  name: excerpt
+  description: Shown in post list
+- name: introduction
+  type: textarea
+  label: Introduction
+  description: Shown at the top of post
+- type: field_group
+  fields:
+  - name: feature
+    type: file
+    label: Feature
+    description: Dimensions 1800x1013
+  - name: teaser
+    type: file
+    label: Teaser
+    description: Dimensions 512x288
+  label: Image
+  name: image
+- type: datetime
+  name: date
+  label: Date published
+  description: When published
+- name: layout
+  type: text
+  label: Layout
+  hidden: true
+  default: article
+  config:
+    source: {}
+- name: comments
+  type: boolean
+  label: Comments
+  config:
+    source:
+      type: simple
+    options:
+    - 'true'
+    - 'false'
+  default: 'true'
+- name: ads
+  type: boolean
+  label: Ads
+  config:
+    source:
+      type: simple
+    options:
+    - 'true'
+    - 'false'
+  default: 'false'
+pages:
+- _posts/2017-10-28-trail-running-in-lisbon.md
+- _posts/2018-11-23-race-report-swedish-alpine-ultra-2018.md
+- _posts/2018-12-06-running-the-fisherman-s-trail.md
+- _posts/2018-12-07-race-report-utmb-2018.md
+- _posts/2019-11-13-the-anatomy-of-a-dnf.md
+- _posts/2019-12-05-trail-running-in-stockholm.md
+- _posts/2019-12-31-my-running-year-in-review.md
+- _posts/2020-06-19-what-s-confinement-like-in-an-outdoor-mecca.md
+- _posts/2021-04-18-the-allure-of-a-mountain.md
+- _posts/2021-09-23-tour-du-matterhorn.md
+- _posts/living-and-training-with-chronic-pain.md
+- _posts/living-life-on-a-monetary-budget.md
+- _posts/trail-running-in-chamonix.md
+- _posts/why-life-balance-means-nothing-without-priorities.md

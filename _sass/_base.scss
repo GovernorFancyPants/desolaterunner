@@ -37,6 +37,7 @@ h6 {
 
 h1 {
     @include font-size(36);
+    font-weight: 200;
 }
 
 h2 {
@@ -65,7 +66,7 @@ h6 {
 u,
 ins {
     text-decoration: none;
-    border-bottom: 1px solid $text-color;
+    // border-bottom: 1px solid $text-color;
 }
 
 
@@ -143,6 +144,7 @@ li code {
     position: relative;
     overflow: hidden;
     text-align: center;
+    margin: 2em 0;
     @include media($medium) {
         padding-bottom: 374px;
         padding-top: 30px;
@@ -182,28 +184,89 @@ li code {
     @include media($medium) {
         float: right;
     }
-}
-
-.goog-te-gadget-simple {
-    border: none!important;
-    padding: 0!important;
-    line-height: 0!important;
-    background: #fafafa!important;
-    border-radius: 3px!important;
-    img {
-        margin: 0;
-        margin-left: 3px;
+    .goog-te-gadget {
+        // @include fa-icon;
+          @extend .fab;
+        line-height: 0;
+        width: 140px;
+        content: "";
+        height: 100%;
+        overflow: hidden;
+        position: relative;
+        &:after {
+            content: fa-content($fa-var-google);
+            font-size: #{$fa-font-size-base};
+            line-height: normal;
+            position: absolute;
+            left: 5px;
+            top: 4px;
+        }
+        & > div {
+            padding: 4px;
+            padding-left: 21px;
+            background: #f1f1f1;
+            display: block;
+            position: relative;
+            border-radius: 2px;
+            &:after {
+                content: "";
+                position: absolute;
+                right: 5px;
+                top: 9px;
+                border-left: 5px solid transparent;
+                border-right: 5px solid transparent;
+                border-top: 5px solid $text-color;
+            }
+            select.goog-te-combo {
+                border: none;
+                box-shadow: none;
+                background-color: #f1f1f1;
+                border-radius: 0;
+                padding: 0;
+                margin: 0;
+                width: 100%;
+                font-family: $base-font;
+                text-transform: uppercase;
+                font-size: 10px;
+                font-weight: 700;
+                background: transparent;
+                background-image: none;
+                -webkit-appearance: none;
+            }
+        }
+        & > span {
+            display: none;
+        }
     }
 }
 
-.goog-te-gadget {
-    line-height: 0;
+p img+em {
+    font-size: .875rem;
+    font-weight: 300;
+    font-style: normal;
 }
 
-.goog-te-gadget-simple .goog-te-menu-value {
-    @include font-size(10);
-    margin-bottom: 0;
-}
+// .goog-te-gadget-simple {
+//     border: none!important;
+//     padding: 0!important;
+//     line-height: 0!important;
+//     background: #fafafa!important;
+//     border-radius: 3px!important;
+//     img {
+//         margin: 0;
+//         margin-left: 3px;
+//     }
+// }
+
+// .goog-te-gadget {
+//     line-height: 0;
+// }
+
+// .goog-te-gadget-simple .goog-te-menu-value {
+//     @include font-size(10);
+//     margin-bottom: 0;
+// }
+
 
 
 /*

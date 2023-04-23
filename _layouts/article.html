@@ -20,10 +20,23 @@ layout: default
 				<p>{{ page.introduction }}</p>
 			</div>
 			{% endif %}
+            <div class="ads">
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- desolaterunner top ad -->
+                <ins class="adsbygoogle responsive-ads"
+                     style="display:block"
+                     data-ad-client="ca-pub-7422617776453761"
+                     data-ad-slot="2201292285"
+                     data-ad-format="auto"></ins>
+                <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+            </div>
 		</div>
 		<div class="inner-wrap">
 			<div id="content" class="page-content" itemprop="articleBody">
 				{{ content }}
+                {% if page.ads == true %}<div class="ads">{% include advertising.html %}</div><!-- /.ads -->{% endif %}
 				<footer class="page-footer">
 					{% if page.categories %}{% include page-author.html %}{% endif %}
 					<div class="social-links">
@@ -42,6 +55,5 @@ layout: default
 				</aside>
 			</div><!-- /.content -->
 		</div><!-- /.inner-wrap -->
-		{% if page.ads == true %}<div class="ads">{% include advertising.html %}</div><!-- /.ads -->{% endif %}
 	</article><!-- ./wrap -->
 </div><!-- /#main -->

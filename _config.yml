@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: "Desolate Runner"
-description: "Worth it in the long run"
+title: "Tobias Johansson"
+description: "Mountain lemmel, wordsmith and maker of visual things."
 logo: # 120x120 px default image used for Twitter summary card
 teaser: hero-img-teaser.jpg # 400x250 px default teaser image used in image archive grid
 locale: en_US
-url: "http://desolaterunner.com" # comment out when developing locally
+url: "https://tobiasjohansson.se" # comment out when developing locally
 # baseurl: /
 
 # Jekyll configuration
@@ -13,19 +13,31 @@ url: "http://desolaterunner.com" # comment out when developing locally
 sass:
   sass_dir: _sass
   style: compressed
-permalink: /:categories/:title/
+permalink: /journal/:title/
 kramdown:
   toc_levels: 1..2
 highlighter: rouge
 feed:
   path: atom.xml
-paginate: 5
+paginate: 9
 paginate_path: "/journal/page:num/"
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-redirect-from
+
+# Compress settings
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: []
+  blanklines: false
+  profile: false
+  startings: [head]
 
 #Prose.io settings
 prose:
@@ -76,11 +88,16 @@ prose:
           value: |
             feature:
             teaser:
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          value: CURRENT_DATETIME
       - name: "modified"
         field:
           element: "text"
           label: "Modified"
-          value: CURRENT_DATETIME
+          value:
       - name: "ads"
         field:
           element: "checkbox"
@@ -142,11 +159,16 @@ prose:
           value: |
             feature:
             teaser:
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          value: CURRENT_DATETIME
       - name: "modified"
         field:
           element: "text"
           label: "Modified"
-          value: CURRENT_DATETIME
+          value:
       - name: "ads"
         field:
           element: "checkbox"
@@ -172,9 +194,10 @@ owner:
   email: info@desolaterunner.com
   twitter:
   instagram: desolaterunner
+  facebook: desolaterunner
   google:
-    ad-client:
-    ad-slot:
+    ad-client: ca-pub-7422617776453761
+    ad-slot: 1223360338
   bio: "A runner based in Stockholm, Sweden"
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname: desolaterunner
@@ -184,17 +207,17 @@ owner:
 footer-links:
   dribbble:
   email: info@desolaterunner.com
-  facebook:
+  facebook: desolaterunner
   flickr:
   github:
   instagram: desolaterunner
   linkedin:
   pinterest:
   rss: RSS
-  twitter:
+  twitter: desolaterunner
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  youtube: channel/UCVVU6ccjz0umc-0BepWv4og
+  strava: athletes/9959817
 
 include:
   - .htaccess

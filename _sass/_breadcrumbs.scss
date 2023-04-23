@@ -5,6 +5,7 @@
 .breadcrumbs {
     @include row;
     margin-top: $gutter;
+    padding: 0 $gutter;
     @include font-size(10, no);
     a {
         display: inline-block;

@@ -16,6 +16,9 @@
 	text-decoration: none;
 	border: 0 !important;
 	border-radius: 10 * $border-radius;
+    text-transform: uppercase;
+    font-weight: 400;
+    letter-spacing: .08rem;
 	@include transition(background 0.2s, border 0.2s);
 	&:hover {
 		color: $white;
@@ -131,7 +134,7 @@
 	color: $text-color !important;
 	line-height: 0;
 	padding: 10px;
-	i.fa {
+	i.fa, i.fab {
 		width: 18px;
 		text-align: center;
 		padding: 2px 0;

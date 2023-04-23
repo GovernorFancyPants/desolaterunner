@@ -1,7 +1,7 @@
 ul.tags-display {
     list-style-type: none;
     @include clearfix;
-    padding: 0;
+    padding: 0 $gutter;
     text-align: center;
     li {
         display: inline-block;
@@ -24,6 +24,9 @@ ul.tags-display {
         @include span-columns(8);
         @include shift(2);
         @include omega;
+    }
+    h2 {
+      padding: 0 $gutter;
     }
     ul {
         list-style-type: none;

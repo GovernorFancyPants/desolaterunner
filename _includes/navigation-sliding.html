@@ -1,4 +1,4 @@
-<nav role="navigation" id="js-menu" class="sliding-menu-content">
+<nav id="js-menu" class="sliding-menu-content">
   <!-- <h5>{{ site.title }} <span>{{ site.data.messages.locales[site.locale].toc }}</span></h5> -->
   <ul class="menu-item">
     {% for link in site.data.navigation %}<li>
@@ -10,7 +10,7 @@
     </li>{% endfor %}
   </ul>
 </nav>
-<button type="button" id="js-menu-trigger" class="sliding-menu-button lines-button x2" role="button" aria-label="Toggle Navigation">
+<button type="button" id="js-menu-trigger" class="sliding-menu-button lines-button x2" aria-label="Toggle Navigation">
   <span class="nav-lines"></span>
 </button>
 

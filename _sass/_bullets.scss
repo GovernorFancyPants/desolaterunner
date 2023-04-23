@@ -5,6 +5,7 @@
 .bullets {
 	$icon-bullet-size: $column;
 	overflow: auto;
+  padding: $gutter / 2;
 
 	// change ".three-col-bullet" class to this for two bullet layout
 	.two-col-bullet {

@@ -20,7 +20,7 @@ $(document).ready(function() {
             });
 
             var fa = $('<i/>', {
-                class: 'fa fa-adjust'
+                class: 'fab fa-strava'
             });
 
             stravaLink.prepend(fa);
