@@ -51,21 +51,6 @@ export default defineConfig({
             label: "Date",
             required: true,
           },
-          { 
-            type: "string",
-            name: "categories",
-            label: "Categories",
-          },
-          { 
-            type: "boolean",
-            name: "ads",
-            label: "Ads",
-          },
-          { 
-            type: "boolean",
-            name: "comments",
-            label: "Comments",
-          },
           {
             type: 'string',
             name: 'tags',
@@ -74,12 +59,6 @@ export default defineConfig({
             ui: {
               component: 'tags',
             }
-          },
-          {
-            type: "string",
-            name: "layout",
-            label: "Layout",
-            required: true,
           },
           {
             type: "object",
@@ -100,6 +79,27 @@ export default defineConfig({
                 required: true,
               },
             ],
+          },
+          { 
+            type: "string",
+            name: "categories",
+            label: "Categories",
+          },
+          { 
+            type: "boolean",
+            name: "ads",
+            label: "Ads",
+          },
+          { 
+            type: "boolean",
+            name: "comments",
+            label: "Comments",
+          },
+          {
+            type: "string",
+            name: "layout",
+            label: "Layout",
+            required: true,
           },
           {
             type: "string",
