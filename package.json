@@ -7,7 +7,7 @@
   "homepage": "http://mademistakes.com/",
   "license": "The MIT License (MIT)",
   "devDependencies": {
-    
+    "grunt": "~0.4.2"
   },
   "dependencies": {
     "@tinacms/cli": "^1.5.6",
