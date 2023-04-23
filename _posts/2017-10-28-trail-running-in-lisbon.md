@@ -5,38 +5,42 @@ redirect_from:
 ads: true
 categories: ''
 comments: true
-date: 2017-10-28 02:00:00 +0200
-excerpt: I recently moved to Lisbon, Portugal, with my girlfriend since she's doing
-  her masters here. I like to explore places by running and since I prefer trails
+date: '2017-10-28 02:00:00 +0200'
+excerpt: >-
+  I recently moved to Lisbon, Portugal, with my girlfriend since she's doing her
+  masters here. I like to explore places by running and since I prefer trails
   over roads I try to find good trails wherever I'm at.
 image:
-  feature: "/uploads/2017/10/20/IMG_5036-1.jpg"
-  teaser: "/uploads/2017/10/20/IMG_5036-teaser.jpg"
-introduction: I recently moved to Lisbon, Portugal, with my girlfriend since she's
-  doing her masters here. I like to explore places by running and since I prefer trails
-  over roads I try to find good trails wherever I'm at. I thought I'd do a series
-  of posts with my best tips on trail running in the Lisbon area.
+  feature: /uploads/2017/10/20/IMG_5036-1.jpg
+  teaser: /uploads/2017/10/20/IMG_5036-teaser.jpg
+introduction: >-
+  I recently moved to Lisbon, Portugal, with my girlfriend since she's doing her
+  masters here. I like to explore places by running and since I prefer trails
+  over roads I try to find good trails wherever I'm at. I thought I'd do a
+  series of posts with my best tips on trail running in the Lisbon area.
 layout: article
 modified: ''
 tags:
-- portugal
-- trail
-- trail running
-- ultra
-- running
-- lisbon
-- cabo da roca
-- monsanto
-- azinhas do mar
-- setúbal
-- arrábida
-- sintra
-- portinho da arrábida
-- movescount
-- suunto
-- ambit3
+  - portugal
+  - trail
+  - trail running
+  - ultra
+  - running
+  - lisbon
+  - cabo da roca
+  - monsanto
+  - azinhas do mar
+  - setúbal
+  - arrábida
+  - sintra
+  - portinho da arrábida
+  - movescount
+  - suunto
+  - ambit3
 title: Trail running in Lisbon
+_template: post_template
 ---
+
 ### Monsanto Forest Park
 
 **How to get there?**

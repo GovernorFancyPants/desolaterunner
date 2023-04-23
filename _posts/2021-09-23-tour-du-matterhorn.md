@@ -5,22 +5,25 @@ ads: true
 title: Tour du Matterhorn
 categories: ''
 tags:
-- matterhorn
-- mountains
-- tour du matterhorn
-- zermatt
-excerpt: A while ago me and Petter headed to Zermatt hungry for adventure. We had
-  no plans going in, but after some deliberation we decided to try to circumnavigate
-  one of the the most iconic peaks in Europe.
-introduction: A while ago me and Petter headed to Zermatt hungry for adventure. We
-  had no plans going in, but after some deliberation we decided to try to circumnavigate
-  one of the the most iconic peaks in Europe.
+  - matterhorn
+  - mountains
+  - tour du matterhorn
+  - zermatt
+excerpt: >-
+  A while ago me and Petter headed to Zermatt hungry for adventure. We had no
+  plans going in, but after some deliberation we decided to try to
+  circumnavigate one of the the most iconic peaks in Europe.
+introduction: >-
+  A while ago me and Petter headed to Zermatt hungry for adventure. We had no
+  plans going in, but after some deliberation we decided to try to
+  circumnavigate one of the the most iconic peaks in Europe.
 image:
-  feature: "/uploads/2021/09/23/pxl_20210808_044216857_2-resized.jpg"
-  teaser: "/uploads/2021/09/23/pxl_20210808_044216857_2-thumb.jpg"
-date: 2021-09-23 11:00:00 +0200
-
+  feature: /uploads/2021/09/23/pxl_20210808_044216857_2-resized.jpg
+  teaser: /uploads/2021/09/23/pxl_20210808_044216857_2-thumb.jpg
+date: '2021-09-23 11:00:00 +0200'
+_template: post_template
 ---
+
 Hungry for adventure and longing for that sense of novelty, me and Petter Restorp headed to Zermatt without any real plan other than having a good time in the mountains.  
   
 We quickly ran up to Schönbielhütte ahead of the storm, which arrived at the hut only minutes after us. With time to kill we researched a few options for the following days.  

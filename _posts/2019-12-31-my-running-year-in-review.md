@@ -5,28 +5,31 @@ ads: true
 title: My running year in review
 categories: ''
 tags:
-- running
-- utmb
-- ultra trail du mont blanc
-- MCC
-- Chamonix
-- Lavaredo
-- new year
-- swedish alpine ultra
-- sau
-- stockholms brantaste
-- parkrun
-- Sweden Irontrail
-excerpt: It's that time of year again, where one reflects on what has been and decides
+  - running
+  - utmb
+  - ultra trail du mont blanc
+  - MCC
+  - Chamonix
+  - Lavaredo
+  - new year
+  - swedish alpine ultra
+  - sau
+  - stockholms brantaste
+  - parkrun
+  - Sweden Irontrail
+excerpt: >-
+  It's that time of year again, where one reflects on what has been and decides
   what to bring along into the next year and what to leave behind.
-introduction: It's that time of year again, where one reflects on what has been and
-  decides what to bring along into the next year and what to leave behind.
+introduction: >-
+  It's that time of year again, where one reflects on what has been and decides
+  what to bring along into the next year and what to leave behind.
 image:
-  feature: "/uploads/2019/12/31/IMG_0677 (1).JPG"
-  teaser: "/uploads/2019/12/31/IMG_0677 (2).JPG"
-date: 2019-12-31 00:00:00 +0100
-
+  feature: /uploads/2019/12/31/IMG_0677 (1).JPG
+  teaser: /uploads/2019/12/31/IMG_0677 (2).JPG
+date: '2019-12-31 00:00:00 +0100'
+_template: post_template
 ---
+
 After a bit of a break from running during the holidays the year started with challenging conditions in Stockholm. [My Strava logs](https://www.strava.com/athletes/9959817 "https://www.strava.com/athletes/9959817") paint a picture of icy trails around the city and my runs being hit and miss every time. The body would feel perfectly fine one day and incredibly tired the other. But come February things started to look better. Long runs were actual long runs and the training was consistent by then.
 
 In March I did my very first speed block which took some time getting used to, and I still am trying to figure it out. I did a lot of 200m intervals but soon it turned out I probably had the necessary leg speed, my problem was my thresholds, they were way too low. But instead of changing up that speed block I continued what I was doing and tried to improve as much as I could from that kind of training.

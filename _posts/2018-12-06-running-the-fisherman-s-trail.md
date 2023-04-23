@@ -3,25 +3,28 @@ title: Running The Fisherman's Trail
 layout: article
 comments: true
 ads: true
-date: 2019-12-15T16:01:56.000+00:00
+date: 2019-12-15T16:01:56.000Z
 categories: ''
 tags:
-- rota vicentina
-- fishermans trail
-- portugal
-- alentejo
-- trail
-- running
-- coast
-excerpt: A year and a half ago me and my friend Pedro set out on a mission to explore
+  - rota vicentina
+  - fishermans trail
+  - portugal
+  - alentejo
+  - trail
+  - running
+  - coast
+excerpt: >-
+  A year and a half ago me and my friend Pedro set out on a mission to explore
   the south west coast of Portugal, more specifically the Fisherman's Trail.
-introduction: A year and a half ago me and my friend Pedro set out on a mission to
-  explore the south west coast of Portugal, more specifically the Fisherman's Trail.
+introduction: >-
+  A year and a half ago me and my friend Pedro set out on a mission to explore
+  the south west coast of Portugal, more specifically the Fisherman's Trail.
 image:
-  feature: "/uploads/2019/12/13/IMG_7365 (1).JPG"
-  teaser: "/uploads/2019/12/13/IMG_7365 (2).JPG"
-
+  feature: /uploads/2019/12/13/IMG_7365 (1).JPG
+  teaser: /uploads/2019/12/13/IMG_7365 (2).JPG
+_template: post_template
 ---
+
 I made this short documentary about our adventure that didn't go quite as planned but nonetheless was a great experience and a lot of fun.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PgKfAXEWAIs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style=" margin-top: 40px;"></iframe>

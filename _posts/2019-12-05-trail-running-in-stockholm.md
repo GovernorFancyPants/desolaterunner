@@ -5,23 +5,28 @@ ads: true
 title: Trail running in Stockholm
 categories: ''
 tags:
-- running
-- stockholm
-- sweden
-- trail
-- smultronställe
-excerpt: This might be Stockholms best kept trail secret. If you go here you'll experience
-  one of the best trails around and you usually won't bump into a lot of people.
-introduction: |-
+  - running
+  - stockholm
+  - sweden
+  - trail
+  - smultronställe
+excerpt: >-
+  This might be Stockholms best kept trail secret. If you go here you'll
+  experience one of the best trails around and you usually won't bump into a lot
+  of people.
+introduction: >-
   [Swedish] Smultronställe - Lit. 'place of wild strawberries'
 
-  A discovered space special to you, treasured and returned to for solace and relaxation; a personal idyll free from stress.
-image:
-  feature: "/uploads/2019/12/05/IMG_7656-1.JPG"
-  teaser: "/uploads/2019/12/05/IMG_7656 (2).JPG"
-date: 2019-12-05 00:00:00 +0100
 
+  A discovered space special to you, treasured and returned to for solace and
+  relaxation; a personal idyll free from stress.
+image:
+  feature: /uploads/2019/12/05/IMG_7656-1.JPG
+  teaser: /uploads/2019/12/05/IMG_7656 (2).JPG
+date: '2019-12-05 00:00:00 +0100'
+_template: post_template
 ---
+
 I've been living in Stockholm for many a year now, way to many to tell the truth, that's why I recently moved to Chamonix. But through the years I've discovered most of the trails and worth while paths this city has to offer. In this post I'll share my favorites with you and all of these are easily accessible with public transport.
 
 These are my smultronställen of trail running in Stockholm, do enjoy them in my absence.

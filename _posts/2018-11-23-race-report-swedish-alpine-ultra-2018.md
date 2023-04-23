@@ -3,25 +3,29 @@ title: Race report Swedish Alpine Ultra 2018
 layout: article
 comments: true
 ads: true
-date: 2018-11-23 13:00:00 +0100
+date: '2018-11-23 13:00:00 +0100'
 categories: race-reports
 tags:
-- swedish alpine ultra
-- running
-- race report
-- ultra
-- sau
-excerpt: Six, that's how many times I've run this course, the most famous part of
-  the Kungsleden trail, that starts in Nikkaluokta and ends in Abisko. I've run it
-  the opposite way once and I think it's fair to say that I know it like the back
-  of my hand. Still there's something new to discover every year.
+  - swedish alpine ultra
+  - running
+  - race report
+  - ultra
+  - sau
+excerpt: >-
+  Six, that's how many times I've run this course, the most famous part of the
+  Kungsleden trail, that starts in Nikkaluokta and ends in Abisko. I've run it
+  the opposite way once and I think it's fair to say that I know it like the
+  back of my hand. Still there's something new to discover every year.
 introduction: ''
 image:
-  feature: "/uploads/2018/11/23/37344144_486259621801140_8154366268997107712_o-2 (1).jpg"
-  teaser: "/uploads/2018/11/23/37344144_486259621801140_8154366268997107712_o-2 (2)-teaser.jpg"
+  feature: /uploads/2018/11/23/37344144_486259621801140_8154366268997107712_o-2 (1).jpg
+  teaser: >-
+    /uploads/2018/11/23/37344144_486259621801140_8154366268997107712_o-2
+    (2)-teaser.jpg
 modified: ''
-
+_template: post_template
 ---
+
 Six, that's how many times I've run this course, the most famous part of the Kungsleden trail, that starts in Nikkaluokta and ends in Abisko. I've run it the opposite way once and I think it's fair to say that I know it like the back of my hand. Still there's something new to discover every year. The conditions changes and so does the weather. This year was no different, the snow melt had started earlier than usual and it seemed like it would be the driest year yet, but that's not always a good thing.
 
 Me and my friend Mikael had decided to drive up to the start this year, make a road trip out of it. I'm not entirely sure why I thought this was a good idea. I hate driving and it isn't awesome for my back to sit still for a huge amount of hours at a time. But in the end I guess the adventure and the company more than makes up for that. It's a blast just hanging out with your friend and getting to see a lot of this beautiful country of ours and we also planned to head over to Norway for a few days after the race.

@@ -5,24 +5,28 @@ ads: true
 title: Anatomy of a DNF
 categories: ''
 tags:
-- dnf
-- did not finish
-- utmb
-- costa blanca trails
-- lavaredo
-- swedish alpine ultra
-- ultra trail du mont blanc
-excerpt: After the first one it gets surprisingly easy, as a matter of fact it's easier
-  to find a reason to quit than to go on and if you're not careful it turns into a
-  dark pattern real fast.
-introduction: 'The anatomy of a DNF (Did Not Finish) is more intricate than one thinks.
-  It can affect whole careers if one is not careful and it does so almost unseeingly. '
+  - dnf
+  - did not finish
+  - utmb
+  - costa blanca trails
+  - lavaredo
+  - swedish alpine ultra
+  - ultra trail du mont blanc
+excerpt: >-
+  After the first one it gets surprisingly easy, as a matter of fact it's easier
+  to find a reason to quit than to go on and if you're not careful it turns into
+  a dark pattern real fast.
+introduction: >-
+  The anatomy of a DNF (Did Not Finish) is more intricate than one thinks. It
+  can affect whole careers if one is not careful and it does so almost
+  unseeingly. 
 image:
-  feature: "/uploads/2019/11/13/IMG_0874 (1).JPG"
-  teaser: "/uploads/2019/11/13/IMG_0874-thumbnail.JPG"
-date: 2019-11-13 00:00:00 +0100
-
+  feature: /uploads/2019/11/13/IMG_0874 (1).JPG
+  teaser: /uploads/2019/11/13/IMG_0874-thumbnail.JPG
+date: '2019-11-13 00:00:00 +0100'
+_template: post_template
 ---
+
 Eventually it happens to everyone. It can be from stomach problems, overuse injury or an acute injury, from mental exhaustion to just pure physical exhaustion. But whatever the reason, it sucks. It really, really sucks. The worst part isn't when you make the actual decision, in fact, that might just be one of the best feelings. But give it some time, be it moments after you've handed in your bib, hours maybe, could be days or even months, but it will come back around to haunt you. The guilt of having given up on yourself, the self doubt and the loathing. Could I have continued? Did I have more in me? Why wasn't I mentally stronger? If only I had rested for a minute and ate another gel, would that have made a difference? Did I not try hard enough? And on and on it goes until you go absolutely insane.
 
 ![Thunderstorm over town](/uploads/2019/11/13/IMG_0074.JPG "Thunderstorm rolling in")

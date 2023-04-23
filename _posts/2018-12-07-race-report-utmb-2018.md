@@ -3,27 +3,31 @@ title: Race Report UTMB 2018
 layout: article
 comments: true
 ads: true
-date: 2018-12-07T02:02:33.000+00:00
+date: 2018-12-07T02:02:33.000Z
 categories: race-reports
 tags:
-- utmb
-- ultra trail du mont blanc
-- ultra
-- running
-- chamonix
-- france
-excerpt: Suddenly we were off, after all the expectations and build up and craziness
+  - utmb
+  - ultra trail du mont blanc
+  - ultra
+  - running
+  - chamonix
+  - france
+excerpt: >-
+  Suddenly we were off, after all the expectations and build up and craziness
   surrounding the race it felt almost anti-climatic.
-introduction: As I was walking up the hill, still pitch dark outside, I looked back
-  and saw a trail of headlamps, knowing that by the time I get to the peak most of
-  them will have already passed me. I felt sick to my stomach, feeling like I’d have
-  to throw up every step I took. I had been going for somewhere around eight hours
-  and I knew I’d had to quit the race, I just didn’t wan’t to admit that to myself.
+introduction: >-
+  As I was walking up the hill, still pitch dark outside, I looked back and saw
+  a trail of headlamps, knowing that by the time I get to the peak most of them
+  will have already passed me. I felt sick to my stomach, feeling like I’d have
+  to throw up every step I took. I had been going for somewhere around eight
+  hours and I knew I’d had to quit the race, I just didn’t wan’t to admit that
+  to myself.
 image:
-  feature: "/uploads/2019/08/06/IMG_8154-1.jpg"
-  teaser: "/uploads/2019/08/06/IMG_8154_teaser-1.jpg"
-
+  feature: /uploads/2019/08/06/IMG_8154-1.jpg
+  teaser: /uploads/2019/08/06/IMG_8154_teaser-1.jpg
+_template: post_template
 ---
+
 But let’s back up a bit first, I signed up for UTMB thinking it would take me a couple of tries before I got in. A lot of people want to run this race and chances of getting in on the first try are slim. I knew I wasn’t ready for it, but I thought I could be in a couple of years, and then I wanted to have a better chance at getting a starting bib and so I entered the lottery. I don’t know if there’s a saying, it definitely should be if there isn’t already, great things come to those who doesn’t want it. Of course I got in and knowing the odds of that it’s tough to not accept the gift you’ve been given.
 
 Fast forward almost a year and the UTMB week is already here. I’ve probably had the best year of training thus far in my life with a huge focus on this race. Even though I didn’t expect to be running this year I had to refocus all my training with the goal of successfully completing the UTMB and with that my first 100-miler. And even though training had been going excellent I still didn’t feel ready. This race and the 100 mile distance requires so much more than training, it takes all out of you. A 100k is possible to just toughen out and get done even if you don’t have your best day. This is something different, a new beast all together.

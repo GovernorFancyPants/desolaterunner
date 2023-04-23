@@ -5,22 +5,25 @@ ads: true
 title: What running was like during confinement
 categories: ''
 tags:
-- running
-- chamonix
-- drills
-- confinement
-- covid-19
-- france
-excerpt: A rundown of what confinement was like, from a runners perspective, living
-  in an outdoor paradise.
-introduction: A rundown of what confinement was like, from a runners perspective,
-  living in an outdoor paradise.
+  - running
+  - chamonix
+  - drills
+  - confinement
+  - covid-19
+  - france
+excerpt: >-
+  A rundown of what confinement was like, from a runners perspective, living in
+  an outdoor paradise.
+introduction: >-
+  A rundown of what confinement was like, from a runners perspective, living in
+  an outdoor paradise.
 image:
-  feature: "/uploads/2020/06/18/img_20200618_154342.jpg"
-  teaser: "/uploads/2020/06/18/img_20200618_154342_thumb.jpg"
-date: 2020-06-19 00:00:00 +0200
-
+  feature: /uploads/2020/06/18/img_20200618_154342.jpg
+  teaser: /uploads/2020/06/18/img_20200618_154342_thumb.jpg
+date: '2020-06-19 00:00:00 +0200'
+_template: post_template
 ---
+
 I live in Chamonix, France, considered by many as the absolute outdoor capital of Europe. When things first started moving around Covid-19 it seemed like this would be the perfect place to be. Having all these amazing surroundings all for ourselves, not many seasonal tourists around and the french weren't likely to come here for vacation during an epidemic. It turned out to be more of a tease than anything when one has this enormous mountainous playground so close but still so far away.
 
 Confinement here in France meant we weren't able to leave our houses except for absolutely necessary things like grocery shopping and going to the doctors but also for light exercise close to home. We were allowed to go out for a maximum of 1 hour a day and not further than 1 distance kilometer and 100 vertical meters from our place of residence. At all times we were outside we needed to have a dated and time stamped attestation of the reason for being outside.
