@@ -206,15 +206,15 @@ owner:
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: info@desolaterunner.com
-  facebook: desolaterunner
+  email: mail@tobiasjohansson.se
+  facebook:
   flickr:
   github:
-  instagram: desolaterunner
+  instagram: tbs.johansson
   linkedin:
   pinterest:
   rss: RSS
-  twitter: desolaterunner
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: channel/UCVVU6ccjz0umc-0BepWv4og
   strava: athletes/9959817
