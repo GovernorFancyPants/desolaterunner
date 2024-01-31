@@ -5,7 +5,7 @@ description: "Mountain lemmel, wordsmith and maker of visual things."
 logo: # 120x120 px default image used for Twitter summary card
 teaser: hero-img-teaser.jpg # 400x250 px default teaser image used in image archive grid
 locale: en_US
-url: "https://tobiasjohansson.se" # comment out when developing locally
+url: "https://desolaterunner.com" # comment out when developing locally
 # baseurl: /
 
 # Jekyll configuration

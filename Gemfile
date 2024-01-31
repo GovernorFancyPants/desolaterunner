@@ -7,3 +7,5 @@ gem "jekyll-gist"
 gem "jekyll-feed"
 gem "jekyll-paginate"
 gem "jekyll-redirect-from"
+
+gem "webrick", "~> 1.8"
